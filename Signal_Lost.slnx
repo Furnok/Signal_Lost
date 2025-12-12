@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Signal_Lost.vcxproj" Id="dcba8a2e-3908-454c-b8eb-0862c42968ca" />
+</Solution>

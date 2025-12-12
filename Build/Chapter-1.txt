@@ -1,0 +1,941 @@
+[Chapter=1][Name=The Call...][Connection=4][Trust=50][StartScene=1]
+
+[Scene=1
+[BeepBack=True][Connection=4][Timer=15]
+[Content=
+[Color=Gray]*B[Beep=True]eep*[Color=White]...[Wait=500] [Color=Gray]*B[Beep=True]eep*[Color=White]...[Wait=500] [Color=Gray]*B[Beep=True]eep*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]{INCOMING CALL: UNKNOWN}[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=2][Content=Pick it up.]]
+[Choice2=[Default=True][NextScene=3][Content=Hang up.]]
+]
+]
+
+[Scene=2
+[Connection=2]
+[Content=
+[Color=Gray]*Click*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]*SHKRRRRRRRRR*[Color=White]...H-Hello? Is someone there-[Color=Gray]*SHKRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+How does this thing wor-[Color=Gray]*SHKRRRRRRRRRR*[Color=White]...[Wait=500] Can you hear m-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+Hello?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=4][Content=Hello?]]
+]
+]
+
+[Scene=3
+[Connection=0]
+[Content=
+[Color=Gray]*Static*[Color=White]...[Wait=500][Space=2]
+.[Wait=500].[Wait=500].[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{NO ONE ANSWERED. NO ONE EVER WILL?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=1][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[Menu=True][Content=Menu.]]
+[Choice3=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=4
+[Content=
+[Color=Gray]*SHKRRRRRR*[Color=White]-MY GOD! I’ve been stuck here-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]-for days. It feels so good to hear someone’s voice...[Wait=500][Space=2]
+[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-Any idea what’s happening? Who are y-[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-I, and why am I here?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=5][Content=Who are you?]]
+[Choice2=[NextScene=6][Content=What? I can’t understand half of what you're saying!]]
+]
+]
+
+[Scene=5
+[Content=
+I’m-[Color=Gray]*SHKRRRRRRRRR*[Color=White]. I don’t know how-[Color=Gray]*SHKRRRRRRRRR*[Color=White]-I can't get out...[Wait=500][Space=2]
+And you-[Color=Gray]*SHKRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+Are-[Color=Gray]*SHKRRRRRRRR*[Color=White]-still there?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=6][Content=Your signal is terrible!]]
+]
+]
+
+[Scene=6
+[Connection=2]
+[Content=
+Fuck! The signal’s scram-[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] There must be a way to-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]...[Wait=500] [Color=Gray]*Snap*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...[Wait=500] A-Are you there? Can you hear me more clearly?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=7][Content=Yeah, I think so?]]
+]
+]
+
+[Scene=7
+[Connection=3]
+[Content=
+Oh, thank God... It’s so nice to hear another voice.[Wait=500][Space=2]
+It’s been an eternity since I last spoke to anyone. Any longer, and I would have gone completely nuts.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=8][Content=Are you in any danger?]]
+[Choice2=[NextScene=9][Content=Where are you?]]
+[Choice3=[NextScene=10][Content=Why did you call me?]]
+]
+]
+
+[Scene=8
+[Content=
+I... I don’t know. I’ve been stuck on this island for two, maybe three days... I can't even tell anymore...[Wait=500][Space=2]
+It really feels like I'm the only one here, there’s not a living soul in sight...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=13][Content=Where are you?]]
+[Choice2=[NextScene=15][Content=Why did you call me?]]
+[Choice3=[NextScene=21][Content=Stop. Is this a prank call?]]
+]
+]
+
+[Scene=9
+[Content=
+The last few days of my life have been a total blur, I can’t even remember what day it is![Wait=500][Space=2]
+I-I’m all alone on this weird island. I’ve been searching for someone for hours now.[Wait=500][Space=2]
+All I’ve managed to find are more ruins.[Wait=500][Space=2]
+It's like an abandoned city.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=11][Content=Are you in any danger?]]
+[Choice2=[NextScene=16][Content=Why did you call me, though?]]
+[Choice3=[NextScene=21][Content=Enough. Are you trying to prank me?]]
+]
+]
+
+[Scene=10
+[Content=
+Can’t even tell! I just found this old flip phone on a shelf.[Wait=500][Space=2]
+It started a call the moment I opened it![Wait=500][Space=2]
+There's nothing else on that piece of junk, no contacts, no internet access, just this call number.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=12][Content=Are you in any danger?]]
+[Choice2=[NextScene=14][Content=Where are you?]]
+[Choice3=[NextScene=21][Content=Cut it off. Just admit it's a prank.]]
+]
+]
+
+[Scene=11
+[Content=
+Th-[Wait=500] This place feels empty, like I said,[Wait=500] but you don't wake up in a ghost-town-looking place and feel safe.[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I mean, how does something like this even happen?[Wait=500][Space=2]
+It's all just like a bad hangover![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=19][Content=Why me, of all people?]]
+[Choice2=[NextScene=20][Content=Okay, what's next?]]
+]
+]
+
+[Scene=12
+[Content=
+Hard to tell...[Wait=500] But I'm not going to lie, it's hard not to freak out about waking up on a random island...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I-[Wait=500] Who knows what could be hiding in those buildings? Ha-[Wait=500] It’s hard to stay rational after what happened to me![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=18][Content=Where exactly are you?]]
+[Choice2=[NextScene=20][Content=And what does that mean for me?]]
+]
+]
+
+[Scene=13
+[Content=
+In a mall.[Wait=500] I figured that if I could find anything to help me, it would be there...[Wait=500][Space=2]
+Now, I'm going to cross to the other side to see if there's anything in that part of town.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=19][Content=Why did you call me?]]
+[Choice2=[NextScene=20][Content=I'm sorry, but how can I help you?]]
+]
+]
+
+[Scene=14
+[Content=
+Oh yeah, forgot about that...[Wait=500] I'm in what appears to be the city's supermarket.[Wait=500][Space=2]
+I came here to find equipment to survive in the first place.[Wait=500][Space=2]
+And...[Wait=500] It's almost empty now, and most of what's left is either completely ruined or covered in trash.[Wait=500][Space=2]
+...[Wait=500][Space=2]
+Also, the food is so moldy that it makes me sick to my stomach just by looking at it.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=17][Content=Survive? Are you in any danger?]]
+[Choice2=[NextScene=20][Content=I’m not sure what to tell you...]]
+]
+]
+
+[Scene=15
+[Content=
+Can't even tell myself.[Wait=500][Space=2]
+I-[Wait=500] I picked up a random phone I found on a shelf, and it called you without me even dialing your number.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=18][Content=Where are you?]]
+[Choice2=[NextScene=20][Content=So, what do you expect from me?]]
+]
+]
+
+[Scene=16
+[Content=
+I found this phone in the supermarket, and simply opening it started a call.[Wait=500][Space=2]
+*Button presses*[Wait=500][Space=2]
+It doesn't seem to have any apps installed, I can't even access the contacts.[Wait=500][Space=2]
+Calling you was the only thing I could do with this dusty relic of a device.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=17][Content=Okay, are you in any danger?]]
+[Choice2=[NextScene=20][Content=What can I do about that?]]
+]
+]
+
+[Scene=17
+[Content=
+There's no certainty... This place feels so empty. Hauntingly empty, the unnatural kind of loneliness...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I'm being dramatic for a reason.[Wait=500] It's chilling.[Wait=500] Something's wrong with this place.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=21][Content=I don't know... It feels kind of hard to believe. Is it a prank?]]
+[Choice2=[NextScene=26][TrustAdd=25][Content=Okay, stay calm. There must be an explanation.]]
+]
+]
+
+[Scene=18
+[Content=
+I'm still in the supermarket where I found the phone. Most of the shelves have collapsed, and everything is ruined.[Wait=500][Space=2]
+Apart from the phone, I couldn’t find anything useful.[Wait=500][Space=2]
+And judging by the looks of it, the food is probably months or even years past its expiry date.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=21][Content=What makes me think this isn't a bad prank?]]
+[Choice2=[NextScene=26][TrustAdd=25][Content=Stay on the line, I'll help you.]]
+]
+]
+
+[Scene=19
+[Content=
+You?[Wait=500] I have no idea. I just found this phone on one of the mall shelves.[Wait=500][Space=2]
+I didn't even call you myself, the call started as soon as I picked it up.[Wait=500][Space=2]
+...[Wait=500][Space=2]
+The strangest part is that this phone was the only piece of tech that was working.[Wait=500][Space=2]
+That, and the way it functions, makes me think all of this is orchestrated...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=21][Content=Kind of hurting your credibility with the conspiracy stuff, it feels like a prank.]]
+[Choice2=[NextScene=26][TrustAdd=25][Content=Yeah, definitely. Let's get you out of here.]]
+]
+]
+
+[Scene=20
+[Content=
+I-[Wait=500] I just need you to stay on the call with me.[Wait=500] For now, you seem to be my only link to the outside world.[Wait=500][Space=2]
+...[Wait=500][Space=2]
+And a bit of guidance wouldn't hurt either, I'm still feeling dizzy after all that mess.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=22][Content=I'm going to call the cops, it just doesn't feel safe.]]
+[Choice2=[NextScene=24][TrustAdd=-25][Content=Is it really my problem?]]
+[Choice3=[NextScene=26][Content=I'm not sure how much help I can be, but I'll try...]]
+]
+]
+
+[Scene=21
+[Content=
+I swear to God, it’s not!!![Wait=500][Space=2]
+Listen, it seems like you’re the only one I can rely on right now.[Wait=500][Space=2]
+You’re literally the first person I’ve talked to in the past few hours, or even days![Wait=500][Space=2]
+You’re my only way to communicate with the outside world, it’s just a matter of keeping my sanity at this point![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=22][Content=I should call the police.]]
+[Choice2=[NextScene=24][TrustAdd=-25][Content=How is that my concern?]]
+[Choice3=[NextScene=26][Content=Alright, I'll try to work something out with you.]]
+]
+]
+
+[Scene=22
+[Connection=2]
+[Content=
+PLEASE DON’T HANG UP! I just need someone to talk to![Wait=500][Space=2]
+I have no idea if either of us will even be able to call again if you hang up![Wait=500][Space=2]
+Wh-[Wait=500] whatever is happening to me is beyond anything they could believe anyway![Wait=500][Space=2]
+...[Wait=500][Space=2]
+[Color=Magenta][Beep=True]It[Wait=500][Beep=True] wO[Wait=500][Beep=True] uLd[Wait=500][Beep=True] bE uS[Wait=500][Beep=True] eLLeSs.[Wait=500][Beep=True] Ke[Wait=500][Beep=True] p tHe[Wait=500][Beep=True] CaLL[Wait=500][Beep=True] gO[Wait=500][Beep=True] iNg.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=23][Content=Yeah, I'm calling the police. Hold on, I'll call you back.]]
+[Choice2=[NextScene=27][Content=Okay, okay! Let's not panic.]]
+]
+]
+
+[Scene=23
+[Connection=0]
+[Content=
+PLEA-[Color=Gray]*B[Beep=True]eep*[Color=White]...[Wait=500][Space=2]
+.[Wait=500].[Wait=500].[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{COULD YOU HAVE SAVED THEM IF YOU HAD STAYED?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=1][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[Menu=True][Content=Menu.]]
+[Choice3=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=24
+[Connection=2]
+[Content=
+I have no idea! Your number was on that phone, that’s the only thing I know![Wait=500][Space=2]
+You can’t just ignore the fact that you’ve got something to do with this bullshit![Wait=500][Space=2]
+You can’t just leave me like that![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=25][Content=I have nothing to do with you. Please, don’t call me again.]]
+[Choice2=[NextScene=27][Content=Fine... How can I help you?]]
+]
+]
+
+[Scene=25
+[Connection=0]
+[Content=
+NO-[Color=Gray]*B[Beep=True]eep*[Color=White]...[Wait=500][Space=2]
+.[Wait=500].[Wait=500].[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{WAS ANY OF THIS EVER REAL?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=1][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[Menu=True][Content=Menu.]]
+[Choice3=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=26
+[Content=
+Oh! Thanks for your understanding, I really appreciate that.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=28][Content=I couldn't just leave you there!]]
+]
+]
+
+[Scene=27
+[Connection=3]
+[Content=
+Thank God![Wait=500] I just...[Wait=500] Really depend on you right now.[Wait=500][Space=2]
+I'm sorry to take your time like that, but I haven't really got a choice.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=28][Content=Alright, what's next?]]
+]
+]
+
+[Scene=28
+[Content=
+O-Okay! I gotta get out of the building first, just stay with me.[Wait=500][Space=2]
+[Color=Gray]*You hear the person’s footsteps echoing through the supermarket*[Color=White]...[Wait=500][Space=2]
+This place is huge, you don’t realize that until the mall’s empty.[Wait=500] Just, what happened he-[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I hear something.[Wait=500] Mechanical, screeching kind of noise.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=29][Content=That sounds dangerous. Can’t you just go back?]]
+[Choice2=[NextScene=30][Content=Maybe someone’s there! You should go check it out.]]
+]
+]
+
+[Scene=29
+[Content=
+I've been exploring this island for hours now and I've found nothing back where I was.[Wait=500][Space=2]
+It's the first time I hear anything other than the wind or the waves hitting the shore.[Wait=500][Space=2]
+So I'm not turning my back now.[Wait=500][Space=2]
+If there's any living soul in here that knows what the fuck is going on, I'll just go and talk to them.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=30][TrustAdd=25][Content=You might be right. Any help is welcome at this point.]]
+[Choice2=[NextScene=31][TrustAdd=-25][Content=Do what you want. Just don’t blame me if you get hurt.]]
+]
+]
+
+[Scene=30
+[Content=
+I hope whatever this is won't be hostile.[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...Not gonna lie, I'm kind of shitting my pants right now. I'll try to be stealthy, never too sure...[Wait=500][Space=2]
+[Color=Gray]*You hear a quiet breath and the mechanical noise slowly becoming louder*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=32][Content=So... What is it?]]
+]
+]
+
+[Scene=31
+[Content=
+Okay, rude?[Wait=500][Space=2]
+...If you keep talking to me in this tone...[Wait=500][Space=2]
+You know what, fuck it.[Wait=500][Space=2]
+I'm going to see where that noise comes from.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=32][Content=Did you find it?]]
+]
+]
+
+[Scene=32
+[Content=
+Shhhh...[Wait=500][Space=2]
+Wait...[Wait=500] I-It's an...[Wait=500][Space=2]
+...It's just a freaking escalator...[Wait=500][Space=2]
+...It's going weirdly fast, I've never seen an escalator this...[Wait=500] demented before.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=33][Content=Why is it making such a ruckus?]]
+[Choice2=[NextScene=34][Content=Why is it still working in an abandoned supermarket?]]
+[Choice3=[NextScene=35][Content=Where could it lead?]]
+]
+]
+
+[Scene=33
+[Content=
+It seems that the engine is overpowered. The escalator goes at a godly speed![Wait=500][Space=2]
+It rattles like a goddamn lawnmower.[Wait=500][Space=2]
+What the-[Wait=500] I can't even make out where the steps are, it's just so fast it's blurry![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=34][Content=I wonder why this thing is even working.]]
+[Choice2=[NextScene=35][Content=Where could it lead?]]
+[Choice3=[NextScene=36][Content=Try taking a step.]]
+[Choice4=[NextScene=40][Content=Can you see anything that might help?]]
+]
+]
+
+[Scene=34
+[Content=
+I've got no idea![Wait=500] All that remains here are ruins.[Wait=500][Space=2]
+Seems weird that the only working thing in this supermarket is a dysfunctional escalator.[Wait=500][Space=2]
+Even worse, it's preventing me from getting to the second floor![Wait=500][Space=2]
+It almost feels like this was made on purpose...[Wait=500][Space=2]
+Damn me, I'm making up the worst scenarios in my head now.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=33][Content=Why is it making so much noise?]]
+[Choice2=[NextScene=35][Content=Where does it lead?]]
+[Choice3=[NextScene=36][Content=Maybe you'll find answers by going to the first floor.]]
+[Choice4=[NextScene=40][Content=Is there anything else around you?]]
+]
+]
+
+[Scene=35
+[Content=
+I...[Wait=500] I can't tell.[Wait=500][Space=2]
+Oh wait! There is sunlight up here! I think I can access a new part of the island if I go up here.[Wait=500][Space=2]
+Even if I don't think I can go fast enough to compete against this escalator eh![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=33][Content=Why is it so loud?]]
+[Choice2=[NextScene=34][Content=Why is that still working?]]
+[Choice3=[NextScene=36][Content=Nice! Try climbing it, then.]]
+[Choice4=[NextScene=40][Content=Can you find anything else?]]
+]
+]
+
+[Scene=36
+[Connection=2]
+[Content=
+Hum...[Wait=500][Space=2]
+Okay? It might lead somewhere interesting.[Wait=500][Space=2]
+I just have to...[Wait=500] Take a step at the right...[Wait=500] Time...[Wait=500][Space=2]
+WOOAAH SHI-[Color=Gray]*THUMP*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=37][TrustAdd=-25][Content=Are you okay?!]]
+]
+]
+
+[Scene=37
+[Connection=3]
+[Content=
+...[Wait=500][Space=2]
+Ouch...[Wait=500][Space=2]
+That hurt as hell...[Wait=500][Space=2]
+What a brilliant idea you had! Stepping on an out-of-control esc-OUCH![Wait=500][Space=2]
+Would be nice if you don't advise me to be this idiotic next time... Okay?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=38][TrustAdd=25][Content=Right, sorry about that.]]
+[Choice2=[NextScene=39][TrustAdd=-25][Content=You're the one who chose to listen to me.]]
+]
+]
+
+[Scene=38
+[Content=
+Yes, yes...[Wait=500] No worries.[Wait=500][Space=2]
+It's just a little scratch, I can handle that.[Wait=500][Space=2]
+Anyway, there might be a way to stop that thing from going so fast.[Wait=500][Space=2]
+This escalator seems to be the only way to move forward, so let's search for a solution.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=40][Content=What do you see around you?]]
+]
+]
+
+[Scene=39
+[Content=
+Fuck off![Wait=500][Space=2]
+What tells me you didn't ask me to do that on purpose, huh?[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I'm overreacting, I just want to get out of here quickly.[Wait=500][Space=2]
+Let's not be stupid and find a way up here without getting hurt.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=40][Content=Right, right... Why don't you explore the supermarket then?]]
+]
+]
+
+[Scene=40
+[Content=
+Right, uhmmm...[Wait=500][Space=2]
+There seem to be two shelves that aren't empty in here.[Wait=500][Space=2]
+There is this food section.[Wait=500] I think I see some food cans and some fruits.[Wait=500][Space=2]
+I can see a kind of craft section behind me too.[Wait=500] There might be useful tools in here![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=41][NextSceneNoTrust=44][TrustNeed=50][Content=Head to the food section.]]
+[Choice2=[NextScene=42][NextSceneNoTrust=43][TrustNeed=50][Content=Head to the craft section.]]
+]
+]
+
+[Scene=41
+[Content=
+Okay![Wait=500] I'm hungry as hell, I wouldn't say no to a little snack.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]*Sniff*[Color=White][Wait=500] OH G-...[Wait=500] IT SMELLS TERRIBLE OVER HERE![Wait=500][Space=2]
+Shelves are filled with rotten fruits and vegeta-...[Wait=500][Space=2]
+[Color=Gray]*Glurp*[Color=White][Wait=500] Oh lord, I almost threw up...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=45][Content=Maybe it’s a better idea to check out the craft section...]]
+[Choice2=[NextScene=46][Content=Can you keep going? There might be something interesting here.]]
+]
+]
+
+[Scene=42
+[Content=
+Right, let's go![Wait=500] A good hammer is always useful, especially in the kind of situation I'm in, I guess.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+...Alright! Here I am.[Wait=500][Space=2]
+There are far fewer things on the shelves than I imagined.[Wait=500][Space=2]
+There is some door-wedge, packs of rusty nails...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=47][Content=Do you see anything else?]]
+]
+]
+
+[Scene=43
+[Content=
+Uhm...[Wait=500] I don't think going to this section will help me stop an escalator...[Wait=500][Space=2]
+I'm going to the craft section.[Wait=500] [Color=Gray]*Footsteps*[Color=White]...[Wait=500] Alright! Here I am.[Wait=500][Space=2]
+There are far fewer things on the shelves than I imagined.[Wait=500][Space=2]
+There is some door-wedge and packs of rusty nails...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=47][Content=Do you see anything else?]]
+]
+]
+
+[Scene=44
+[Content=
+You sure?[Wait=500] I mean, I'm hungry as hell, so I might take a bite if there was anything to eat.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500] [Color=Gray]*Sniff*[Color=White]...[Wait=500][Space=2]
+OH G-...[Wait=500] IT SMELLS TERRIBLE OVER HERE![Wait=500][Space=2]
+Shelves are filled with rotten fruits and vegeta-...[Wait=500][Space=2]
+[Color=Gray]*Glurp*[Color=White][Wait=500] Oh lord, I almost threw up...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=46][Content=Can you keep going? There might be something interesting here.]]
+]
+]
+
+[Scene=45
+[Content=
+Y-You're right... It's best to get out of here before I-...[Wait=500] [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+...Oof, one more second and I think I would have passed out.[Wait=500] Anyway, here I am.[Wait=500][Space=2]
+There are far fewer things on the shelves than I imagined.[Wait=500][Space=2]
+There is some door-wedge and rusty nails...[Wait=500] Nothing that could be useful in the end.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=47][Content=Is there anything else interesting?]]
+]
+]
+
+[Scene=46
+[Content=
+Yeah, I guess, but it's on-[Color=Gray]*Glurp*[Color=White]...[Wait=500] Only because you asked me nicely...[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500] Good heavens, aren't these trash supposed to be eaten by the bugs?[Wait=500][Space=2]
+Wait?[Wait=500] There's a cereal bar over here that still is good to eat![Wait=500][Space=2]
+[Color=Gray]*Crunch*[Color=White][Wait=500] Yum... That’s good to eat something...[Wait=500] [Color=Gray]*Gulp*[Color=White][Wait=500] Ah yes, I needed that.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=50][Content=Are you finished eating? Is there anything else here?]]
+]
+]
+
+[Scene=47
+[Content=
+I see... A door down the hall.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+I hear some sound behind it...[Wait=500] What do I do?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=48][TrustAdd=-25][Content=Kick the door down!]]
+[Choice2=[NextScene=49][Content=Open the door carefully.]]
+]
+]
+
+[Scene=48
+[Content=
+Alright. Let's do it the hard way.[Wait=500][Space=2]
+[Color=Gray]*KICK*[Color=White][Wait=500] POLICE, DON'T MOVE![Wait=500] Ouch ouch ouch! My foot hurt as hell now...[Wait=500][Space=2]
+Great! The door was clearly open! And there's no one here anyway... This door wasn't worth kicking.[Wait=500][Space=2]
+It's just a security room.[Wait=500] Everything seems out of pow-.[Wait=500][Space=2]
+...Oh my bad, seems to be one thing still working![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=51][Content=What could it be?]]
+]
+]
+
+[Scene=49
+[Content=
+Okay... Carefully...[Wait=500][Space=2]
+...[Wait=500] Well, there is clearly no one here.[Wait=500][Space=2]
+It's an old security room, everything is out of power.[Wait=500][Space=2]
+Oh no, my bad, the beeping sound is coming from here![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=51][Content=Is that something beeping?]]
+]
+]
+
+[Scene=50
+[Content=
+Let me see...[Wait=500] Ah AH![Wait=500] There's a door over here![Wait=500][Space=2]
+There is a sign with "Maintenance Room" marked on it.[Wait=500][Space=2]
+Lucky me, it seems unlocked.[Wait=500] [Color=Gray]*Sound of door opening*[Color=White]...[Wait=500][Space=2]
+...[Wait=500] Well yeah,[Wait=500] that surely looks like a maintenance room, or more like an abandoned maintenance room.[Wait=500][Space=2]
+...Oh my bad, seems to be one thing still working![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=51][Content=What is it?]]
+]
+]
+
+[Scene=51
+[Content=
+I-It's uuuuh...[Wait=500] A laptop, seems to be on the lockscreen.[Wait=500][Space=2]
+There's a post-it attached on the upper right corner of it.[Wait=500] It says [Color=Green]"Vaccine Rabies Year"[Color=White]...[Wait=500][Space=2]
+I don't know when that thing was![Wait=500][Space=2]
+...What?[Wait=500] I don't remember how I got here in the first place, don't expect me to remember this![Wait=500][Space=2]
+Anyway, you might want to search for that on the internet, it's a 4-digit password.[Wait=500] I'll try to log in.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=52][Content=Okay, go ahead, I'm going to search that in my browser.]]
+]
+]
+
+[Scene=52
+[Connection=2][Timer=60]
+[Content=
+Just have to press enter and...[Wait=500][Space=2]
+OH SHIT!![Wait=500][Space=2]
+THERE'S A FUCKING TIMER IN HERE, IT'S BEEPING![Wait=500][Space=2]
+I think the [Color=Green]"Vaccine Rabies Year"[Color=White] shit might be the password, FIND IT NOW![Wait=500][Space=2]
+I don't know what will happen if it reaches 0, BUT I DON'T WANT TO FIND OUT![Wait=500][Space=2]
+HURRY UP, WHAT'S THE PASSWORD?![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[Default=True][NextScene=53][Content=1985.]]
+[Choice2=[NextScene=53][Content=1903.]]
+[Choice3=[NextScene=53][Content=1895.]]
+[Choice4=[NextScene=55][Content=1885.]]
+[Choice5=[NextScene=53][Content=1850.]]
+]
+]
+
+[Scene=53
+[Connection=1]
+[Content=
+ALRIGHT, I'LL TYPE THIS...[Wait=500][Space=2]
+Oh...[Wait=500] Looks like the beeping sound sto-[Wait=500] [Color=Gray]*BOOOM*[Color=White][Wait=500] [Color=Gray]*SHKRRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=54][Content=Are you here?]]
+]
+]
+
+[Scene=54
+[Connection=0]
+[Content=
+[Color=Gray]*Static*[Color=White]...[Wait=500][Space=2]
+.[Wait=500].[Wait=500].[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{YOU FAILED TO FIND THE RIGHT PASSWORD. MAYBE IF YOU'D TRIED HARDER?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=1][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[Menu=True][Content=Menu.]]
+[Choice3=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=55
+[Connection=2]
+[Content=
+Alright, alright...[Wait=500][Space=2]
+I HOPE YOU'RE RIGHT![Wait=500][Space=2]
+Please don't explode, please don't explode, please don't explode...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=56][Content=Are you still alive?]]
+]
+]
+
+[Scene=56
+[Connection=3]
+[Content=
+Y-Yes?[Wait=500][Space=2]
+I think I am?[Wait=500][Space=2]
+...[Wait=500] I don't hear the escalator rumbling anymore, I think we've stopped it.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=57][Content=Seriously?]]
+]
+]
+
+[Scene=57
+[Content=
+I'm going to go and see if that's really what happened...[Wait=500][Space=2]
+Damn,[Wait=500] I wonder what would have happened if we didn't type the password in time.[Wait=500][Space=2]
+It might be better to forget about it right now.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500] Anyway, I see it from here. The escalator stopped as I was thinking.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=58][Content=You can climb it safely now!]]
+]
+]
+
+[Scene=58
+[Content=
+Let's find out![Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+...[Wait=500] Ahah! Yes! There's a door leading outside right here![Wait=500][Space=2]
+A bit of sunlight feels good after being in this gloomy supermarket.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=59][Content=So, you don't need my help anymore now?]]
+[Choice2=[NextScene=61][TrustAdd=25][Content=Nice job! What do you see outside?]]
+]
+]
+
+[Scene=59
+[Content=
+What?[Wait=500][Space=2]
+I'm still stuck on this island![Wait=500] I need your help until I get out of here![Wait=500][Space=2]
+I know that you didn't expect to help me today, but we're talking about life and death at this point.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=60][TrustAdd=-25][Content=I must’ve missed the part where your life became my problem.]]
+[Choice2=[NextScene=61][TrustAdd=25][Content=That’s fair enough. Let’s move forward.]]
+]
+]
+
+[Scene=60
+[Content=
+[Color=Gray]*Sigh*[Color=White]...[Wait=500][Space=2]
+I'd like to see you in my position.[Wait=500] You would have hung up if all of this didn't pique your interest, right?[Wait=500][Space=2]
+So stop trying to make everything about you and let's find out what's going on on this island.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=61][Content=You're the one exploring it, tell me what do you see!]]
+]
+]
+
+[Scene=61
+[Content=
+I think I landed in the main square of the city.[Wait=500][Space=2]
+The buildings seem taller compared to the ones I've seen before.[Wait=500][Space=2]
+There are multiple signs with different types of locations marked on them.[Wait=500][Space=2]
+And there is something weird in the middle of this place...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=62][Content=What is it?]]
+]
+]
+
+[Scene=62
+[Content=
+It's...[Wait=500][Space=2]
+A huge mechanical trapdoor.[Wait=500][Space=2]
+There's a huge "EXIT" word tagged on it.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=63][TrustAdd=25][Content=That's it! That's our way out!]]
+[Choice2=[NextScene=64][Content=Too obvious... It must be a trap.]]
+]
+]
+
+[Scene=63
+[Content=
+AHAHAHAH![Wait=500] You're right![Wait=500][Space=2]
+Now, how do I open this thing?[Wait=500][Space=2]
+There are no visible handles, and it looks far too resistant to be opened with my bare hands.[Wait=500][Space=2]
+Please tell me tha-... Oh![Wait=500] There's a command panel over here![Wait=500][Space=2]
+...[Wait=500] There's clearly a fuse missing here...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=66][Content=So, you'll be searching for it?]]
+]
+]
+
+[Scene=64
+[Content=
+Y-You might be right, but that's the first time I see something that brings me hope of getting out of here.[Wait=500][Space=2]
+If there is even a single chance that this trapdoor brings me back to civilization, I'll do everything to open it.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=65][Content=Can you open it now?]]
+]
+]
+
+[Scene=65
+[Content=
+Well… There's no handle attached to it anywhere...[Wait=500][Space=2]
+HNNG![Wait=500] Huff...[Wait=500] I can't open it with my bare hands either.[Wait=500][Space=2]
+It seems locked by some kind of electrical mechanism that leads to this control panel.[Wait=500][Space=2]
+...[Wait=500] There's clearly a fuse missing here...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=66][Content=You'll be searching for it?]]
+]
+]
+
+[Scene=66
+[Content=
+I don't know, but it's our only lead for now, so I'll make it my main objective from now on![Wait=500][Space=2]
+...[Wait=500] I don't know where to start now...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=67][Content=Wasn't there a fuse back at the supermarket?]]
+[Choice2=[NextScene=72][Content=Maybe we should check what's around?]]
+]
+]
+
+[Scene=67
+[Connection=2]
+[Content=
+No, I checked pretty much every shelf while I was inside, and there was nothing but dust on them.[Wait=500][Space=2]
+There might be other interesting locations out there.[Wait=500][Space=2]
+[Color=Magenta][Beep=True]S[Wait=500][Beep=True] eAr[Wait=500][Beep=True] cH[Wait=500][Beep=True] W[Wait=500][Beep=True] eLl.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=68][TrustAdd=-25][Content=Are you sure you can't go back into the supermarket?]]
+[Choice2=[NextScene=72][Content=Maybe check what's around?]]
+]
+]
+
+[Scene=68
+[Connection=3]
+[Content=
+Can't you just trust me for a second?[Wait=500][Space=2]
+I told you I checked everything, this damn place back then was filled with ruins and nothing more.[Wait=500][Space=2]
+...[Wait=500] There are signs leading to two different locations here. One is leading to a [Color=Green]"Factory"[Color=White] and the other to a [Color=Green]"Zoo"[Color=White].[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=69][Content=Where would you like to go?]]
+[Choice2=[NextScene=70][NextSceneNoTrust=73][TrustNeed=50][Content=Is there no other place you could go?]]
+]
+]
+
+[Scene=69
+[Content=
+Uuuh...[Wait=500][Space=2]
+I don't know...[Wait=500] You're the one that got me out of the supermarket, so I'll let you choose![Wait=500][Space=2]
+Where do you want me to explore?[Wait=500][Space=2]
+The [Color=Green]"Zoo"[Color=White] or the [Color=Green]"Factory"[Color=White]?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=3][NextScene=1][Content=Let's head to the "Zoo"!]]
+[Choice2=[NextChapter=4][NextScene=1][Content=Let's head to the "Factory"!]]
+]
+]
+
+[Scene=70
+[Content=
+I can search a bit more since you're nice...[Wait=500][Space=2]
+Oh![Wait=500] My bad.[Wait=500] There is a hidden sign behind the bushes.[Wait=500] It says [Color=Green]"Museum"[Color=White].[Wait=500][Space=2]
+Here you go![Wait=500] A third location to explore.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=71][Content=So, where are you headed, then?]]
+]
+]
+
+[Scene=71
+[Content=
+Uuuh...[Wait=500][Space=2]
+I don't know...[Wait=500] You're the one that got me out of the supermarket, so I'll let you choose![Wait=500][Space=2]
+Where do you want me to explore?[Wait=500][Space=2]
+The [Color=Green]"Zoo"[Color=White], the [Color=Green]"Factory"[Color=White], or the [Color=Green]"Museum"[Color=White]?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=2][NextScene=1][Content=Let's head to the "Museum"!]]
+[Choice2=[NextChapter=3][NextScene=1][Content=Let's head to the "Zoo"!]]
+[Choice3=[NextChapter=4][NextScene=1][Content=Let's head to the "Factory"!]]
+]
+]
+
+[Scene=72
+[Connection=3]
+[Content=
+Hmmm... The buildings here look exactly the same compared to the ones I crossed before calling you...[Wait=500][Space=2]
+Hey![Wait=500] There are signs leading to two different locations here.[Wait=500][Space=2]
+One is leading to a [Color=Green]"Factory"[Color=White] and the other to a [Color=Green]"Zoo"[Color=White].[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=69][Content=Which location do you want to go to?]]
+[Choice2=[NextScene=70][NextSceneNoTrust=73][TrustNeed=50][Content=Is there really no other place you can go?]]
+]
+]
+
+[Scene=73
+[Content=
+I would have said that there were more signs if that was the case.[Wait=500][Space=2]
+So, no, there's nothing else here. What then?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=69][Content=Right. Where are you headed?]]
+]
+]

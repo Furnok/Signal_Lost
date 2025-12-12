@@ -1,0 +1,10 @@
+BadFile=The File is not a Text File!
+TrustNumber=The Trust Number Header is not a Number!
+FileEmpty=The File Chapter is Empty!
+NoSceneExist=The Scene doesn't Exist!
+ConnectionNumber=The Connection Number Header is not a Number!
+NoFile=Need to have a File!
+NoChapterExist=The Chapter doesn't Exist!
+ChapterNumber=The Chapter Number Header is not a Number!
+SceneNumber=The Scene Number Header is not a Number!
+HeaderCorrupt=The Header is Corrupt!
