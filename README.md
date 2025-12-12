@@ -11,4 +11,4 @@ TERMS OF USE:
 PEGI 12 Warning, this game contains insults.
 
 LICENSE:   
-Distributed under the MIT License
+Distributed under the MIT License.
