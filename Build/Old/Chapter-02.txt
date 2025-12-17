@@ -1,0 +1,975 @@
+Chapter-02(The Museum)/75\<1>
+[Scene 1 \\__
+Going to the museum?+ I can work with that.+__
+This whole trapdoor thing is supicious anyway.+ It might be better to explore this place before doing anything stupid.+__
+
+<(2)1 - How much time will it take to get there?__
+]
+
+[Scene 2 __
+It's not that far away, I think I can even see it from here!+ I'll take you back in a second when I'll be there!+__
+.+.+.+__
+.+.+.+__
+Okay!+ I'm in front of it.+ It's smaller than I thought, and it looks really well preserved!__
+
+<(3)1 - Small?__
+<(4)2 - Well preserved?__
+]
+
+[Scene 3 __
+It looks like this place has only one big main room inside.+__
+I don't know if there'll be anything interesting here...+__
+
+<(14)1 - Well, you might as well go and see inside to be sure! ;13__
+<(13)2 - Why are you doubting all of a sudden?__
+]
+
+[Scene 4 __
+That's weird right?+__
+All this place has is empty buildings withered by the time.+__
+It's weird that a useless building is still standing unharmed.+__
+...+Does that mean that someone's still here to assure this museum is clean?...+__
+
+<(5)1@ - Nah. Why would someone want to clean an old museum anyway? It's a coincidence.__
+<(6)2 - I guess there is, why would it be cleaner than the other building otherwise?__
+]
+
+[Scene 5 __
+I'm sure you're right...+ But it feels odd, still.+__
+I'm  
+Great.+ Now I don't feel like entering this place.+__
+
+<(6)1 - You're afraid of seeing someone now?__
+<(7)2| - Well, don't enter it then.__
+<(8)3 - Sorry to announce that, but it doesn't seem that you have the choice...__
+]
+
+[Scene 6 __
+I guess I am...+ The fact that everything seems to be designed to make me explore this place is...+__
+Yes, I'm scared...+__
+
+<(9)1| - I knew it! You're chicken-hearted!__
+<(8)2@ - Everything's gonna be fine as long as we collaborate.__
+]
+
+[Scene 7 __
+I FEEL like not entering, but I have no choice and I think you know it well!+__
+I-...+ I could do that but there's nothing that could help me escape that strikes my mind.+__
+
+<(8)1@ - You're not in danger as long as I'm with you!__
+<(9)2 - I knew you were chicken-hearted!__
+]
+
+[Scene 8 __
+Exactly what I was thinking!...+__
+Since I have no choice, let's enter slowly...+__
+...*footsteps*+ *door squeak*+__
+...+What is that?+__
+
+<(15)1 - Is there something weird in here?__
+]
+
+[Scene 9 __
+I'm chicken-hearted?+ Oh yeah?+__
+Well, you know what?+ I'll enter this museum without you begging me for it!+__
+*footsteps*+ *WHAM*+__
+HEY!+ I JUST ENTERED YOUR MUSEUM BY KICKING THE DOOR! *echoes*+__
+
+<(10)1| - Shhhh!! What if there's really someone here?__
+<(11)2 - That's more like it!__
+]
+
+[Scene 10 __
+What did I hear?+ Is someone getting scared all of the sudden?+ That'll teach you!+__
+But there doesn't seem to be anyone here anyway.+__
+Looks like we both worried for nothing.+__
+...+But there still somthing off-putting here.__
+
+<(15)1 - What makes you feel like that?__
+]
+
+[Scene 11 __
+See?+ I can get cocky when I want!+ RIGHT?! *echoes*...+__
+...+Yeah, no one's responding.+ Not that I'm disappointed anyway!+__
+It's way better to know that there is no one lurking at me ahah!+__
+
+<(12)1@ - Well... I am__
+]
+
+[Scene 12 __
+That's fair, but you seem like a good guy.+__
+I'm not going to be scared by a voice coming from an old flipphone!+__
+But let's focus more on this museum now.+ Something's off.__
+
+<(15)1 - What about it?__
+]
+
+[Scene 13 __
+...+I don't think going inside the only building that looks inhabited is a good idea.+__
+I don't want to land face to face with someone hostile.__
+
+<(6)1 - You're afraid of seeing someone now?__
+<(7)2| - Well, don't enter it then.__
+<(8)3 - Sorry to announce that, but it doesn't seem that you have the choice...__
+]
+
+[Scene 14 __
+If I would listen to me, I would not enter this place because it freaks me out for some reason...+__
+But you're here! I've got nothing to be afraid of, so I'm heading inside!+__
+*footsteps*+ *door squeak*...+__
+
+<(15)1 - So? what's inside?__
+]
+
+[Scene 15 __
+The inside of this museum truly feels abnormal...+__
+Everything's clean, there's not a single bit of dust here!+__
+All these paintings are perfectly displayed,+ sculptures are bright polished..+__
+There's even historical relics preserved under glass bells!+__
+
+<(16)1 - That's weird...__
+<(17)2| - That's so cool!__
+]
+
+[Scene 16 __
+It definitly!+ How can this museum be this clean?+__
+Considering that it's the first time I see a place not post-apocalyptic-looking on this island...+__
+It surely means that...+__
+
+<(18)1| - ...you're becoming paranoïd?__
+<(19)2 - ...someone's living here?__
+<(20)3@ - ...that we have a new mystery to resolve!__
+]
+
+[Scene 17 __
+...+No, it isn't?+__
+It's unsettling...+ Every place I've been through on this island has only been ruins and now that!+__
+It most defintly means that this place is special somehow...+__
+
+<(18)1| - You're definitly becoming paranoïd__
+<(19)2 - Is... someone living here?__
+<(20)3@ - Seems that we'll have to solve this mystery together!__
+]
+
+[Scene 18 __
+...+What?+ Wouldn't you be paranoïd after going through what I'm living?+__
+I'd like us to switch place and see how you could manage all this...+__
+How would you like that idea?+__
+
+<(21)1| - I think I would be braver than you!__
+<(22)2@ - I think I'd manage things like you__
+<(23)3 - I'd be... more fearful than you...__
+]
+
+[Scene 19 __
+Oh freak...+ It means my instinct didn't betray me?+__
+Do you think it's here? Observing me from a corner?+__
+*heavy brething*...+ I think I'm going to throw up...+__
+
+<(24)1@ - Calm Down.That doesn't justify any panic__
+<(25)2| - Don't throw up on the art please__
+<(26)3| - I was joking around! There's surely not anyone here__
+]
+
+[Scene 20 __
+...+I didn't expected that kind of answer but it feels weirdly refreshing!+__
+It's nice having someone dedramatizing this whole situation.+__
+Let's go and solve that mystery then! Where should I go?+__
+
+<(27)1 - What is around you again?__
+]
+
+[Scene 21 __
+That's a bold thing to say!+__
+You're really are a daredevil huh?+__ Well I'm not, and you'll have to bare with it.+__
+To refocus on what's important, I think exploring this room might be helpful.+__
+
+<(27)1 - What is around you again?__
+]
+
+[Scene 22 __
+You see?+ I guess we're not so different after all!+__
+Now, this ideological question is interesting but it won't help me to escape from here, so let's explore this place!+__
+
+<(27)1 - What is around you again?__
+]
+
+[Scene 23 __
+AH!+ You get all showy while you couldn't handle a quarter of what I'm living!+__
+...+I'm the one making fun of you but in the end I'm still the one stucked on this island...+ Ironic.+__
+It might be the right time to come back at the main question : What is this place?+__
+
+<(27)1 - What is around you again?__
+]
+
+[Scene 24 __
+...*phew*+ ...That's true.+__
+I'm not in imminent danger...+ I must focus on my escape and everything will be okay!+__
+I needed to reassure myself before doing a bit of exploration, sorry.+__
+
+<(27)1 - What is around you again?__
+]
+
+[Scene 25 __
+Huh?+ *heavy breathing*+ I don't care about the art!+__
+You know it's really not the time to be joking around, right?+__
+I'm diving into the unknown and you think it's funny?+ That's really irritating!+__
+I don't want to argue here, so let's go see what this museum has to offer.+__
+
+<(27)1 - What is around you again?__
+]
+
+[Scene 26 __
+Well, I hope you're not a humorist!+__
+You know it's really not the time to be joking around, right?+__
+I'm diving into the unknown and you think it's funny?+ That's really irritating!+__
+I don't want to argue here, so let's go see what this museum has to offer.+__
+
+<(27)1 - What is around you again?__
+]
+
+[Scene 27 __
+There are paintings on the wall, from the impressionism era it seems.+__
+There's also all these sculptures of muscular men.+ The greek heterocurious kind of sculpture, you know.+__
+And there's also these rock plates with strange language engraved on them.+__
+
+<(28)1 - Go and see the paintings__
+<(29) 2 - Go and see the sculpture__
+<(30) 3 - Go and see the inscriptions on the rock__
+]
+
+[Scene 28 __
+*footsteps*...+ The paintings are all representation of a city!+__
+Seems like the keeper of this museum really liked it.+ I can see similar features between all of them.+__
+
+<(31)1 - Is there something else than art here?__
+<(39)2 - Can you describe it more precisely?__
+]
+
+[Scene 29 __
+*footsteps*...+ Oh wow! They look even more muscular from close!+__
+These stony guys are fighting reeaaaal good!+__
+
+<(31)1 - Is there something else than art here?__
+<(40)2 - Can you describe it more precisely?__
+]
+
+[Scene 30 __
+*footsteps*...+ It's a really good looking rock, with good looking inscriptions on it!+__
+Too bad I can't speak that language tho.+__
+
+<(31)1 - Is there something else than art here?__
+<(41)2 - Can you describe it more precisely?__
+]
+
+[Scene 31 __
+I thought the same thing...+ I'm not here to appreciate the beauty of hand-made art.+__
+I'm here to GET OUT OF THIS ISLAND!+ FUCK YOU, ART!+__
+*CRACK*+ Shit, I didn't know kicking a statue could dislock it's leg-*RUMBLE*...+ Huh?+__
+
+<(32)1 - What's going on?__
+]
+
+[Scene 32 __
+I-I don't know, the ground shaked for a second...+__
+Wait...+ What's tha-...+__
+...Has a motherfucking door appeared at the back of the museum?+__
+Did I really activated a mechanism at random because of my rage?+__
+
+<(33)1 - It must be a secret escape!__
+<(33)2 - Watch out, it might be trapped__
+]
+
+[Scene 33 __
+I don't know, but I'm too curious to not go and see what this damn door is all about!+__
+*footsteps*...+ SHIT! It's locked!+__
+There's a keypad attached to it.+ And it's weird but...+ there are letters here instead of numbers.+__
+Oh!+ And here you go, another post-it!+ I start to identify a leitmotiv in these puzzles...+__
+
+<(34)1 - Can you read it for me?__
+]
+
+[Scene 34 __
+"IN CASE THE MADNESS MAKES YOU FORGET:+__
+-FIRST LETTER = CITY NAME+__
+-SECOND LETTER = ARTIST NAME+__
+-THIRD LETTER = TRANSLATED IN ENGLISH+__
+KEEP EVERYONE OUT AT ALL COST"+__
+
+<(45)1 - I think I might have an idea for the code__
+<(35)2 - What is there in the museum again?__
+]
+
+[Scene 35 __
+There are paintings on the wall, from the impressionism era it seems.+__
+There's also all these sculptures of muscular men.+ The greek heterocurious kind of sculpture, you know.+__
+There's also these rock plates with strange language engraved on them.+__
+And obviously this weird door with that letter keypad and the note.+__
+
+<(36)1 - Go and see the paintings__
+<(37)2 - Go and see the sculpture__
+<(38)3 - Go and see the inscriptions on the rock__
+<(38)4 - Can I see the note again?__
+]
+
+[Scene 36 __
+*footsteps*...+ The paintings are all representation of a city!+__
+Seems like the keeper of this museum really liked it.+ I can see similar features between all of them.+__
+
+<(42)1 - Can I have more information about it?__
+]
+
+[Scene 37 __
+*footsteps*...+ Oh wow! They look even more muscular from close!+__
+These stony guys are fighting reeaaaal good!+__
+
+<(43)1 - Can I have more information about it?__
+]
+
+[Scene 38 __
+*footsteps*...+ It's a really good looking rock, with good looking inscriptions on it!+__
+Too bad I can't speak that language tho.+__
+
+<(44)1 - Can I have more information about it?__
+]
+
+[Scene 39 __
+It's multiple painting picturing the same city it seems!+__
+I can tell that because of the same looking monument one every of them.+__
+It's a huge white pillar with at the top a golden urn of fire, or something like that.+__
+
+<(27)1 - What else is here?__
+]
+
+[Scene 40 __
+It's a white statue of two men fighting.+__
+Well, I said two men but not really.+ One is a centaur if I'm not mistaking.+__
+The human one is on top of him with a huge stick, ready to strike the centaur.+__
+That's a cool looking statue!+__
+
+<(27)1 - What else is here?__
+]
+
+[Scene 41 __
+It's a flat piece of rock with engravings on it.+__
+It seems to be a dead language I don't know how to read.+__
+There is one word on here that's colored in red.+__
+It reads "effingo".+ I hope I pronounced it properly.+__
+
+<(27)1 - What else is here?__
+]
+
+[Scene 42 __
+It's multiple painting picturing the same city it seems!+__
+I can tell that because of the same looking monument one every of them.+__
+It's a huge white pillar with at the top a golden urn of fire, or something like that.+__
+
+<(35)1 - Can you say again what's in here?__
+]
+
+[Scene 43 __
+It's a white statue of two men fighting.+__
+Well, I said two men but not really.+ One is a centaur if I'm not mistaking.+__
+The human one is on top of him with a huge stick, ready to strike the centaur.+__
+That's a cool looking statue!+__
+
+<(35)1 - Can you say again what's in here?__
+]
+
+[Scene 44 __
+It's a flat piece of rock with engravings on it.+__
+It seems to be a dead language I don't know how to read.+__
+There is one word on here that's colored in red.+__
+It reads "effingo".+ I hope I pronounced it properly.+__
+
+<(35)1 - Can you say again what's in here?__
+]
+
+[Scene 45 __
+Are you sure?+ I don't know what could happen if I type the wrong code but I don't want to find out.+__
+You're confident?+__
+
+<(46)1 - Hell yeah, show me this keypad!__
+<(35)2 - Wait... Can we just check the museum again?__
+]
+
+[Scene 46 __
+Okay, what first letter should I type?+__
+it's the "CITY NAME" thing, right?+__
+
+<(49)1 - P__
+<(49)2 - S__
+<(49)3 - A__
+<(47)4 - L__
+<(49)5 - O__
+]
+
+[Scene 47 __
+...+I'm shaking of fear, but I need to concentrate to click on the right button...+__
+*b#ip*...+__
+Oh yes! it didn't explode or anything, so we may be on the right path!+__
+The second letter was "ARTIST NAME".+__
+
+<(48)1 - G__
+<(49)2 - L__
+<(49)3 - D__
+<(49)4 - W__
+<(49)5 - Y__
+]
+
+[Scene 48 __
+If I die because of this, I'll kill you, remember that...+__
+*b#ip*...+__
+Another success!+ You're really good at that!+__
+Now for the last letter, it's "TRANSLATED IN ENGLISH".+__
+
+<(49)1 - E__
+<(49)2 - S__
+<(49)3 - R__
+<(49)4 - U__
+<(52)5 - C__
+]
+
+[Scene 49 __
+*BU#ZZ*...+ That wasn't a reassuring sou-__
+&PASSWORD INCORRECT.+ ENGAGING ANTI-INTRUDER PROTOCOL.=+__
+...W-+What?+ What does that even mean?+__
+*cough*+ You gave me the wrong letter!+__
+*cough*+ Why is everything get-*cough*+ getting blurry?+__
+
+<(50)1 - You have to get out!__
+]
+
+[Scene 50 \__
+*cough COUGH*+__
+I c...*cough*+ I can't breath!+__
+*cough*+ *COUGH COUGH*+__
+arhh...+__
+...+__
+
+<(51)1 - Are you here?__
+]
+
+[Scene 51 )__
+...+__
+--SIGNAL LOST--+__
+
+<$02/75\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 52 __
+Please be right, please be right, please be right...+__
+*b#ip*...+__
+*CLICK*+ The door... is unlocked!+__
+I don't know what I'll find here, but I'm going inside anyway..+__
+*door squeak*+__
+
+<(53)1 - What are you expecting to find here?__
+]
+
+[Scene 53 __
+For now, all is see are stairs going deep down...+__
+But I hope that I'll found this fuse to activate the trapdoor in the outside.+__
+Or at least answers for why I'm here.+__
+
+<(54)1 - What if you don't find any fuse?__
+<(58)2 - What if there was someone down there?__
+<(61)3 - What if it's a trap?__
+]
+
+[Scene 54 __
+That's not reassuring to say pal...+__
+What if there's no fuse?+ Guess I'll die slowly, starving, while you're here listening to my agony.+__
+Would you be here to support here in my final moments?+__
+
+<(55)1@ - Of course! I will be with you until the end__
+<(56)2| - Uhm, I have more alluring stuff to do__
+<(57)3@ - Sorry but I don't feel confortable with hearing someone slowly dying on phone...__
+]
+
+[Scene 55 __
+Ahah!+ That was supposed to be a joke!+__
+I admit  that I won't be able to handle that on side anyway.+__
+But if you're willing to hear me die, I guess that's okay!+ If that's not because of a twisted fantasy of yours...+__
+
+<(64)1 - I was just being honest! You're down the stairs?__
+]
+
+[Scene 56 __
+Oh.+ Uhm...+__
+Of course you have a life, I don't want to disturb you with my boring imminent death...+__
+
+<(64)1 - It's cool to see that you understand! You're down the stairs?__
+]
+
+[Scene 57 __
+Ahah!+ Of course you're not!+ That was a joke!+__
+Don't worry about it, if I ever find myself in this kind of situation, I don't you to suffer it too.+__
+
+<(64)1 - Funny one. You're down the stairs?__
+]
+
+[Scene 58 __
+...+If we put together the door system and the tidiness of this museum compared to the other buildings...+__
+Yes, I think I'm about to meet the ones responsible of all my troubles.+__
+I don't know what their project is, but I'm sure I'll soon find out if I speak directly to them.+__
+
+<(59)1| - But they'll be hostile!__
+<(60)2 - Maybe we can deal so they free you__
+]
+
+[Scene 59 __
+Don't you think that I considered this possibility?+__
+Of course they don't want me to go!+ But I have nothing to stop them other than trying to talk them out.+__
+Hostile or not, here I come!+__
+
+<(64)1 - Where ar you now?__
+]
+
+[Scene 60 __
+That's what I thought.+__
+If they put me there in the first place, there is a reason, and I don't they did all of that just for fun.+__
+There is a meaning behind all of this mess I've been through and I want to know about it.+__
+And if they can free me in the process, it would be nice too.+__
+
+<(64)1 - Where ar you now?__
+]
+
+[Scene 61 __
+I guess I'll be jumping right into it then!+__
+I have no choice anyway. It's my only hope to get out of this island.+__
+
+<(62)1| - I would go back and search for another way out if I were you__
+<(63)2 - Do whatever you want, it's your responsability__
+]
+
+[Scene 62 __
+Too bad you're not me and that I can make decisions on my own!+__
+I've been on this island for hours and I know there is no way out outside.+__
+It's too late to change my mind.+__
+
+<(64)1 - So you're getting down there?__
+]
+
+[Scene 63 __
+Yes, it is, and I totally understand that I'll be the only one responsible for the consequences of this decision.+__
+But I still count on you to help me here.+__
+
+<(64)1 - I'll do my best... Where are you now?__
+]
+
+[Scene 64 \__
+I'm down the stairs.+ It see-*SHKRRRRRRRRRR*+__
+There's multiple corridor leading to-*SHKRRRRRRRRRR*...+ I don't know which one is the right one!+__
+
+<(65)1 - Shit! The signal's getting weaker again!__
+]
+
+[Scene 65 __
+Hell-*SHKRRRRRRRRRRR*-ou hear me?+__
+Why did you stop spea-*SHKRRRRRRRRRRRR*+__
+
+<(66)1 - Can you hear me?__
+<(66)2 - I'm still here!__
+]
+
+[Scene 66 __
+SPEAK TO M-*SHKRRRRRRRR*+__
+I don-*SHKRRRRR*-ear you!+__
+%#hE cAn'T hEaR+ yOu AnYmOrE, BuT+ i cAn hELP hiM.#=+__
+
+<(67)1 - Who is this?__
+]
+
+[Scene 67 __
+Where should I g-*SHKRRRRRRRRRR*__
+%#i'M a+ FriEnd. TrUsT mE aNd+ hE wOn'T bE HuRt.#=+__
+
+<(69)1 - What should I do?__
+<(68)2 - How do I know I can trust you?__
+]
+
+[Scene 68 __
+%#I hAvE nO pRooF+ tO pRoVide, But hE'LL bE hUrT+ iF yoU dO nOtHinG.#=__
+*SHKRRRRRRR*-move forward?+__
+
+<(69)1 - Okay, tell me how I can help__
+<(70)2 - I won't listen to you!__
+]
+
+[Scene 69 __
+%#JuSt aNsWeR tO mY+ qUeStiOns. yOu'Re+ ready?#=__
+*SHKRRRRRRR*-what to do...+__
+
+<(70)1 - Questions? And how is it going to help?...__
+<(70)2 - I'm ready__
+]
+
+[Scene 70 __
+%#iF yOu kNew whAt+ tHis CaLL wAs aBoUt, woULd YoU+ haVe AnSwErED to iT?#=+__
+
+<(71)1@ - Yes__
+<(71)2| - No__
+<^(71)3| - How can I answer that?__
+/7\
+]
+
+[Scene 71 __
+%#tO sAvE tHe wOrLd, woULd+ yOu SaCriFice the oNe yoU hELp siNcE tHe+ bEgiNNinG?#=+__
+
+<(72)1@ - ...Yes?__
+<(72)2@ - ...No?__
+<^(72)3| - But that's impossible?!__
+/7\
+]
+
+[Scene 72 __
+%#iF yOu wErE aT iT's PLacE, wOuLd yOu hAVe tRusTed ThE oNe bEhiND thE pHonE yOu FoUnD?#=+__
+
+<(73)1@ - Yes!__
+<(73)2| - No!__
+<^(73)3| - I would worry about getting out instead of doing small talk!__
+/7\
+]
+
+[Scene 73 __
+%#ThaT wiLL dO... tHaNks fOr yOuR hELp.=+__
+...*SHKRRRR*-ello?+ Hey?+__
+Can you hear me?+__
+
+<(74)1 - Yes!__
+<(75)2 - Something crazy just happened...__
+]
+
+[Scene 74 \\__
+I...+ I heard everything.+__
+Were you sincere while answering these questions?+__
+
+<(75)1 - I was >77__
+<(76)2| - I was not__
+]
+
+[Scene 75 __
+Wow!+ I knew you were someone I could trust!+__
+But who was the one asking you these questions?__
+
+<(78)1 - I have no idea!__
+]
+
+[Scene 76 __
+Yeah, as if you could pretend that!+__
+Anyway, let's focus on the most important question : WHO WAS THAT?+__
+
+<(78)1 - I have no idea!__
+]
+
+[Scene 77 __
+Are you serious?...+__
+You know what forget it...+ The most important think is who the fuck was this person asking you all this?+__
+
+<(78)1 - I have no idea!__
+]
+
+[Scene 78 __
+Of course you don't...+__
+The more I realise the situation I'm in, the less I think all of this makes sense...+__
+Anyway, I'm inside a complex of whitish corridors, the-*footsteps*...+__
+Wait...+ Those footsteps weren't mine...__
+
+<(79)1 - HIDE!__
+]
+
+[Scene 79 __
+*footsteps* It's getting closer!__
+*SLAM*...+__
+I locked myself inside a room...+ I think I'm safe n-__
+&It's useless to hide you know?+ I know where you are at all time=+__
+
+<(80)1 - Who is this?__
+<(80)2 - Don't say a word!__
+]
+
+[Scene 80 __
+&No matter what your friend says, it's just between me and you subject 835...=+__
+&You bypassed what I've prepared for you by entering the museum. It never happened before!=+__
+W-Who are you calling subject 835?__
+
+<(81)1 - DON'T TALK TO HIM!__
+<(81)2 - Is this the one who put you on this island?__
+]
+
+[Scene 81 __
+&Subject 835?+ That's you of course!=+__
+&You're no more than a pale copy of the one you're calling on this phone right now.=+__
+W-Wait...+ What?+ A copy you say?+__
+&A clone, if you prefer this term.=+__
+
+<(82)1 - Y-You're a clone of me?__
+]
+
+[Scene 82 __
+No...+ It's impossible!+ YOU'RE LYING!+__
+&...I expected this kind of reaction.+ Why do you think you and the original behind this call have the same voice?=+__
+&Didn't it strike you at first that he was the only contact on this phone?=+__
+
+<(83)1 - He's lying!__
+]
+
+[Scene 83 __
+&I'm telling you the truth.+ It might seem troubling but you have to accept that you're just a mere reproduction.=+__
+&But why would it matter?+ You're now the perfect subject I was waiting for.=+__
+...+What do you mean by...+ The perfect subject?+__
+
+<(84)1 - That's a good question!__
+]
+
+[Scene 84 __
+&Do you think I prepared all of this for fun?=+__
+& I'm not some kind of sicko who likes to see 832 clones die before my eyes just for my own entertainment.=+__
+...+832?...
+
+<(85)1 - All the clones before died?...__
+]
+
+[Scene 85 __
+&Not all.+ I just said that you were subject 835.+ 3 are still alive to this day.=+__
+&One was not able to handle the virus. However he managed to take out his tracker and he's still roaming outside.=+__
+&He was responsible for the death of some clones because of his hostility.=+__
+&The other one was immune, but he managed to bypass my security and to free himself.=+__
+
+<(87)1 - Virus? Immune?__
+<(87)2 - Is that the one who contacted me earlier? Or was it you?__
+]
+
+[Scene 86 __
+&Oh?+ He contacted you?+ How curious, this must mean he's still on the island.=+__
+%#dOn'T tRuSt+ HiM. aLL oF tHeSe dEAThS+ iS BeCaUSe oF HiM#=+__
+...+I can't believe all that...+ Why am I here!+ TELL ME WHY DID YOU MADE ME!+__
+
+<(87)1 - Calm down!__
+<(87)2 - That's it! Why did you clone me?!__
+]
+
+[Scene 87 __
+&I understand your confusion.+ But the survival of humankind is at stake at this very moment.=+__
+&A virus is spreading, and it's undetectable.+ I called it the Emotoxin.+ No one believed me.=+__
+&It decuplates the instensity of our emotions, causing us to burst out of rage, euphoria or feel miserable.=+__
+...+And in what way could this cause the end of humankind?+__
+
+<(88)1 - Yes! Why should we trust you?__
+]
+
+[Scene 88 __
+&You should see how an infected acts.=+__
+&In our world filled with hate, it would cause people to kill each other over a small argument.=+__
+...+I'm not infected right?+ So why would you do all that in the first place!+__
+Why not use a lab rat instead of killing HUNDREDS OF HUMANS!+__
+
+<(89)1 - AND WHY WOULD YOU CHOOSE ME?!__
+]
+
+[Scene 89 __
+&The Emotoxin only affects humans. So I preffered to base my search on clones instead of real humans.=+__
+&I chose to clone you because your DNA was highly compatible with cloning and resistent to the Emotoxin structure.=+__
+&All these puzzles were tests to see if you were affected by the toxin by playing with your emotions.=+__
+&I think it might be time to get out of this room now.+ I need your blood.=+__
+
+<(90)1 - IT'S ALL A LIE! STAY INSIDE!__
+<(100)2 - Follow him... >93__
+]
+
+[Scene 90 __
+Y-Yes!+ I'M STAYING INSIDE YOU PSYCHOPATH!+__
+I'M NOT GOING TO LET YOU SUCK MY BLOOD!+ I MAY BE A CLONE BUT I'M NOT BELIEVING ALL THIS SHIT!+__
+&...+Hmmm...+ Unfortunatly for you, I anticipated this kind of reaction.=+__
+&What are your last words?=+__
+Y-You're bluffing!+ I'm not going to fall for this eith-*PSHHHHHHHHHH*+__
+
+<(91)1 - What is this noise?__
+]
+
+[Scene 91 \__
+...+OH SHIT!+ THERE'S GREEN GAS SPREADING IN THE ROOM!+__
+*door shake*+__
+LET ME OUT, THIS FUCKER LOCKED THE DOOR!+__
+&You made your own choices you and your friend.+ Now you'll have to accept the consequences.=+__
+*cough*...No!...+*cough cough*+__
+.+.+.+__
+
+<(92)1 - DONT GIVE UP!__
+]
+
+[Scene 92 )__
+...+__
+&Remember.+ One died so that billions live.=+__
+...+__
+--SIGNAL LOST--+__
+&{YOU CHOSE TO BLIND YOURSELF FROM THE TRUTH. BUT COULD YOU SAVE EVERYONE?}=+__
+&CORNERED ENDING=+__
+
+<$02/75\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 93 __
+N-NO!+ I WON'T FOLLOW HIM!+__
+I DON'T TRUST YOU ANYMORE!+ You were plotting with him since the beggining right?+__
+*SLAM* &OUCH!=+ I'M GETTING OUT OF HERE!+__
+*fast footsteps*+__
+
+<(94)1 - You're getting everything wrong!__
+<(95)2 - Why are you acting like this?!__
+]
+
+[Scene 94 __
+Everything makes sense for me now!+ You were planning all of this with him! *fast footsteps*+__
+huff...+ Whot tells me you're not on this island too, monitoring me in one of these rooms?+__
+
+<(95)1 - I'm not!__
+]
+
+[Scene 95 __
+LIAR!+__
+You could be behind THIS DOOR *SLAM*...+__
+Ooooor THIS DOOR *SLAM*...+__
+...+ahAH! Just as I thought, a monitoring room!+__
+You were here before huh?+ Planning for the next puzzle and acting as if you were discovering it with me.+__
+
+<(96)1 - You're losing your mind.__
+<(96)2 - Come back to your senses!__
+]
+
+[Scene 96 __
+You're the crazy one here, cloning yourself and watch you suffer with this mad scientist!+__
+...+Oh!+ Look!+ How unfortunate for you!+__
+""This button should only be used in case that the Emotoxin breaches out.+__
+The explosion will eradicate all living organism in a 5 kilometers""+__
+...+You really put a self-destruct button here?+ Too bad, because I'm going to press it.+__
+
+<(97)1 - DON'T DO THAT! You'll get killed!__
+]
+
+[Scene 97 __
+AND I WILL ALSO KILL YOU AND YOUR SCIENTIST FRIEND!+__
+I will end this whole madness!+ Hundreds of different versions of you were killed.+ THEY HAD FEELINGS YOU KNOW?!+__
+I'm willing to sacrifice, as a revenge for all the ones that suffered before me.+__
+
+<(98)1 - You're really dumb__
+<(98)2 - STOP THAT!__
+<(100)3 - I'VE GOT NOTHING TO DO WITH THIS!__
+]
+
+[Scene 98 \__
+Have a good death, original.+__
+*click*+__
+.+.+.+__
+*BOOOOOOOOOSBQIFDDJUFJNFQSJDHOQBFJPIOSHQSJDBD...+__
+
+<(99)1 - You're getting everything wrong!__
+]
+
+[Scene 99 )__
+...+__
+--SIGNAL LOST--+__
+&{YOU MADE HIM DOUBT. COULD YOU SAVE THEM ALL IF HE TRUSTED YOU MORE?}=+__
+&WIPED ENDING=+__
+
+<$02/75\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 100 __
+...+Is it really for the survival of humanity?+ It's not a trick so that I get out and you can shoot me easily?+__
+&Absolutely not.+ I care for my research, and I wouldn't waste any of my bullets or any of your blood.=+__
+...+*door opening*...+ &So you opened.=+__
+I don't know what you mean by ""needing my blood"" but I assume this will not be pleasurable?+__
+&You guessed it. But I will do what's possible to keep you alive after that?=+__
+
+<(101)1 - That's reassuring!__
+<(102)2 - That might be the worst thing to say to put someone at ease__
+]
+
+[Scene 101 __
+&Good.+ Now, original, you'll excuse us but we have to end the call here.+ I have to borrow this clone.=+__
+W-Wait... I have a question.+ Why did you make us contact each other?+__
+&I needed a full panel of your emotions right when I knew that you were the right one.=+__
+&There was no better options than using yourself as to stimulate every aspect of your personnality.=+__
+&Talking to yourself shows how the human behaviour is not absolute for a single person.=+__
+&The gap between what we think we'd do and what we actually do is indeterminatable.=+__
+&By calling the original, you could explore every aspect of yourself..=+__
+
+<(103)1 - That's...__
+<(103)2 - It is...__
+]
+
+[Scene 102 __
+&I'm a scientist, not a social expert.+ Now, original,  we have to end the call here.+ I have to borrow this clone.=+__
+W-Wait... I have a question.+ Why did you make us contact each other?+__
+&I needed a full panel of your emotions right when I knew that you were the right one.=+__
+&There was no better options than using yourself as to stimulate every aspect of your personnality.=+__
+&Talking to yourself shows how the human behaviour is not absolute for a single person.=+__
+&The gap between what we think we'd do and what we actually do is indeterminatable.=+__
+&By calling the original, you could explore every aspect of yourself..=+__
+
+<(103)1 - That's...__
+<(103)2 - It is...__
+]
+
+[Scene 103 __
+&Confusing, I know.+ Even if I vulgarise the terms, it's still a concept most won't understand.=+__
+...+__
+One more thing.+ Can I talk one last time with the original?+__
+&Go on.+ I've waited years for you to exist, so I can wait one more minute.=+__
+...+Hey...+__
+
+<(104)1 - That was quite an adventure!__
+]
+
+[Scene 104 __
+You bet it was!+ That's unfortunate that we have to end on this "save the humanity" tone...+__
+But I guess we can't do anything about it.+__
+The world chose you to be immune.+ And by you, that includes me...+__
+
+<(105)1 - You are more than just an alternate version of me!__
+<(105)2 - It's you that will save the world in the end, not me.__
+]
+
+[Scene 105 __
+ahah!+ I guess you're right!+__
+...+Thank you for staying with me...+ I know I was just a random call of a stranger at the beginning but...+__
+But I hope I'll be able to call you again one day.+ We'll be able to eat something at your favorite restaurant!+__
+I know which one it is since I've got the same memories than you eheh!+__
+
+<(106)1 - We'll go and see a movie too! Since your favorites one are also mine__
+<(106)2 - I hope you don't remember the awkward ones...__
+]
+
+[Scene 106 __
+ahahah!+ That's tru-__
+&We have to go.=+__
+O-Oh...+ Well, I guess it's a goodbye.+__
+I really hope to see you again.+ Until now, believe in yourself.+ I know we're great people.+__
+
+<(107)1 - See you later.__
+]
+
+[Scene 107 )__
+I-I'm hanging up+ *sob*+__
+*click*....+__
+.+.+.+__
+--SIGNAL LOST--+__
+&{EVERYONE IS SAVED. BUT IS THE MYSTERY SOLVED?}=+__
+%TRUE ENDING=+__
+
+<$02/75\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]

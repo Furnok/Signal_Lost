@@ -1,0 +1,26 @@
+Chapter Content (First Line):
+- () : Chapter Title
+- /\ : Default Trust
+- <> : Default Scene
+
+Scene Content :
+- [] : Scene Content
+- _ : Back to Line
+- < : Choice
+- () : Scene Direction
+- %= : Color Green (Good Choice)
+- &= : Color Red (Bad Choice)
+- $ : Chapter Next
+- $/\ : Trust Default Reset Chapter
+- ^ : Default Choice Timer Scene
+- + : Pause Text
+- /\ : Timer Time
+- # : Bip Text
+- ~ : Bip Background
+- @ : Trust +
+- | : Trust -
+- ; : Choice Trust >= 50
+- > : Choice Trust >= 75
+- ) : Connexion Bar 0
+- \ : Connexion Bar 2
+- \\ : Connexion Bar 4

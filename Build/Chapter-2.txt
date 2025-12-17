@@ -1305,7 +1305,7 @@ I-I'm hanging up.[Wait=500] [Color=Gray]*Sob*[Color=White]...[Wait=500][Space=2]
 .[Wait=500].[Wait=500].[Wait=500][Space=2]
 [Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
 [Color=Green]{EVERYONE IS SAVED. BUT IS THE MYSTERY SOLVED?}[Color=White][Wait=500][Space=2]
-[Color=Green]TRUE ENDING.[Color=White][Wait=500][Space=2]
+[Color=Green]TRUE GOOD ENDING.[Color=White][Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextChapter=2][Reset=True][NextScene=1][Content=Retry.]]

@@ -1,0 +1,1304 @@
+Chapter-03(The Zoo)/50\<1>
+[Scene 1 \\__
+I guess I can go to the zoo, yeah.+__
+I don't see how going in any of these locations could help me escape this island+__
+So whatever you'll choose might be the best.+__
+
+<(2)1 - Okay, go when you're ready!__
+]
+
+[Scene 2 __
+It might take a few minutes before I get to the entrance of the zoo, so let's small talk a bit while we're here!+__
+...+__
+...+Uhm...+ Yeah...+ I'm kinda sorry for the position I put you in with this call and everything+__
+but it seems-+ ...I didn't have that many choices.+__
+
+<(3)1@ - No worries. I feel better knowing you're safe.__
+<(5)2| - Your story still feels kinda weird to me...__
+<(6)3 - It's true that I didn't expect to have this kind of call today!__
+]
+
+[Scene 3 __
+T-Thanks...+__
+It's good to know I can rely on you,+ especially in the kind of situation I'm in. So th-+ Thanks, I guess...+__
+
+<(4)1 - Talking about that, this whole situation is trully unreal.__
+]
+
+[Scene 4 __
+...+You're right...+__
+...+It's pure madness.+ The more I think about it,+ the more fucked up it gets.+__
+Why is this happening to me?+ Why did it call you?+ Why is everything set up as if it was on purpose?+__
+Where the fuck am I?...+ WHY IS NO ONE HERE TO ANSWER MY DAMN QUESTIONS?!+__
+*echoes fade in the distance*+__
+
+<(7)1@ - Calm down, you'll be safe with me, I promise.__
+<(11)2@ - All that matters is getting you out of here.__
+<(9)3| - Keep quiet! Someone might hear you!__
+]
+
+[Scene 5 __
+Are you still not believing m-...+__
+UGH!+ You know what?+ It doesn't matter if you're not believing any of this.+__
+I just want you to stay with me since this place is filled with puzzles I could not solve alone.+__
+Sounds okay with you?+__
+
+<(4)1 - Don't worry, I believe your story, it just feels... unreal.__
+<(10)2@ - I guess I'll be your talkable web browser from now on!__
+]
+
+[Scene 6 __
+Yeah, I guess so!+__
+Neither I expected to wake up on a deserted island!+__
+I'm currently living a movie plot...+ Cameras anywhere?+__
+...+__
+I can't even tell if I'm dreaming or not.+__
+
+<(8)1@ - I can assure you I'm real, if that's a relief for you.__
+<(4)2 - It's true, all of this is so unreal...__
+]
+
+[Scene 7 __
+...Y-+You promise?...+__
+Thanks...+__
+Sorry, this whole situation has my mind doing backflips.+__
+I just have to take a deep breath and it will be okay...+__
+*breath*...+__
+Alright!+ I'm up to go!+ I think I can keep going thanks to you.+__
+
+<(15)1 - Nice! So, you're near the zoo now?__
+]
+
+[Scene 8 __
+Well...+ On one hand, it's nice to know that I'm not talking to a ghost.+__
+On the other hand, the fact that I'm not dreaming about being stuck in an abandonned city in the middle of the sea__
+scares the shit out of me.+__
+I'll eventually work out why all of this is happening in the first place,+__
+but for now, let's just move forward.+__
+
+<(15)1 - So, you're near the zoo now?__
+]
+
+[Scene 9 __
+I'LL SCREAM AS LOUD AS I WANT!!+__
+FUCK WHOEVER MADE ME GO HERE!+__
+FUCK ME FOR NOT REMEMBERING WHO I AM!+__
+FUCK THIS PHONE FOR HAVING YOU FOR ONLY CONTACT!+ TAKE THAT!+ *impact noises*+__
+...+Oh no, no, no, no, what have I done...+ Please tell me you're still working...+__
+...H-+Hello...+ You still hear me?...+__
+
+<(12)1| - Yes, try not to break your only connection to the outside world next time.__
+<(13)2@ - It's okay. Try to keep your mind straight, now's not the time to act recklessly.__
+<(14)3| - I'm trying to help you and this is what I get? I'll hang up if you continue like that.__
+]
+
+[Scene 10 __
+Good one, clown.+__
+Anyway, I'm getting near the entrance of the zoo.+__
+It might be better if we focus on getting out of here more than joking around.+__
+
+<(15)1 - Let's explore the zoo since you're near it now, right?__
+]
+
+[Scene 11 __
+That's right...+ Getting out of here...+__
+...+If that's even possible.+ I mean...+__
+Opening this trapdoor might be the only way out of here, but why is it here in the first place?+__
+I guess I won't have any answer if I don't go and see by myself.+__
+
+<(15)1 - The zoo could give you the keys for getting out of here. You're approaching it right?__
+]
+
+[Scene 12 __
+I'm so, so, so sorry.+ I didn't mean to yell like that...+__
+What is this thing made of?.+__
+I don't know how much this piece of junk can endure but I don't want to find out.+__
+
+<(15)1 - It's pretty solid for sure. But how about the zoo?__
+]
+
+[Scene 13 __
+R-Right,+ you're right.+__
+I'm lucky this flip phone can handle this much.+__
+I think I can keep going now.+__
+
+<(15)1 - That's okay. You arrived now?__
+]
+
+[Scene 14 __
+NO PLEASE, I DON'T KNOW IF I COULD EVEN MAKE IT OUT ALIVE WITHOUT YOU!+__
+O-Okay,+ I'll be more careful from now on...+ Please don't go.+__
+
+<(15)1 - That's better. Now tell me, you're at the zoo?__
+]
+
+[Scene 15 __
+Yes, There's a huge opened metallic gate right here. And also I'm in front of a map of the zoo...+__
+...+__
+...+It's almost unreadable.+ All of it's teared away and I can't even make up where to go.+__
+Hahaha! Funny thing, it's shaped like Australia!+__
+...+Is my brain fucked up for laughing at this?+__
+I guess it is.+__
+
+<(16)1 - Is there something else around?__
+]
+
+[Scene 16 __
+Nothing that strikes my mi-+Oh wait!+__
+There are flyers lying here and there.+ Let me try to catch one+__
+...*footsteps*+...Oof!+__
+...+I got one! *paper noises*+__
+...Uhmm+...+It looks like a presentation of the animals of the zoo.+__
+It's weird but there are words written using markers on the snake's page.+__
+
+<(17)1 - What do they say?__
+]
+
+[Scene 17 __
+There's the first word "BRSBNE",+__
+then there's an arrow leading to the word "DRWN"+__
+and the word "PRTH" at the very end.+__
+Too bad I can't speak moon runes+__
+#%aUsTraLiA+ miGhT hAvE+ SoMeThiNg tO+ dO WiTh+ This=#+__
+
+<(21)1 - Let's why this page deserves to be writing on in this snake's vivarium!__
+<(18)2 - What do you mean Australia?__
+]
+
+[Scene 18 __
+Huh?+ I said nothing about Australia.+__
+#%tHoSe WorDs+ CoULd bE+ ReLaTeD tO AusTrALiA's+ mAP, dOn'T+ yOu ThinK?=#__
+
+<(19)1 - Why are you pretending it's not you saying those things?__
+]
+
+[Scene 19 __
+Wh-whuh?+ I thought I was the one losing my mind but you seem pretty touched too.+__
+I'm the only one talking to you right now, so let's focus on what's important :+__
+Getting me OUT OF HERE!+__
+#%i'LL bE+ hErE tO+ hELp yOu, tHe OtHeR OnE iS FoLLOwIng YoU=#+__
+
+<(20)1| - Something weird is definitly going on...__
+<(17)2 - Okay... What were those words again?__
+]
+
+[Scene 20 __
+No shit Sherlock!+ Everything's weird in here.+__
+I need your help now, so prove me you're not crazy and you can be helpful!+__
+
+<(17)1 - Right... So, what were those words again?__
+]
+
+[Scene 21 __
+Seeing what's inside this vivarium might be the best lead we have, you're right.+__
+Even if these words marked very clearly on this flyers are extremly suspiscious, I guess we have no choice.+__
+So? Where should I be heading now?+__
+
+<(24)1 - Go North__
+<(24)2 - Go South__
+<(22)3 - Go East__
+<(24)4 - Go West__
+]
+
+[Scene 22 __
+Firstly East? That seems like a random choice but okay.+__
+It's so weird walking near these empty enclosures.+__
+Like, I feel that I'm the one being observed like an animal even if I'm the one outside of these cages.+__
+Enough weird and paranoïd thoughts.+ What then?+__
+
+<(23)1 - Go North__
+<(24)2 - Go South__
+<(24)3 - Go East__
+<(24)4 - Go West__
+]
+
+[Scene 23 __
+North second?+ I guess that'll do.+__
+You're lucky that I can tell directions thanks to the position of the sun, or it would have been really awkward+__
+Now that I think about it, I could triangulate my position thanks to the stars!+__
+Too bad it's day time...+ And that I haven't got a fucking idea how star triangulation works in the first place+__
+Anyway, where should I go next?+__
+
+<(24)1 - Go North__
+<(24)2 - Go South__
+<(24)3 - Go East__
+<(25)4 - Go West__
+]
+
+[Scene 24 __
+Riiiight...+ You seem confident about it so I'm going to listen to you...+ *footsteps*+__
+...+__
+{SEVERAL MINUTES LATER}+__
+...+__
+...Well shit.+ I'm somehow back at the entrance.+ Nice direction you gave me there...+__
+
+<(17)1 - I made a mistake. Could you give me those words that were on the flyer?__
+]
+
+[Scene 25 __
+West?+ It's not like I know where to go anyway.+ I'll be with these snakes in a minute if you're right.+__
+...*footsteps*+__
+{SEVERAL MINUTES LATER}+ ...+Here I am! The vivarium...+is empty...+__
+Well, that's anti-climatic!+ I expected to be bit by a viper or something.+__
+#%I hOpE yOu'LL rEmeMbEr ThE wAy bAcK=#+__
+
+<(26)1 - What do you see around you?__
+]
+
+[Scene 26 __
+I see an emergency exit right at the bottom.+__
+There's also an opened glass cage, it looks like the main attraction of this place.+__
+There are severals palm trees here and there and a reception desk over here.+__
+What should I do?+__
+
+<(27)1 - The exit door could be your way out!__
+<(32)2 - Let's look at this glass enclosure__
+<(28)3 - Is there something interesting with these palm trees?__
+<(29)4 - Search for clues inside the reception desk.__
+]
+
+[Scene 27 __
+I hope this emergency exit does what it 's supposed to do.+__
+*footsteps*+......+You're kidding me...+__
+What kind of shit-brained buffoon puts a freaking renforced chain on an emergency exit??+__
+...+hope there is something to break it down near there.+__
+
+<(26)1 - What can you see again?__
+]
+
+[Scene 28 __
+What interesting would there be about a plain, normal palm tr-...+__
+...+Nevermind.+ There are creepy insciptions all over this one.+__
+"GET ME OUT, HE'S OBSERVING ME, I CAN FEEL HIM PLAYING WITH MY MIND..."+__
+...+Nope, nope nope nope,+ that's it.+ I don't want to read more of it.+__
+
+<(30)1| - Come on, keep reading!__
+<(26)2 - Let's ignore this for now. Is there something else around you?__
+]
+
+[Scene 29 __
+Let's see what's in here.+__
+*rummage noises*+...+It's a mayhem!+ There are flyers scattered all over the floor.+__
+*cough, cough*+ God!+ The air is so dirty in here!+__
+I didn't even move these papers that much,+ why is there so much dust flying around?+__
+*cough*+ It's wei-*cough*+__
+
+<(26)1 - Leave somewhere else before you asphyxiate yourself__
+]
+
+[Scene 30 __
+Your curiosity is going to drive me insane, you know that?+__
+...+"I WILL KILL THE ONE RESPONSIBLE FOR THIS.+ I WILL BE MYSELF AGAIN.+ IT WILL LEAVE ME ALONE"+__
+...+Seriously....+I-I'm trembling in fear right now...+__
+L-Let's tell that this thing never existed+__
+
+<(31)1| - You're kidding me? This must mean something!__
+<(26)2 - Okay, let's look what else is here.__
+]
+
+[Scene 31 __
+AND I DON'T WANT TO KNOW ABOUT IT!+__
+I'm already on the edge of vomitting of fear, so please let's wrap it up and get out of here quickly.+__
+I feel unsafe...+__
+And watched...+__
+
+<(32)1 - Okay... Is there something else here?__
+]
+
+[Scene 32 __
+I'm near the enclosure. It's really big!+ Looks like it's trying to remake a wild environment+__
+There's a sign near the door with "WATCH OUT, VENIMOUS TIGER-SNAKES INSIDE" marked on it.+__
+Normally I would freak out at this point but I know there's no living think anywhere here!+__
+
+<(33)1 - Is there more precisions on the sign?__
+<(34)2 - Go see what's inside.__
+<(26)3 - Seems dangerous... Let's see if there's more thing around before.__
+]
+
+[Scene 33 __
+Uh... If you want a lesson about tiger-snake I can tell you what's on it I guess.+__
+"Tiger snake, or genus Notechis, are Australian member of the cobra family, or Elapidae.+__
+The snake’s venom, which contains a blood-clotting agent as well as a nerve paralyzer, is potentially fatal to humans.+__
+immediate injection of anti-venom is the only way to make it out without irreversible damage"+__
+
+<(34)1 - Now that you're educated, you can go inside!__
+]
+
+[Scene 34 __
+It's weird to put a foot inside an animal enclosure.+__
+Feels like I'm the one being wa-*THUMB*+__
+...+Oh no...+__
+
+<(35)1 - What was that sound?__
+]
+
+[Scene 35 __
+T-The door of the cage...+__
+It...+__
+IT CLOSED BEHIND ME!+ I'M STUCK IN THE CAGE!+__
+WHO DID THA-...+__
+Ouch?+__
+
+<(36)1 - What was that?__
+]
+
+[Scene 36 __
+I...+ I just got stung by somthing behind my neck...+__
+What is it...+ Uh?+ It says "snake veno-...+__
+OH MY GOD, IT'S A POISONNED DART!!+__
+Oh shit, shit shit shit!+ I'm going to DIE POISONNED!!+__
+
+<(37)1 - Keep calm. It must be another puzzle!__
+]
+
+[Scene 37 __
+Y-You're right!+ These plastic bottles might have something to do with it and-+__
+Oh lord, it looks like vials with syringes of medication...+ Don't tell me I have to inject one of these things...+__
+Shit...+ I can feel my consciouscness flying away...+__
+
+<(38)1 - Quick, tell me what are these bottles!__
+]
+
+[Scene 38 __
+"O...+One has a label with "mRNA-1273"...+__
+The...+other one is "ASVS serum"...+__
+The last one has...+ "liquified HCN"+__
+Please hurry...+ I don't want to die here...+__
+
+<^(39)1 - Take the mRNA-1273__
+<(41)2 - Take the ASVS serum__
+<(39)3 - Take the liquified HCN__
+/60\
+]
+
+[Scene 39 \__
+...+Okay...+ huff+__
+I'm shooting it in my arm...+__
+...+__
+...+__
+I don't feel so good...+__
+...+I don't want to...+ die...+__
+
+<(40)1 - Y-You're not going to!__
+]
+
+[Scene 40 )__
+...+__
+...+__
+*footsteps*+__
+...+__
+--SIGNAL LOST--+__
+
+<$03/50\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 41 __
+...+You're lucky I'm not afraid of needles...+__
+I'm shooting this serum thing... in my arm...+__
+...+__
+...+__
+I-+I think it worked!+ I don't feel pain anymore.+__
+...+Looks like the door of the cage is open again too...+__
+
+<(42)1 - What was that? Who shot that dart in the first place?__
+]
+
+[Scene 42 __
+I...+ I don't remember where it came from.+__
+But the fact that there was a serum to counter this venom in the first place is...+__
+Yeah, I'm not here by coincidence.+ Someone's definitly trying to play with me.+__
+
+<(44)1| - You're imagining things.__
+<(47)2@ - You must be right.__
+<(43)3| - GET OUT, HE'S OBSERVING YOU!__
+]
+
+[Scene 43 __
+AAAAAAH! FOR GOD'S SAKE, YOU'RE FREAKING ME OUT!+__
+I don't need this kind of joke now!+ I need you to take this situation seriously.+__
+Something is really after me and it's clear it's for no good...+__
+You're right on one thing : I have to get out, AND FAST+__
+
+<(49)1 - Wasn't there an exit door?__
+]
+
+[Scene 44 __
+What do you mean I'm "imagining things"?+__
+Do you think it was fake poison?+ Fake pain?+ Or maybe that this whole trap was set by the inca years ago?+__
+I'm not going to listen to your opinion anyway.+ What I'm living is real...+__
+Why are you trying to convince me otherwise?...+ Are you part of this?+__
+
+<(45)1| - Here you go, imagining things again.__
+<(46)2| - No! what would I benefit from this anyway?__
+<(48)3 - Yes, I am.__
+]
+
+[Scene 45 __
+Why would this phone call the biggest ASSHOLE ON EARTH TO HELP ME!+__
+...+I don't care anyway.+ As long as you prevent me from dying like you did before I'm not going to complain...+__
+But it might be good if you start acting like you see me as a human being instead of a clown for once.+__
+
+<(49)1 - The biggest asshole on earth tells you to go check the exit door.__
+]
+
+[Scene 46 __
+That's...+ That's...+ That's fair enough.+__
+I can't come up with anything that would be logic at this point.+__
+And you genuinly helped me there so...+__
+Yeah, I guess I work with that for now.+__
+So?+ It's time to get the fuck out of here before some bullshit puzzle happens again, right?+__
+
+<(49)1 - How about that exit door from before?__
+]
+
+[Scene 47 __
+If you're thinking the same as me, I think It's best if I follow my instinct and get out of here QUICK!+__
+
+<(49) 1 - Wasn't there an exit door?__
+]
+
+[Scene 48 )__
+I KNEW IT!+__
+I’M SURE YOU CAN TRACK ME WITH THIS PHONE!+__
+*crash*...+ *footsteps fading away*+__
+...+__
+*faint scream in the distance*+__
+--SIGNAL LOST--__
+
+<$03/50\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 49 __
+The exit door?+ It's right here but it was locked anyw-...+__
+You got to be kidding me...+__
+...+The door...+ It has been broke down...+ Now it's wide open.+__
+I-It means someone kicked it down while I was inside the glass enclosure...+__
+
+<(50)1 - Let's enter!__
+<(50)2 - That's freaking me out... Let's go back.__
+]
+
+[Scene 50 __
+I mean...+ It might be better to go baAAAH WHAT THE FUCK!!!!+__
+*running sounds*+__
+...+__
+
+<(51)1 - Hey? What happened? HEY?!__
+]
+
+[Scene 51 __
+…Is it gone?+__
+Oh.+ My.+ GOD!+__
+THERE WAS A SILHOUETTE LURKING BEHIND ME IN THE VIVARIUM+__
+I mechanicly ran through that damn door and got as far as possible+__
+
+<(55)1 - I see... Where did you landed?__
+<(52)2 - Can't you go back to the vivarium?__
+]
+
+[Scene 52 __
+Uhm...+ No?+__
+There’s two reasons for that.+__
+Firstly, I don’t have a clue of the way back to the vivarium.+__
+Secondly, THERE WAS A FREACKING MONSTER OUT THERE AND I DON’T WANT TO MEET IT AGAIN+__
+Is that enough for you?__
+
+<(53)1 - A monster you say?__
+<(55)2 - Where are you now?__
+]
+
+[Scene 53 __
+Y-Yeah...+ I can’t find another word to describe this thing.+__
+I’m sure that it was not my imagination...+ I think...+__
+...+Great, now you make me doubt of myself.+__
+
+<(54)1 - What did it look like?__
+]
+
+[Scene 54 __
+I only saw a silhoutte, but it was enough to activate my survival instinct.+__
+This thing had human forms but something was clearly off, I don’t know what.+__
+...+Why can’t I wake up from this nightmare?+__
+
+<(55)1 - We'll get you out of here by moving forward.__
+]
+
+[Scene 55 __
+Yes, uhm...+ I landed in some sort of tunnels.+__
+It smells horrible, almost like the rotten food in the supermarket back then.+__
+There are several different path in here.+__
+
+<(56)1 - You're under the island! Maybe you can access other parts of the city from here.__
+]
+
+[Scene 56 __
+That’s a good idea, but where should I go?+__
+I have no idea where these paths will lead+__
+uSe tHe CoDE+__
+
+<(57)1 - Huh? What did you say?__
+]
+
+[Scene 57 __
+...+What?+__
+Why did you tell what?+ I thought I was being clear.+__
+fiNd tHe CoDe+__
+
+<(58)1 - I-Is there a code near you by any chance?__
+]
+
+[Scene 58 __
+What do you mean a co-...+ Huh?+__
+There are inscriptions on the wall...+ It says "MK BLOOD CODE+__
+A = FRONT+__
+B = LEFT+__
+C = RIGHT"+__
+#%ReMemBeR iT, iT WiLL nOt aPpEAr aGAiN=#+__
+
+<(59)1 - Okay noted, now you'll have to listen to my instructions.__
+]
+
+[Scene 59 __
+B-But how did you know there was-...+__
+Fine...+ Asking more questions will only confuse me more.+__
+So where should I go first?+__
+
+<(60)1 - Go front__
+<(66)2 - Go right__
+<(66)3 - Go left__
+]
+
+[Scene 60 __
+Okay, front it is.+__
+What then?+__
+
+<(66)1 - Go front__
+<(66)2 - Go right__
+<(61)3 - Go left__
+]
+
+[Scene 61 __
+Left?+ Righty-o my friendo!...+__
+.+.+.+__
+Sorry, I thought a bit of humour would be nice, but I was wrong.+__
+What next?+__
+
+<(62)1 - Go front__
+<(66)2 - Go right__
+<(66)3 - Go left__
+]
+
+[Scene 62 __
+Front again.+__
+Oh Lord, why does it have to smell that much in here!+__
+Hurry, where should I go?+__
+
+<(66)1 - Go front__
+<(63)2 - Go right__
+<(66)3 - Go left__
+]
+
+[Scene 63 __
+Alright, that's right, right?+__
+And how about right now?+__
+
+<(64)1 - Go front__
+<(66)2 - Go right__
+<(66)3 - Go left__
+]
+
+[Scene 64 __
+Front is...+ uh...+ nah.+ I don't have any puns on this one.+__
+Tell me what's next.+__
+
+<(66) 1 - Go front__
+<(66) 2 - Go right__
+<(65) 3 - Go left__
+]
+
+[Scene 65 __
+On left it goes!+__
+Well tha-...+__
+Fuck.+ I heard something behind me.+__
+Oh no...+ OH DAMN DAMN DAMN DAMN IT'S RUNNING TOWARDS ME!!!+__
+WHERE SHOULD I RUN QUICK!!!+__
+
+<^(66)1 - FRONT__
+<(66)2 - RIGHT__
+<(103)3 - LEFT__
+/5\
+]
+
+[Scene 66 __
+Are you sure it's there?+__
+There's something odd about this pa-*cracking noises*+__
+...+Don't tell me the ground's...+__
+*COLLAPSING RUCKUS*+__
+WOAAAAAAH SHIIIII-*THUMB*+__
+
+<(67)1 - Hey! Tell me you're still alive please!__
+]
+
+[Scene 67 __
+...+__
+...+F...+Fuck...+__
+That hurts as hell...+ I thing I broke a rib or something like that...+__
+Where did I landed?+ OH MY GOD IT STINKS SO MUCH!+__
+
+<(68)1 - What's around you?__
+]
+
+[Scene 68 __
+There's so much dust, I can't see anything!...+ Wait... It's getting more clear.+__
+I-I'm in-OUCH!-...+in a white room.+ The lights work in here...+ There's a door at the back.+__
+...I feel like I'm not welcome here.+__
+
+<(69)1 - Can you get up and explore the place?__
+]
+
+[Scene 69 __
+I'll try...+__
+...+OH! That hurts...+ Okay... I'm standing up...+__
+I guess you'll ask me what's behind the door right?+__
+
+<(70)1 - You guessed it.__
+]
+
+[Scene 70 __
+Here I go...+*door handle noise*+__
+...+__
+There's blood on the walls...+ I-It looks fresh...+__
+This horrible odor...+ It smells more and more as I'm moving through the hallway...+__
+...+It seems that it comes from behind this one rusty door.+__
+
+<(71)1 - Are you sure you have to open this one?...__
+]
+
+[Scene 71 __
+...*door handle noise*+__
+...+__
+...+*vomit noises*+__
+OH MY-*cough cough*...+ THERE ARE DEAD CORPSES ALL OVER THE GROUND!+__
+
+<(72)1| - Why are they here?__
+<(73)2 - Who are they?__
+<(72)3| - How did they die?__
+]
+
+[Scene 72 __
+I-...+I DON'T FREAKING KNOW!+__
+THEY ARE PILES OF DEAD BODIES AND YOU THINK THE FIRST QUESTIONS THAT COMES TO MY MIND IS+__
+"Oh! Why did they landed here? Did they die of pneumonia? How curious!"+__
+NO, I'M SCARED, I WANT TO GET OUT OF HERE!+__
+
+<(73)1 - Are they this terrifying?__
+<(74)2@ - Calm down! You're safe with me.__
+]
+
+[Scene 73 __
+Their face.+ They look dismorphed...__
+...W-What?...+ It's impossible...+__
+...+Why do they have the same clothes, the same body traits as...+ me?+ WHY DO THEY LOOK LIKE ME?!+__
+It's just a nightmare oh my god+__
+
+<(76)1 - Do I understand that... >84__
+]
+
+[Scene 74 __
+I-I'm trying, but I'm terrified!+ There was some monster chasing me just before!+__
+Now I'm inside this weird underground place filled with dead bodies looking all the same!+__
+
+<(75)1 - What do you mean by looking all the same?__
+]
+
+[Scene 75 __
+What do I mean?+ I mean they all wear the same clothes, have the same facial features, have the same body trai...+__
+...+Wait...+Why do they have the same clothes as...+ me?+__
+No.+ No, no, no it can't be, that's IMPOSSIBLE!+__
+
+<(84)1 - Can it be that... >76__
+]
+
+[Scene 76 __
+...+__
+...+ It all makes sense.+ At first I thought it was only a coincidence, you having the same tone of voice as me but...+__
+They are clones, and so am I...+__
+We're just copies of you, played with in some kind of experiment.+__
+
+<(77)1 - Don't lose hope, there must be a way to get you out of here__
+]
+
+[Scene 77 __
+S-SHUT UP!+ YOU KNEW ALL ALONG!+ You're leading all of this right?+__
+You cloned yourself for some kind of experiment?+ It's fun seeing yourself suffer right?+__
+I'm getting out of here, no matter what you say!+__
+
+<(78)1 - You're speaking nonsense!__
+<(79)2 - Are you... accusing me?__
+<(79)3 - That's it, you're turning mad.__
+]
+
+[Scene 78 __
+I'm not listening to you anymore!+__
+Here, a door with an exit sign on it.+ You thought I would fall in that trap huh?+ Too bad!+__
+*metallic noises*+ You-humpf... You didn't expected me to go through the vents huh?+__
+Try to kill me now that you don't know *crack* where I-*CRASH* AAAAAA-*THUMB*+__
+
+<(79)1 - Are you okay?__
+<(79)2 - What was that?!__
+]
+
+[Scene 79 __
+Still...+huff...+ Still trying to put up your act?+ It doesn't work on me anymore!+__
+Now where did I landed...+__
+OH SHIT, WHY AM I ON A PILE OF CORPSES?+ WHY WOULD YOU MAKE A ROOM FILLED WITH DEAD CLONES?+__
+*mechanical noises*+ What was that noise?... WHY ARE THE WALLS GETTING TIGHTER?!+__
+
+<(80)1 - Climb back to the vent!__
+]
+
+[Scene 80 __
+I-I-I CAN'T, THERE'S NO WAY OUT!+__
+The walls are closing into me!...+__
+I don't want to die here!+ I don't want to die as a vulgar piece of meat!+ PLEASE HELP ME!+__
+STOP THIS NOW!!!+__
+
+<(81)1| - I can't do anything!__
+<(81)2| - You're the one who jumped in the lion's den!__
+]
+
+[Scene 81 __
+YOU LIAR!+ YOU WERE EXPECTING THIS TO HAPPEN!+__
+YOU W-*crushing noises*... Oh my fucking god, I'm really going to die...
+*crushing noises intensifies*+ I hope you're happy now that you can hear me die crushed alive.+__
+You did this with all of the other clones huh?+ Hearing them die on live.+__
+
+<(82)1| - GET OUT OF HERE__
+<(82)2| - I DIDN'T DO ANYTHING, I SWEAR!__
+<(82)3| - That's for not believing me!__
+]
+
+[Scene 82 __
+"I hate myself for being a clone of you.+ I hate YOU!+__
+*crushing noises loudly intensifies*+__
+YOU'RE THE WORST HUMAN BEING ON THIS PLANET AND I'M HAPPY TO DIE AS YOURSELF BECAUSE IT'S WHAT YOU DESERVE!+__
+FUCK Y-*crush*+__
+...+__"
+
+<(83)1| - Oh no...__
+<(83)2| - That's what you deserved.__
+]
+
+[Scene 83 )__
+...+__
+--SIGNAL LOST--+__
+{THEY WERE MADE USING THEIR PAST SELVES, AND NOW IT'S THEIR TURN}+__
+&CRUSHED ENDING.=+__
+
+<$03/50\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 84 __
+I... It can't be.+ I'm like them?+ I'm also a clone?+__
+B-But...+ No, that makes sense after all.+__
+Your voice, it striked me at first but I considered it was a coincidence.+__
+
+<(85)1 - My voice? What about it?__
+]
+
+[Scene 85 __
+It's the same as mine! You're me!...+__
+No...+ It's not that...+__
+I'M YOU!+ I'M A COPY OF YOU!+__
+
+<(86)1 - What's your theory?__
+<(86)2| - Have you become insane?__
+<(86)3@ - You might be right about that...__
+]
+
+[Scene 86 __
+Doesn't it make sense for you? Why would I contact you in the first place?+ BECAUSE YOU'RE THE ORIGINAL!+__
+All of these copies, they never called you right?+ They look dismorphed, they are failed versions!+__
+Then it means I am somewhat special compared to others. I am a successful clone...+__
+
+<(87)1 - Is there anything more clues here?__
+<(90)2 - I don't care about who you are, LET'S GET OUT!__
+]
+
+[Scene 87 __
+I guess I can search for some!+ *footsteps*+__
+...+There are plans in this room, it might give me more clues about what's happening.+__
+It says here that...+__
+"The faulty subjects are disposed in the nutrients grinder so they can be recycled as energy for the future subjects_
+conception"+__
+
+<(88)1 - Nutrient grinder?__
+<(89)2 - Does that mean they might be other you/me in here?__
+]
+
+[Scene 88 __
+The plan shows what seems to be an gigantic hydraulic press.+__
+T-They put all of the clones here and the flesh and blood is transferred into...+__
+Into what seems to be cloning capsules...+ All this diagram forms a loop.+__
+
+<(89)1 - So all of these dead bodies are... Me?__
+<(89)2 - But what about the monster from before. Was it a clone?__
+]
+
+[Scene 89 __
+Wait...+ That means that the thing I met earlier was...+ a failed clone?+__
+Oh my god I have to get out of here quickly.+ There must be an exit door somewh-+ OH LORD+__
+There's a fuse protected under a cloche!+ "Only use for emergency escape"+__
+IT'S FOR THE TRAPDOOR FROM BEFORE!+ I CAN FINALLY GET OUT!+__
+
+<(90)1 - Is there a way to go back at the surface?__
+]
+
+[Scene 90 __
+Lucky me!+ There's an exit door right here!+__
+*footsteps*+ These stairs lead to the outside, I can see the light!+__
+...+I'M OUTSIDE AHAHAHAH!+ I'm this close to free myself from this nightmare.+__
+Now that I'm back at this vivarium, I just have to remember my way ba-...+__
+.+.+.+__
+
+<(91)1 - What's up? Why did you stop talking?__
+<(91)2 - Hello? You're there?__
+]
+
+[Scene 91 __
+...+__
+I-It's right here...+ With its disfigured face...+__
+The silhouette I've seen before.+ The failed clone...+__
+It's looking at me...+__
+...+__
+
+<(92)1 - Don't move__
+]
+
+[Scene 92 __
+I-I'm petrified...+__
+...+He's not mOH MY GOD IT'S RUNNING TOWARDS ME HELP!!!!+__
+WHAT IS THE WAY BACK TO THE ENTRANCE?!!!+__
+%#rEmeMbEr yOuR pAtH tO tHe viVaRiUm, bUt BaCkWArDs!=#+__
+
+<^(100)1 - GO NORTH__
+<(100)2 - GO SOUTH__
+<(93)3 - GO EAST__
+<(100)4 - GO WEST__
+/10\
+]
+
+[Scene 93 __
+EAST! OKAY EAST!+__
+huff...+huff+__
+I CAN HEAR ME RUNNING BEHIND ME, WHAT WAS IT NEXT?!!+__
+
+<^(100)1 - GO NORTH__
+<(94)2 - GO SOUTH__
+<(100)3 - GO EAST__
+<(100)4 - GO WEST__
+/10\
+]
+
+[Scene 94 __
+SOUTH?+ YOU SURE?!+__
+I HAVE NO TIME TO THINK ABOUT IT SO I'LL JUST GO THERE!+__
+*fast footsteps*+__
+FUCK FUCK FUCK IT'S GETTING CLOSER, BUT I THINK I'M ON THE RIGHT WAY!+__
+WHAT WAS IT LAST?+__
+
+<^(100)1 - GO NORTH__
+<(100)2 - GO SOUTH__
+<(100)3 - GO EAST__
+<(95)4 - GO WEST__
+/10\
+]
+
+[Scene 95 __
+WEST! THAT'S IT!+__
+I SEE THE ENTRANCE!+__
+I'LL CLOSE THE GATES TO SAVE ME SOME TIME!+__
+*metallic rumbling*... *CLANG*+__
+...*fast footsteps*+__
+
+<(96)1 - HURRY!__
+<(96)2 - DID IT WORKED?__
+]
+
+[Scene 96 __
+WAIT!+...+I think it worked!+__
+I can't see him back there.+ It must have got tired.+__
+...+I ran so much that I'm back at the trapdoor now...+__
+So...+ I just have to put the fuse here and...+ *mechanical beeping*# YEEES!+__
+
+<(97)1 - It opened?__
+<(97)2 - IT OPENED!__
+]
+
+[Scene 97 \__
+YES, IT'S OPENING!+__
+There are stairs here.+ I'm getting down there.+__
+...Oh my god...+ It was such an intens-*SHKRRRRRRRRR*+... I'm so happy that you were here to help me.+__
+
+<(98)1 - Wait, the signal's getting weaker!__
+]
+
+[Scene 98 __
+Do you mean th-*SHKRRRRRRRRRRR*-ction?+ Oh hell no, not after all that!...+__
+But I have t-*SHKRRRRR*-eep going.+ I don't know if I'll be able to contact you agai-*SHKRRRRRRR*+__
+...It was a pleasu-*SHKRRRRRRRRRRRRRRR*...+ Thank you, I'm glad to be y-*SHKRRRRRRRRRRR*...+__
+Goodbye...+__
+
+<(99)1 - I hope you'll be safe. Goodbye__
+]
+
+[Scene 99 )__
+...+__
+--SIGNAL LOST--+__
+&{ONE LIFE SAVED, BUT WHAT ABOUT THE OTHERS?}=+__
+%TRAPDOOR ENDING.=+__
+
+<$03/50\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 100 __
+ARE YOU SURE IT WAS THERE?!+ I DON'T REMEMB-*THUMB*+__
+OUCH! MY ANKLE!+__
+*footsteps approaching*+__
+Wait, wait, wait, wait...+ No please don't hurt me...+ We're the same, we can escape together!+__
+*"IT'S ALL BECAUSE HE WAS WAITING FOR YOU THAT HE MADE ME!"*+__
+
+<(101)1 - W-What is he talking about?__
+]
+
+[Scene 101 \__
+W-What?+__
+*"NOW YOU'LL HAVE TO PAY FOR ALL THESE FEELINGS THAT TORTURED ME!!!"*+__
+Oh no, NO PLEA-urk!...+__
+...+__
+
+<(102)1 - ...__
+]
+
+[Scene 102 )__
+...+__
+--SIGNAL LOST--+__
+&{YOU GOT TOO CLOSE OF AN INFECTED ONE. YOU FAILED TO KEEP HIS TRUST AND KEEP HIM SAFE.}=+__
+&INFECTED CLONE ENDING.=+__
+
+<$03/50\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 103 __
+I'M RUNNING AS FAST AS I CAN BUT-*rumbling noises*+__
+...+__
+Fuck...+ The tunnel collapsed behind me.+ This thing must have been crushed by the roof...+__
+
+<(105)1@ - Are you safe?__
+<(104)2 - Where are you now?__
+]
+
+[Scene 104 __
+Can't you just wait a second before getting this pragmatic!+__
+"Where are you", "What do you see", "Stop dying, it's making me awkward"+__
+Wait for me to process everything that's going on, Jesus!+__
+I just been chased by a disfigured human for god sake!+__
+
+<(106)1 - disfigured human?__
+<(107)2@ - Right, take your time to breath.__
+<(108)3| - I didn't know you were a soft belly.__
+]
+
+[Scene 105 __
+Y-Yeah...+ Thanks for asking.+__
+I'm in a corridor now, and it seems far more preserved than annything I saw on this island before.+__
+The lights are even working in here.+__
+
+<(112)1 - Doesn't it seems like an inhabited place?__
+]
+
+[Scene 106 __
+That's right.+ I turned my back for a blink of a second and I saw what this monster was.+__
+It was a human, as tall as I am, but with a deformed face.+__
+...+It was horrifying. I wish I never saw that.+__
+
+<(110)1 - It might be better to get out of here since it might get out of the rubble__
+<(109)2| - Why did it chase you in the first place?__
+]
+
+[Scene 107 __
+Thanks...+__
+*breath*...+*cough cough!*+__
+Ah shit, that was not the best idea to take a huge breath near a pile of freshly collapsed tunnels.+__
+*cough*+ But thanks for the attention anyway, I'm ready to go now.+__
+
+<(111)1 - Can you describe what's around you?__
+]
+
+[Scene 108 __
+...+__
+I'll act as if that was a joke...+__
+To change the subject, I'm now in a corridor now, and it seems far more preserved than annything I saw on this island_
+before.+__
+The lights are even working in here.+__
+
+<(112)1 - Doesn't it seems like an inhabited place?__
+]
+
+[Scene 109 __
+Do you think I know?+ I'm as confused as you are.+__
+Maybe he wanted to eat my flesh, or maybe he wanted to show me kindly how to escape!+__
+Seriously, I can't explain anything that's happening to me.+__
+I just want to make the one that put me there suffer at this point.+__
+Anyway. I 'm in front of a corridor, and it seems far more preserved than annything I saw on this island.+__
+The lights are even working in here.+__
+
+<(112)1 - Doesn't it seems like an inhabited place?__
+]
+
+[Scene 110 __
+You're right.+ I feel like I'll turn crazy if I think too much about what's happening.+__
+Let's just move forward+__
+I'm now inside a corridor, and it seems far more preserved than annything I saw on this island before.+__
+The lights are even working in here.+__
+
+<(112)1 - Doesn't it seems like an inhabited place?__
+]
+
+[Scene 111 __
+Of course! I'm in front of a corridor.+__
+It seems far more preserved than annything I saw on this island before.+__
+The lights are even working in here.+__
+
+<(112)1 - Doesn't it seems like an inhabited place?__
+]
+
+[Scene 112 __
+Yes.+__
+I've didn't meet any working light before.+ The only thing that was working was this escalator from before.+__
+It seems that I'm heading to a new place designed for me by the one who brought me here.+__
+
+<(113)1 - It might be another trap then, can't you go back?__
+<(114)2 - It's time to face another test it seems.__
+]
+
+[Scene 113 __
+It's not that it "might be", it's sure that I'm throwing myself in the lion's den.+__
+But I have no choice at this point.+ The path behind me is blocked by all the debris.+__
+I have to move forward.+__
+*footsteps echoing*+__
+...+I can't believe it.+__
+
+<(115)1 - You can't believe what?__
+]
+
+[Scene 114 __
+Yes, another trial...+__
+I don't know what is the goal of all this, but I will get to the bottom of it. Let's move on+__
+*footsteps echoing*+__
+...+I can't believe it.+__
+
+<(115)1 - You can't believe what?__
+]
+
+[Scene 115 __
+Th-THERE'S A BOAT HERE!+ It's put on the water, ready to be used!+__
+There's even a hole leading outside, I can see the sunshine from here!+__
+I'M FINALLY FREE!+__
+
+<(116)1 - Not so fast, it might be a trap!__
+<(117)2 - What kind of boat is it?__
+]
+
+[Scene 116 __
+What do you mean it's a trap?+ THE BOAT'S RIGHT HERE!+__
+I just have to get on it and I'll finally be free AHAHAHAHAH!!!!+__
+
+<(118)1 - Focus now! Is there nothing else in this room?__
+]
+
+[Scene 117 __
+A YACHT!+ I'M GOING TO ESCAPE FROM THIS NIGHTMARE ISLAND ON A YACHT!+__
+YAHOOOOOO!!!+__
+
+<(118)1 - Focus now! Is there nothing else in this room? ;130__
+]
+
+[Scene 118 __
+Oh my-+ Sorry, I'm way too happy about this whole situation.+ I might get out of here!+__
+Anyway. I'm in a port inside of some of cave that looks outside, directly into the sea.+__
+...+Wait...+ Is that someone standing on the dock?+__
+It's not the monster from before.+__
+
+<(119)1 - Try to-...__
+<(119)2 - Go in-...__
+<(119)3 - Hide from-...__
+]
+
+[Scene 119 __
+&I didn't expected you there, to be honest. This place was supposed to be hidden from you.=+__
+W-What? Who are you?+__
+&I'm your creator. And the one you're talking to with that phone is the original.=+__
+
+<(120)1 - Original? What does he mean?__
+<(120)2 - What do you mean by creator?__
+]
+
+[Scene 120 __
+&You ask too many questions.+ All you have to know is that all of this experiment was a success.=+__
+&Your clone, original, has successfully passed.=+__
+&He resisted and still remains unaffected by the thing that transformed the thing that followed you before.=+__
+W-Wait...+ What do you mean by clone?+ I have feelings! I can feel pain!+__
+
+<(121)1 - I...__
+<(121)2 - But...__
+]
+
+[Scene 121 __
+&You're mistaking yourself with a robot, subject 835.+ You're just a pale copy of what this person you're talking_
+to is.=+__
+I...+__
+&Confused, right?+ just come to me and accept what you're supposed to be : a succesful vessel.=+__
+&Your blood will save millions, let me just exctract all of it from you!=+__
+
+<(122)1 - HE'S GOING TO KILL YOU!__
+]
+
+[Scene 122 __
+I KNOW!+ But I'm not going to have my blood sucked by an old rag!+__
+Your advices brought me here, and even if I'm a copy of what you are, I'm not going to give up my life so easely!+__
+&Resisting, uh? Looks like I'll have to do the job myself.=+__
+What do you mea-OH MY GOD HE HAS A GUN!+__
+
+<(123)1@ - FIGHT HIM__
+]
+
+[Scene 123 __
+That's right!+ You heard that, old man?+ A SIMPLE GUN'S NOT GOING TO STOP ME AFTER ALL THIS!+__
+*BANG*+ SHIT! THAT WAS CLOSE!+__
+I'm not going to die here! I'M IN CONTROL OF MY OWN LIFE!+__
+&Stay still you insignificant piece of flesh!=+__
+NO WAY! I'M COMING FOR YOU!+__
+
+<(124)1@ - GIVE HIM WHAT HE DESERVES!__
+]
+
+[Scene 124 __
+*BANG*+ &What, I MISSED?!=+ *click* &NO MORE AMMO?!!=+__
+&Wait no, don't hurt me please!+ I'm you're creator!+ I GAVE YOU LIFE!=+__
+...+You said subject 835, right?+ They all died in your experiments I guess...+__
+Well, it's only fair that I take your life for the many that you took.+__
+*WHAM*+ *splash*+__
+
+<(125)1 - You killed him?__
+]
+
+[Scene 125 __
+...+__
+...+Well, his body is face down in the water, and it doesn't seem to care so I'll assume he is+__
+To be honnest, that was the best punch I gave to someone in my entire life...+ since it was the first.+__
+
+<(126)1 - What are you going to do now?__
+]
+
+[Scene 126 __
+I'm heading to the boat.+__
+*footsteps*...+ Yeah, I called it, it's his personnal boat.+__
+There is enough rations to live on the sea for a month.+ Seems like I'm escaping for good now!+__
+
+<(127)1 - I hope you'll have a good trip on the sea!__
+]
+
+[Scene 127 __
+Well, seems like we're going to go seperate ways from now.+ I think there will be no signal on the sea.+__
+...+It's been a pleasure to have you on this phone.+ I'm glad that this whole thing has been stopped+__
+We could maybe meet one day, but I feel like starting a new life, creating my own new identity.+__
+But who knwos?+ Maybe we'll meet again.+__
+
+<(128)1 - Well then, I guess it's a goodbye.__
+]
+
+[Scene 128 __
+*VRRRRMMMM*...+ The engine's running perfectly!+__
+Oh and yes, goodby friend.+__
+I'll be heading north, I hope to find civilization quick.+__
+I'll let you hang up, my hands are pretty taken by the steering wheel ahah!+__
+
+<(129)1 - See you around. *Hangs up*__
+]
+
+[Scene 129 )__
+See you, Origin-*bip#*+__
+...+ --SIGNAL LOST--+__
+&{THE MONSTER IS GONE, THE SCIENTIST TOO, BUT WHAT DID THEY SEEK?=+__
+&YOU TWO ARE SAFE NOW. IT'S PROBABLY ALL THAT MATTERS}=+__
+%CLONES REVENGE ENDING=__
+
+<$03/50\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
+
+[Scene 130 __
+I don't care about your "check this, check that" now.+ I'M FREE TO GO!+__
+*footsteps*+ Soooo... How does this engine works?+__
+
+<(131)1 - You want me to search on the internet?__
+]
+
+[Scene 131 __
+Oh come on!+ I don't need that anymore!+__
+I'M FREE-*click*+__
+&You thought you could escape me, huh?+ Well too bad, but I'm going to have to replace you.=+__
+
+<(132)1 - Who is talking?__
+]
+
+[Scene 132 __
+W-Who are you?...+ WHY ARE YOU AIMING A GUN AT ME?+__
+&I'm your creator.+ You should be grateful that you're even alive thanks to me.=+__
+&Now...+ You got out of the path I made for you thanks to incredible odds, but that's the end of it.=+__
+W-What do you mean?+__
+
+<(133) 1 - FIGHT BACK, DO SOMETHING!__
+]
+
+[Scene 133 __
+&I think this is too late for that, original.+ Your mission ends here.+ You've proven me that he's the right one.=+__
+The right one?...+ What are you even talking about?+__
+&Oh...+ Don't worry about that.+ You won't be here to witness it anyway=+__
+Don't tell me you-*BANG*...+__
+...+__
+
+<(134)1 - No... It can't be...__
+]
+
+[Scene 134 )__
+&See you never, Original.=+__
+*bip*...+__
+...+__
+--SIGNAL LOST--+__
+&{HE CAUGHT YOU. YOU COULDN'T BE TRUSTED.}=+__
+&SHOT BY HIM ENDING=__
+
+<$03/50\1 - Retry this Chapter__
+<$01/50\2 - Retry from Chapter-01__
+<$00/50\3 - Return to Menu__
+<$99 4 - Quit__
+]
