@@ -34,13 +34,13 @@ int main(int argc, char* argv[])
             if (interfaceMainMenu.GetDisplay())
             {
                 interfaceMainMenu.SetDisplay(false);
-                interfaceMainMenu.DisplayMainMenu(utils, setupConsole);
+                //interfaceMainMenu.DisplayMainMenu(utils, setupConsole);
             }
 
             if (interfaceGame.GetDisplay())
             {
                 interfaceGame.SetDisplay(false);
-                interfaceGame.DisplayTransitionChapter(utils, setupConsole);
+                //interfaceGame.DisplayTransitionChapter(utils, setupConsole);
             }
 
             interfaceGame.DisplayInterfaceGame(utils, setupConsole);

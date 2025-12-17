@@ -16,7 +16,7 @@
 [Connection=2]
 [Content=
 [Color=Gray]*Click*[Color=White]...[Wait=500][Space=2]
-[Color=Gray]*SHKRRRRRRRRR*[Color=White]...H-Hello? Is someone there-[Color=Gray]*SHKRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] H-Hello? Is someone there-[Color=Gray]*SHKRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 How does this thing wor-[Color=Gray]*SHKRRRRRRRRRR*[Color=White]...[Wait=500] Can you hear m-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 Hello?[Wait=500][Space=2]
 ]
@@ -192,7 +192,7 @@ I-[Wait=500] I picked up a random phone I found on a shelf, and it called you wi
 [Scene=16
 [Content=
 I found this phone in the supermarket, and simply opening it started a call.[Wait=500][Space=2]
-*Button presses*[Wait=500][Space=2]
+[Color=Gray]*Button press*[Color=White]...[Wait=500][Space=2]
 It doesn't seem to have any apps installed, I can't even access the contacts.[Wait=500][Space=2]
 Calling you was the only thing I could do with this dusty relic of a device.[Wait=500][Space=2]
 ]
@@ -272,7 +272,7 @@ You’re my only way to communicate with the outside world, it’s just a matter
 [Content=
 PLEASE DON’T HANG UP! I just need someone to talk to![Wait=500][Space=2]
 I have no idea if either of us will even be able to call again if you hang up![Wait=500][Space=2]
-Wh-[Wait=500] whatever is happening to me is beyond anything they could believe anyway![Wait=500][Space=2]
+Wh-[Wait=500] Whatever is happening to me is beyond anything they could believe anyway![Wait=500][Space=2]
 ...[Wait=500][Space=2]
 [Color=Magenta][Beep=True]It[Wait=500][Beep=True] wO[Wait=500][Beep=True] uLd[Wait=500][Beep=True] bE uS[Wait=500][Beep=True] eLLeSs.[Wait=500][Beep=True] Ke[Wait=500][Beep=True] p tHe[Wait=500][Beep=True] CaLL[Wait=500][Beep=True] gO[Wait=500][Beep=True] iNg.[Color=White][Wait=500][Space=2]
 ]
@@ -351,7 +351,7 @@ I'm sorry to take your time like that, but I haven't really got a choice.[Wait=5
 [Content=
 O-Okay! I gotta get out of the building first, just stay with me.[Wait=500][Space=2]
 [Color=Gray]*You hear the person’s footsteps echoing through the supermarket*[Color=White]...[Wait=500][Space=2]
-This place is huge, you don’t realize that until the mall’s empty.[Wait=500] Just, what happened he-[Wait=500][Space=2]
+This place is huge, you don’t realize that until the mall’s empty.[Wait=500] Just, what happened he-...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
 I hear something.[Wait=500] Mechanical, screeching kind of noise.[Wait=500][Space=2]
 ]
@@ -462,7 +462,7 @@ Even if I don't think I can go fast enough to compete against this escalator eh!
 [Content=
 Hum...[Wait=500][Space=2]
 Okay? It might lead somewhere interesting.[Wait=500][Space=2]
-I just have to...[Wait=500] Take a step at the right...[Wait=500] Time...[Wait=500][Space=2]
+I just have to...[Wait=500] take a step at the right...[Wait=500] time...[Wait=500][Space=2]
 WOOAAH SHI-[Color=Gray]*THUMP*[Color=White]...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
@@ -529,9 +529,9 @@ I can see a kind of craft section behind me too.[Wait=500] There might be useful
 [Content=
 Okay![Wait=500] I'm hungry as hell, I wouldn't say no to a little snack.[Wait=500][Space=2]
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
-[Color=Gray]*Sniff*[Color=White][Wait=500] OH G-...[Wait=500] IT SMELLS TERRIBLE OVER HERE![Wait=500][Space=2]
+[Color=Gray]*Sniff*[Color=White]...[Wait=500] OH G-...[Wait=500] IT SMELLS TERRIBLE OVER HERE![Wait=500][Space=2]
 Shelves are filled with rotten fruits and vegeta-...[Wait=500][Space=2]
-[Color=Gray]*Glurp*[Color=White][Wait=500] Oh lord, I almost threw up...[Wait=500][Space=2]
+[Color=Gray]*Glurp*[Color=White]...[Wait=500] Oh lord, I almost threw up...[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=45][Content=Maybe it’s a better idea to check out the craft section...]]
@@ -570,7 +570,7 @@ You sure?[Wait=500] I mean, I'm hungry as hell, so I might take a bite if there 
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500] [Color=Gray]*Sniff*[Color=White]...[Wait=500][Space=2]
 OH G-...[Wait=500] IT SMELLS TERRIBLE OVER HERE![Wait=500][Space=2]
 Shelves are filled with rotten fruits and vegeta-...[Wait=500][Space=2]
-[Color=Gray]*Glurp*[Color=White][Wait=500] Oh lord, I almost threw up...[Wait=500][Space=2]
+[Color=Gray]*Glurp*[Color=White]...[Wait=500] Oh lord, I almost threw up...[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=46][Content=Can you keep going? There might be something interesting here.]]
@@ -594,7 +594,7 @@ There is some door-wedge and rusty nails...[Wait=500] Nothing that could be usef
 Yeah, I guess, but it's on-[Color=Gray]*Glurp*[Color=White]...[Wait=500] Only because you asked me nicely...[Wait=500][Space=2]
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500] Good heavens, aren't these trash supposed to be eaten by the bugs?[Wait=500][Space=2]
 Wait?[Wait=500] There's a cereal bar over here that still is good to eat![Wait=500][Space=2]
-[Color=Gray]*Crunch*[Color=White][Wait=500] Yum... That’s good to eat something...[Wait=500] [Color=Gray]*Gulp*[Color=White][Wait=500] Ah yes, I needed that.[Wait=500][Space=2]
+[Color=Gray]*Crunch*[Color=White]...[Wait=500] Yum... That’s good to eat something...[Wait=500] [Color=Gray]*Gulp*[Color=White]...[Wait=500] Ah yes, I needed that.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=50][Content=Are you finished eating? Is there anything else here?]]
@@ -603,7 +603,7 @@ Wait?[Wait=500] There's a cereal bar over here that still is good to eat![Wait=5
 
 [Scene=47
 [Content=
-I see... A door down the hall.[Wait=500][Space=2]
+I see... a door down the hall.[Wait=500][Space=2]
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
 I hear some sound behind it...[Wait=500] What do I do?[Wait=500][Space=2]
 ]
@@ -616,7 +616,7 @@ I hear some sound behind it...[Wait=500] What do I do?[Wait=500][Space=2]
 [Scene=48
 [Content=
 Alright. Let's do it the hard way.[Wait=500][Space=2]
-[Color=Gray]*KICK*[Color=White][Wait=500] POLICE, DON'T MOVE![Wait=500] Ouch ouch ouch! My foot hurt as hell now...[Wait=500][Space=2]
+[Color=Gray]*KICK*[Color=White]...[Wait=500] POLICE, DON'T MOVE![Wait=500] Ouch ouch ouch! My foot hurt as hell now...[Wait=500][Space=2]
 Great! The door was clearly open! And there's no one here anyway... This door wasn't worth kicking.[Wait=500][Space=2]
 It's just a security room.[Wait=500] Everything seems out of pow-.[Wait=500][Space=2]
 ...Oh my bad, seems to be one thing still working![Wait=500][Space=2]
@@ -628,7 +628,7 @@ It's just a security room.[Wait=500] Everything seems out of pow-.[Wait=500][Spa
 
 [Scene=49
 [Content=
-Okay... Carefully...[Wait=500][Space=2]
+Okay... carefully...[Wait=500][Space=2]
 ...[Wait=500] Well, there is clearly no one here.[Wait=500][Space=2]
 It's an old security room, everything is out of power.[Wait=500][Space=2]
 Oh no, my bad, the beeping sound is coming from here![Wait=500][Space=2]
@@ -657,7 +657,7 @@ I-It's uuuuh...[Wait=500] A laptop, seems to be on the lockscreen.[Wait=500][Spa
 There's a post-it attached on the upper right corner of it.[Wait=500] It says [Color=Green]"Vaccine Rabies Year"[Color=White]...[Wait=500][Space=2]
 I don't know when that thing was![Wait=500][Space=2]
 ...What?[Wait=500] I don't remember how I got here in the first place, don't expect me to remember this![Wait=500][Space=2]
-Anyway, you might want to search for that on the internet, it's a 4-digit password.[Wait=500] I'll try to log in.[Wait=500][Space=2]
+Anyway, you might want to search for that on the internet, it's a [Color=Green]4-digit password[Color=White].[Wait=500] I'll try to log in.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=52][Content=Okay, go ahead, I'm going to search that in my browser.]]
@@ -687,7 +687,7 @@ HURRY UP, WHAT'S THE PASSWORD?![Wait=500][Space=2]
 [Connection=1]
 [Content=
 ALRIGHT, I'LL TYPE THIS...[Wait=500][Space=2]
-Oh...[Wait=500] Looks like the beeping sound sto-[Wait=500] [Color=Gray]*BOOOM*[Color=White][Wait=500] [Color=Gray]*SHKRRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+Oh...[Wait=500] Looks like the beeping sound sto-[Color=Gray]*BOOOM*[Color=White]...[Wait=500] [Color=Gray]*SHKRRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=54][Content=Are you here?]]
@@ -812,7 +812,7 @@ There's a huge "EXIT" word tagged on it.[Wait=500][Space=2]
 AHAHAHAH![Wait=500] You're right![Wait=500][Space=2]
 Now, how do I open this thing?[Wait=500][Space=2]
 There are no visible handles, and it looks far too resistant to be opened with my bare hands.[Wait=500][Space=2]
-Please tell me tha-... Oh![Wait=500] There's a command panel over here![Wait=500][Space=2]
+Please tell me tha-...[Wait=500] Oh![Wait=500] There's a command panel over here![Wait=500][Space=2]
 ...[Wait=500] There's clearly a fuse missing here...[Wait=500][Space=2]
 ]
 [Choices=
@@ -832,7 +832,7 @@ If there is even a single chance that this trapdoor brings me back to civilizati
 
 [Scene=65
 [Content=
-Well… There's no handle attached to it anywhere...[Wait=500][Space=2]
+Well...[Wait=500] There's no handle attached to it anywhere...[Wait=500][Space=2]
 HNNG![Wait=500] Huff...[Wait=500] I can't open it with my bare hands either.[Wait=500][Space=2]
 It seems locked by some kind of electrical mechanism that leads to this control panel.[Wait=500][Space=2]
 ...[Wait=500] There's clearly a fuse missing here...[Wait=500][Space=2]
@@ -920,7 +920,7 @@ The [Color=Green]"Zoo"[Color=White], the [Color=Green]"Factory"[Color=White], or
 [Scene=72
 [Connection=3]
 [Content=
-Hmmm... The buildings here look exactly the same compared to the ones I crossed before calling you...[Wait=500][Space=2]
+Hmmm...[Wait=500] The buildings here look exactly the same compared to the ones I crossed before calling you...[Wait=500][Space=2]
 Hey![Wait=500] There are signs leading to two different locations here.[Wait=500][Space=2]
 One is leading to a [Color=Green]"Factory"[Color=White] and the other to a [Color=Green]"Zoo"[Color=White].[Wait=500][Space=2]
 ]
