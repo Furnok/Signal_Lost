@@ -1,4 +1,4 @@
-[Chapter=4][Name=The Factory][Connexion=3][Trust=50][StartScene=1]
+[Chapter=4][Name=The Factory][Connection=3][Trust=50][StartScene=1]
 
 [Scene=1
 [BeepBack=True][Connexion=4][Timer=15]

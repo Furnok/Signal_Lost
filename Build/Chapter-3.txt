@@ -1,13 +1,1730 @@
-[Chapter=3][Name=The Zoo][Connexion=3][Trust=50][StartScene=1]
+[Chapter=3][Name=The Zoo][Connection=3][Trust=50][StartScene=1]
 
 [Scene=1
-[BeepBack=True][Connexion=4][Timer=15]
+[Connection=3]
 [Content=
-*bip*[Wait=500] *bip*[Wait=500] *bip*[Wait=500][Space=2]
-*INCOMING CALL*[Wait=500][Space=2]
+I guess I can go to the zoo, yeah.[Wait=500][Space=2]
+I don't see how going in any of these locations could help me escape this island.[Wait=500][Space=2]
+So whatever you'll choose might be the best.[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=2][Content=Pick up]]
-[Choice2=[Default=True][NextScene=3][Content=Hang up]]
+[Choice1=[NextScene=2][Content=Okay, go when you're ready!]]
+]
+]
+
+[Scene=2
+[Content=
+It might take a few minutes before I get to the entrance of the zoo, so let's small talk a bit while we're here![Wait=500][Space=2]
+...[Wait=500][Space=2]
+...[Wait=500] Uhm...[Wait=500] Yeah...[Wait=500] I'm kinda sorry for the position I put you in with this call and everything.[Wait=500][Space=2]
+But it seems-[Wait=500] ...I didn't have that many choices.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=3][TrustAdd=25][Content=No worries. I feel better knowing you're safe.]]
+[Choice2=[NextScene=5][TrustAdd=-25][Content=Your story still feels kinda weird to me...]]
+[Choice3=[NextScene=6][Content=It's true that I didn't expect to have this kind of call today!]]
+]
+]
+
+[Scene=3
+[Content=
+T-Thanks...[Wait=500][Space=2]
+It's good to know I can rely on you,[Wait=500] especially in the kind of situation I'm in. So th-[Wait=500] Thanks, I guess...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=4][Content=Talking about that, this whole situation is trully unreal.]]
+]
+]
+
+[Scene=4
+[Content=
+...[Wait=500] You're right...[Wait=500][Space=2]
+...[Wait=500] It's pure madness.[Wait=500] The more I think about it,[Wait=500] the more fucked up it gets.[Wait=500][Space=2]
+Why is this happening to me?[Wait=500] Why did it call you?[Wait=500] Why is everything set up as if it was on purpose?[Wait=500][Space=2]
+Where the fuck am I?...[Wait=500] WHY IS NO ONE HERE TO ANSWER MY DAMN QUESTIONS?![Wait=500][Space=2]
+[Color=Gray]*Echoes fade in the distance*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=7][TrustAdd=25][Content=Calm down, you'll be safe with me, I promise.]]
+[Choice2=[NextScene=9][TrustAdd=-25][Content=Keep quiet! Someone might hear you!]]
+[Choice3=[NextScene=11][TrustAdd=25][Content=All that matters is getting you out of here.]]
+]
+]
+
+[Scene=5
+[Content=
+Are you still not believing m-...[Wait=500][Space=2]
+UGH![Wait=500] You know what?[Wait=500] It doesn't matter if you're not believing any of this.[Wait=500][Space=2]
+I just want you to stay with me since this place is filled with puzzles I could not solve alone.[Wait=500][Space=2]
+Sounds okay with you?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=4][Content=Don't worry, I believe your story, it just feels... unreal.]]
+[Choice2=[NextScene=10][TrustAdd=25][Content=I guess I'll be your talkable web browser from now on!]]
+]
+]
+
+[Scene=6
+[Content=
+Yeah, I guess so![Wait=500][Space=2]
+Neither I expected to wake up on a deserted island![Wait=500][Space=2]
+I'm currently living a movie plot...[Wait=500] Cameras anywhere?[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I can't even tell if I'm dreaming or not.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=4][Content=It's true, all of this is so unreal...]]
+[Choice2=[NextScene=8][TrustAdd=25][Content=I can assure you I'm real, if that's a relief for you.]]
+]
+]
+
+[Scene=7
+[Content=
+...Y-[Wait=500]You promise?...[Wait=500][Space=2]
+Thanks...[Wait=500][Space=2]
+Sorry, this whole situation has my mind doing backflips.[Wait=500][Space=2]
+I just have to take a deep breath and it will be okay...[Wait=500][Space=2]
+[Color=Gray]*Breath*[Color=White]...[Wait=500][Space=2]
+Alright![Wait=500] I'm up to go![Wait=500] I think I can keep going thanks to you.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=15][Content=Nice! So, you're near the zoo now?]]
+]
+]
+
+[Scene=8
+[Content=
+Well...[Wait=500] On one hand, it's nice to know that I'm not talking to a ghost.[Wait=500][Space=2]
+On the other hand, the fact that I'm not dreaming about being stuck in an abandonned city in the middle of the sea.[Wait=500][Space=2]
+This scares the shit out of me.[Wait=500][Space=2]
+I'll eventually work out why all of this is happening in the first place.[Wait=500][Space=2]
+But for now, let's just move forward.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=15][Content=So, you're near the zoo now?]]
+]
+]
+
+[Scene=9
+[Content=
+I'LL SCREAM AS LOUD AS I WANT!![Wait=500][Space=2]
+FUCK WHOEVER MADE ME GO HERE![Wait=500][Space=2]
+FUCK ME FOR NOT REMEMBERING WHO I AM![Wait=500][Space=2]
+FUCK THIS PHONE FOR HAVING YOU FOR ONLY CONTACT![Wait=500] TAKE THAT![Wait=500] [Color=Gray]*Impact noises*[Color=White]...[Wait=500][Space=2]
+...[Wait=500]Oh no, no, no, no, what have I done...[Wait=500] Please tell me you're still working...[Wait=500][Space=2]
+...H-[Wait=500]Hello...[Wait=500] You still hear me?...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=12][TrustAdd=-25][Content=Yes, try not to break your only connection to the outside world next time.]]
+[Choice2=[NextScene=13][TrustAdd=25][Content=It's okay. Try to keep your mind straight, now's not the time to act recklessly.]]
+[Choice3=[NextScene=14][TrustAdd=-25][Content=I'm trying to help you and this is what I get? I'll hang up if you continue like that.]]
+]
+]
+
+[Scene=10
+[Content=
+Good one, clown.[Wait=500][Space=2]
+Anyway, I'm getting near the entrance of the zoo.[Wait=500][Space=2]
+It might be better if we focus on getting out of here more than joking around.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=15][Content=Let's explore the zoo since you're near it now, right?]]
+]
+]
+
+[Scene=11
+[Content=
+That's right...[Wait=500] Getting out of here...[Wait=500][Space=2]
+...[Wait=500]If that's even possible.[Wait=500] I mean...[Wait=500][Space=2]
+Opening this trapdoor might be the only way out of here, but why is it here in the first place?[Wait=500][Space=2]
+I guess I won't have any answer if I don't go and see by myself.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=15][Content=The zoo could give you the keys for getting out of here. You're approaching it right?]]
+]
+]
+
+[Scene=12
+[Content=
+I'm so, so, so sorry.[Wait=500] I didn't mean to yell like that...[Wait=500][Space=2]
+What is this thing made of?[Wait=500][Space=2]
+I don't know how much this piece of junk can endure but I don't want to find out.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=15][Content=It's pretty solid for sure. But how about the zoo?]]
+]
+]
+
+[Scene=13
+[Content=
+R-Right,[Wait=500] you're right.[Wait=500][Space=2]
+I'm lucky this flip phone can handle this much.[Wait=500][Space=2]
+I think I can keep going now.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=15][Content=That's okay. You arrived now?]]
+]
+]
+
+[Scene=14
+[Content=
+NO PLEASE, I DON'T KNOW IF I COULD EVEN MAKE IT OUT ALIVE WITHOUT YOU![Wait=500][Space=2]
+O-Okay,[Wait=500] I'll be more careful from now on...[Wait=500] Please don't go.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=15][Content=That's better. Now tell me, you're at the zoo?]]
+]
+]
+
+[Scene=15
+[Content=
+Yes, There's a huge opened metallic gate right here. And also I'm in front of a map of the zoo...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...[Wait=500]It's almost unreadable.[Wait=500] All of it's teared away and I can't even make up where to go.[Wait=500][Space=2]
+Hahaha! Funny thing, it's shaped like Australia![Wait=500][Space=2]
+...[Wait=500]Is my brain fucked up for laughing at this?[Wait=500][Space=2]
+I guess it is.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=16][Content=Is there something else around?]]
+]
+]
+
+[Scene=16
+[Content=
+Nothing that strikes my mi-[Wait=500] Oh wait![Wait=500][Space=2]_
+There are flyers lying here and there.[Wait=500] Let me try to catch one.[Wait=500][Space=2]
+...[Color=Gray]*Footsteps*[Color=White][Wait=500] ...Oof![Wait=500][Space=2]
+...[Wait=500]I got one! [Color=Gray]*Paper noises*[Color=White]...[Wait=500][Space=2]
+...Uhmm[Wait=500]...[Wait=500] It looks like a presentation of the animals of the zoo.[Wait=500][Space=2]
+It's weird but there are words written using markers on the snake's page.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=17][Content=What do they say?]]
+]
+]
+
+[Scene=17
+[Content=
+There's the first word [Color=Green]"BRSBNE"[Color=White].[Wait=500][Space=2]
+Then there's an arrow leading to the word [Color=Green]"DRWN"[Color=White].[Wait=500][Space=2]
+And the word [Color=Green]"PRTH"[Color=White] at the very end.[Wait=500][Space=2]
+Too bad I can't speak moon runes.[Wait=500][Space=2]
+[Color=Magenta][Beep=True]AuS[Wait=500][Beep=True]tRaLiA mI[Wait=500][Beep=True]gHt hAv[Wait=500][Beep=True]e sOmE[Wait=500][Beep=True]tHiNg tO[Wait=500][Beep=True]  dO wItH[Wait=500][Beep=True]  tHiS.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=18][Content=What do you mean Australia?]]
+[Choice2=[NextScene=21][Content=Let's why this page deserves to be writing on in this snake's vivarium!]]
+]
+]
+
+[Scene=18
+[Content=
+Huh?[Wait=500] I said nothing about [Color=Green]Australia[Color=White].[Wait=500][Space=2]
+[Color=Magenta][Beep=True]ThO[Wait=500][Beep=True]se wOr[Wait=500][Beep=True]ds cOu[Wait=500][Beep=True]Ld bE[Wait=500][Beep=True]  rElAt[Wait=500][Beep=True]eD tO[Wait=500][Beep=True]  aUsTa[Wait=500][Beep=True]LiA mA[Wait=500][Beep=True]p, dO[Wait=500][Beep=True]n'T yOu[Wait=500][Beep=True]  tHiNk?[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=19][Content=Why are you pretending it's not you saying those things?]]
+]
+]
+
+[Scene=19
+[Content=
+Wh-whuh?[Wait=500] I thought I was the one losing my mind but you seem pretty touched too.[Wait=500][Space=2]
+I'm the only one talking to you right now, so let's focus on what's important.[Wait=500][Space=2]
+Getting me OUT OF HERE![Wait=500][Space=2]
+[Color=Magenta][Beep=True]I'[Wait=500][Beep=True]Ll bE hE[Wait=500][Beep=True]re tO[Wait=500][Beep=True]  hElP yOu[Wait=500][Beep=True],  tHe oT[Wait=500][Beep=True]hEr oNe[Wait=500][Beep=True]  iS fO[Wait=500][Beep=True]lLoWiNg[Wait=500][Beep=True]  yOu.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=17][Content=Okay... What were those words again?]]
+[Choice2=[NextScene=20][TrustAdd=-25][Content=Something weird is definitly going on...]]
+]
+]
+
+[Scene=20
+[Content=
+No shit Sherlock![Wait=500] Everything's weird in here.[Wait=500][Space=2]
+I need your help now, so prove me you're not crazy and you can be helpful![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=17][Content=Right... So, what were those words again?]]
+]
+]
+
+[Scene=21
+[Content=
+Seeing what's inside this vivarium might be the best lead we have, you're right.[Wait=500][Space=2]
+Even if these words marked very clearly on this flyers are extremly suspiscious, I guess we have no choice.[Wait=500][Space=2]
+So? Where should I be heading now?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=24][Content=Go North.]]
+[Choice2=[NextScene=22][Content=Go East.]]
+[Choice3=[NextScene=24][Content=Go South.]]
+[Choice4=[NextScene=24][Content=Go West.]]
+]
+]
+
+[Scene=22
+[Content=
+Firstly East? That seems like a random choice but okay.[Wait=500][Space=2]
+It's so weird walking near these empty enclosures.[Wait=500][Space=2]
+Like, I feel that I'm the one being observed like an animal even if I'm the one outside of these cages.[Wait=500][Space=2]
+Enough weird and paranoïd thoughts.[Wait=500] What then?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=22][Content=Go North.]]
+[Choice2=[NextScene=24][Content=Go East.]]
+[Choice3=[NextScene=24][Content=Go South.]]
+[Choice4=[NextScene=24][Content=Go West.]]
+]
+]
+
+[Scene=23
+[Content=
+North second?[Wait=500] I guess that'll do.[Wait=500][Space=2]
+You're lucky that I can tell directions thanks to the position of the sun, or it would have been really awkward.[Wait=500][Space=2]
+Now that I think about it, I could triangulate my position thanks to the stars![Wait=500][Space=2]
+Too bad it's day time...[Wait=500] And that I haven't got a fucking idea how star triangulation works in the first place.[Wait=500][Space=2]
+Anyway, where should I go next?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=24][Content=Go North.]]
+[Choice2=[NextScene=24][Content=Go East.]]
+[Choice3=[NextScene=24][Content=Go South.]]
+[Choice4=[NextScene=25][Content=Go West.]]
+]
+]
+
+[Scene=24
+[Content=
+Riiiight...[Wait=500] You seem confident about it so I'm going to listen to you...[Wait=500] [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+[Color=Gray]{SEVERAL MINUTES LATER}[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...Well shit.[Wait=500] I'm somehow back at the entrance.[Wait=500] Nice direction you gave me there...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=17][Content=I made a mistake. Could you give me those words that were on the flyer?]]
+]
+]
+
+[Scene=25
+[Content=
+West?[Wait=500] It's not like I know where to go anyway.[Wait=500] I'll be with these snakes in a minute if you're right.[Wait=500][Space=2]
+...[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]{SEVERAL MINUTES LATER}[Color=White]...[Wait=500][Space=2]
+...[Wait=500]Here I am! The vivarium...[Wait=500] is empty...[Wait=500][Space=2]
+Well, that's anti-climatic![Wait=500] I expected to be bit by a viper or something.[Wait=500][Space=2]
+[Color=Magenta][Beep=True]I hO[Wait=500][Beep=True]pE yOu'[Wait=500][Beep=True]ll rEm[Wait=500][Beep=True]eMbEr  tHe[Wait=500][Beep=True]  wAy bA[Wait=500][Beep=True]cK.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=26][Content=What do you see around you?]]
+]
+]
+
+[Scene=26
+[Content=
+I see an emergency exit right at the bottom.[Wait=500][Space=2]
+There's also an opened glass cage, it looks like the main attraction of this place.[Wait=500][Space=2]
+There are severals palm trees here and there and a reception desk over here.[Wait=500][Space=2]
+What should I do?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=27][Content=The exit door could be your way out!]]
+[Choice2=[NextScene=28][Content=Is there something interesting with these palm trees?]]
+[Choice3=[NextScene=29][Content=Search for clues inside the reception desk.]]
+[Choice4=[NextScene=32][Content=Let's look at this glass enclosure.]]
+]
+]
+
+[Scene=27
+[Content=
+I hope this emergency exit does what it's supposed to do.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500] You're kidding me...[Wait=500][Space=2]
+What kind of shit-brained buffoon puts a freaking renforced chain on an emergency exit?[Wait=500][Space=2]
+...[Wait=500]Hope there is something to break it down near there.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=26][Content=What can you see again?]]
+]
+]
+
+[Scene=28
+[Content=
+What interesting would there be about a plain, normal palm tr-...[Wait=500][Space=2]
+...[Wait=500]Nevermind.[Wait=500] There are creepy insciptions all over this one.[Wait=500][Space=2]
+""GET ME OUT, HE'S OBSERVING ME, I CAN FEEL HIM PLAYING WITH MY MIND""...[Wait=500][Space=2]
+...[Wait=500]Nope, nope nope nope,[Wait=500] that's it.[Wait=500] I don't want to read more of it.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=26][Content=Let's ignore this for now. Is there something else around you?]]
+[Choice2=[NextScene=30][TrustAdd=-25][Content=Come on, keep reading!]]
+]
+]
+
+[Scene=29
+[Content=
+Let's see what's in here.[Wait=500][Space=2]
+[Color=Gray]*Rummage noises*[Color=White][Wait=500]...[Wait=500] It's a mayhem![Wait=500] There are flyers scattered all over the floor.[Wait=500][Space=2]
+[Color=Gray]*Cough*, *Cough*[Color=White][Wait=500] God![Wait=500] The air is so dirty in here![Wait=500][Space=2]
+I didn't even move these papers that much,[Wait=500] why is there so much dust flying around?[Wait=500][Space=2]
+[Color=Gray]*Cough*[Color=White]...[Wait=500] It's wei-[Color=Gray]*Cough*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=26][Content=Leave somewhere else before you asphyxiate yourself.]]
+]
+]
+
+[Scene=30
+[Content=
+Your curiosity is going to drive me insane, you know that?[Wait=500][Space=2]
+...[Wait=500] ""I WILL KILL THE ONE RESPONSIBLE FOR THIS.[Wait=500] I WILL BE MYSELF AGAIN.[Wait=500] IT WILL LEAVE ME ALONE"".[Wait=500][Space=2]
+...[Wait=500] Seriously...[Wait=500]I-I'm trembling in fear right now...[Wait=500][Space=2]
+L-Let's tell that this thing never existed.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=26][Content=Okay, let's look what else is here.]]
+[Choice2=[NextScene=31][TrustAdd=-25][Content=You're kidding me? This must mean something!]]
+]
+]
+
+[Scene=31
+[Content=
+AND I DON'T WANT TO KNOW ABOUT IT![Wait=500][Space=2]
+I'm already on the edge of vomitting of fear, so please let's wrap it up and get out of here quickly.[Wait=500][Space=2]
+I feel unsafe...[Wait=500][Space=2]
+And watched...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=32][Content=Okay... Is there something else here?]]
+]
+]
+
+[Scene=32
+[Content=
+I'm near the enclosure. It's really big![Wait=500] Looks like it's trying to remake a wild environment.[Wait=500][Space=2]
+There's a sign near the door with [Color=Green]"WATCH OUT, VENIMOUS TIGER-SNAKES INSIDE"[Color=White] marked on it.[Wait=500][Space=2]
+Normally I would freak out at this point but I know there's no living think anywhere here![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=26][Content=Seems dangerous... Let's see if there's more thing around before.]]
+[Choice2=[NextScene=33][Content=Is there more precisions on the sign?]]
+[Choice3=[NextScene=34][Content=Go see what's inside.]]
+]
+]
+
+[Scene=33
+[Content=
+Uh... If you want a lesson about tiger-snake I can tell you what's on it I guess.[Wait=500][Space=2]
+"Tiger snake, or genus Notechis, are Australian member of the cobra family, or Elapidae.[Wait=500][Space=2]
+The snake’s venom, which contains a blood-clotting agent as well as a nerve paralyzer, is potentially fatal to humans.[Wait=500][Space=2]
+immediate injection of anti-venom is the only way to make it out without irreversible damage".[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=34][Content=Now that you're educated, you can go inside!]]
+]
+]
+
+[Scene=34
+[Content=
+It's weird to put a foot inside an animal enclosure.[Wait=500][Space=2]
+Feels like I'm the one being wa-[Color=Gray]*THUMB*[Color=White]...[Wait=500][Space=2]
+...[Wait=500] Oh no...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=35][Content=What was that sound?]]
+]
+]
+
+[Scene=35
+[Content=
+T-The door of the cage...[Wait=500][Space=2]
+It...[Wait=500][Space=2]
+IT CLOSED BEHIND ME![Wait=500] I'M STUCK IN THE CAGE![Wait=500][Space=2]
+WHO DID THA-...[Wait=500][Space=2]
+Ouch?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=36][Content=What was that?]]
+]
+]
+
+[Scene=36
+[Content=
+I...[Wait=500] I just got stung by somthing behind my neck...[Wait=500][Space=2]
+What is it...[Wait=500] Uh?[Wait=500] It says "Snake veno-"...[Wait=500][Space=2]
+OH MY GOD, IT'S A POISONNED DART!![Wait=500][Space=2]
+Oh shit, shit shit shit![Wait=500] I'm going to DIE POISONNED!![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=37][Content=Keep calm. It must be another puzzle!]]
+]
+]
+
+[Scene=37
+[Content=
+Y-You're right![Wait=500] These plastic bottles might have something to do with it and...[Wait=500][Space=2]
+Oh lord, it looks like vials with syringes of medication...[Wait=500] Don't tell me I have to inject one of these things...[Wait=500][Space=2]
+Shit...[Wait=500] I can feel my consciouscness flying away...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=38][Content=Quick, tell me what are these bottles!]]
+]
+]
+
+[Scene=38
+[Connection=2][Timer=60]
+[Content=
+O...[Wait=500] One has a label with "mRNA-1273"...[Wait=500][Space=2]
+The...[Wait=500] other one is "ASVS serum"...[Wait=500][Space=2]
+The last one has...[Wait=500] "Liquified HCN".[Wait=500][Space=2]
+Please hurry...[Wait=500] I don't want to die here...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=41][Content=Take the "ASVS Serum".]]
+[Choice2=[Default=True][NextScene=39][Content=Take the "Liquified HCN".]]
+[Choice3=[NextScene=39][Content=Take the "mRNA-1273".]]
+]
+]
+
+[Scene=39
+[Connection=1]
+[Content=
+...[Wait=500] Okay...[Wait=500] huff[Wait=500][Space=2]
+I'm shooting it in my arm...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I don't feel so good...[Wait=500][Space=2]
+...[Wait=500] I don't want to...[Wait=500] die...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=40][Content=Y-You're not going to!]]
+]
+]
+
+[Scene=40
+[Connection=0]
+[Content=
+...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{YOU FAILED TO FIND THE RIGHT MEDICATION. MAYBE IF YOU'D TRIED HARDER?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=3][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[NextChapter=1][Reset=True][NextScene=1][Content=Retry from Chapter-1.]]
+[Choice3=[Menu=True][Content=Menu.]]
+[Choice4=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=41
+[Connection=3]
+[Content=
+...[Wait=500] You're lucky I'm not afraid of needles...[Wait=500][Space=2]
+I'm shooting this serum thing... in my arm...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I-[Wait=500] I think it worked![Wait=500] I don't feel pain anymore.[Wait=500][Space=2]
+...[Wait=500] Looks like the door of the cage is open again too...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=42][Content=What was that? Who shot that dart in the first place?]]
+]
+]
+
+[Scene=42
+[Content=
+I...[Wait=500] I don't remember where it came from.[Wait=500][Space=2]
+But the fact that there was a serum to counter this venom in the first place is...[Wait=500][Space=2]
+Yeah, I'm not here by coincidence.[Wait=500] Someone's definitly trying to play with me.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=43][TrustAdd=-25][Content=GET OUT, HE'S OBSERVING YOU!]]
+[Choice2=[NextScene=44][TrustAdd=-25][Content=You're imagining things.]]
+[Choice3=[NextScene=47][TrustAdd=25][Content=You must be right.]]
+]
+]
+
+[Scene=43
+[Content=
+AAAAAAH! FOR GOD'S SAKE, YOU'RE FREAKING ME OUT![Wait=500][Space=2]
+I don't need this kind of joke now![Wait=500] I need you to take this situation seriously.[Wait=500][Space=2]
+Something is really after me and it's clear it's for no good...[Wait=500][Space=2]
+You're right on one thing...[Wait=500] I have to get out, AND FAST![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=49][Content=Wasn't there an exit door?]]
+]
+]
+
+[Scene=44
+[Content=
+What do you mean I'm "imagining things"?[Wait=500][Space=2]_
+Do you think it was fake poison?[Wait=500] Fake pain?[Wait=500] Or maybe that this whole trap was set by the inca years ago?[Wait=500][Space=2]
+I'm not going to listen to your opinion anyway.[Wait=500] What I'm living is real...[Wait=500][Space=2]
+Why are you trying to convince me otherwise?...[Wait=500] Are you part of this?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=45][TrustAdd=-25][Content=Here you go, imagining things again.]]
+[Choice2=[NextScene=46][TrustAdd=-25][Content=No! What would I benefit from this anyway?]]
+[Choice3=[NextScene=48][Content=Yes, I am.]]
+]
+]
+
+[Scene=45
+[Content=
+Why would this phone call the biggest ASSHOLE ON EARTH TO HELP ME![Wait=500][Space=2]
+...[Wait=500] I don't care anyway.[Wait=500] As long as you prevent me from dying like you did before I'm not going to complain...[Wait=500][Space=2]
+But it might be good if you start acting like you see me as a human being instead of a clown for once.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=49][Content=The biggest asshole on earth tells you to go check the exit door.]]
+]
+]
+
+[Scene=46
+[Content=
+That's...[Wait=500] That's...[Wait=500] That's fair enough.[Wait=500][Space=2]
+I can't come up with anything that would be logic at this point.[Wait=500][Space=2]
+And you genuinly helped me there so...[Wait=500][Space=2]
+Yeah, I guess I work with that for now.[Wait=500][Space=2]
+So?[Wait=500] It's time to get the fuck out of here before some bullshit puzzle happens again, right?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=49][Content=How about that exit door from before?]]
+]
+]
+
+[Scene=47
+[Content=
+If you're thinking the same as me, I think It's best if I follow my instinct and get out of here QUICK![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=49][Content=Wasn't there an exit door?]]
+]
+]
+
+[Scene=48
+[Connection=0]
+[Content=
+I KNEW IT![Wait=500][Space=2]
+I’M SURE YOU CAN TRACK ME WITH THIS PHONE![Wait=500][Space=2]
+[Color=Gray]*Crash*[Color=White]...[Wait=500] [Color=Gray]*Footsteps fading away*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+[Color=Gray]*Faint scream in the distance*[Color=White]...[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{YOU HAVE LOST HIS TRUST. MAYBE THERE IS A BETTER CHOICE?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=3][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[NextChapter=1][Reset=True][NextScene=1][Content=Retry from Chapter-1.]]
+[Choice3=[Menu=True][Content=Menu.]]
+[Choice4=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=49
+[Content=
+The exit door?[Wait=500] It's right here but it was locked anyw-...[Wait=500][Space=2]
+You got to be kidding me...[Wait=500][Space=2]
+...[Wait=500] The door...[Wait=500] It has been broke down...[Wait=500] Now it's wide open.[Wait=500][Space=2]
+I-It means someone kicked it down while I was inside the glass enclosure...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=50][Content=Let's enter!]]
+[Choice2=[NextScene=50][Content=That's freaking me out... Let's go back.]]
+]
+]
+
+[Scene=50
+[Content=
+I mean...[Wait=500] It might be better to go baAAAH WHAT THE FUCK!!!![Wait=500][Space=2]
+[Color=Gray]*Running sounds*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=51][Content=Hey? What happened? HEY?!]]
+]
+]
+
+[Scene=51
+[Content=
+…Is it gone?[Wait=500][Space=2]
+Oh.[Wait=500] My.[Wait=500] GOD![Wait=500][Space=2]
+THERE WAS A SILHOUETTE LURKING BEHIND ME IN THE VIVARIUM![Wait=500][Space=2]
+I mechanicly ran through that damn door and got as far as possible.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=52][Content=Can't you go back to the vivarium?]]
+[Choice2=[NextScene=55][Content=I see... Where did you landed?]]
+]
+]
+
+[Scene=52
+[Content=
+Uhm...[Wait=500] No?[Wait=500][Space=2]
+There’s two reasons for that.[Wait=500][Space=2]
+Firstly, I don’t have a clue of the way back to the vivarium.[Wait=500][Space=2]
+Secondly, THERE WAS A FREACKING MONSTER OUT THERE AND I DON’T WANT TO MEET IT AGAIN![Wait=500][Space=2]
+Is that enough for you?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=53][Content=A monster you say?]]
+[Choice2=[NextScene=55][Content=Where are you now?]]
+]
+]
+
+[Scene=53
+[Content=
+Y-Yeah...[Wait=500] I can’t find another word to describe this thing.[Wait=500][Space=2]
+I’m sure that it was not my imagination...[Wait=500] I think...[Wait=500][Space=2]
+...[Wait=500] Great, now you make me doubt of myself.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=54][Content=What did it look like?]]
+]
+]
+
+[Scene=54
+[Content=
+I only saw a silhoutte, but it was enough to activate my survival instinct.[Wait=500][Space=2]
+This thing had human forms but something was clearly off, I don’t know what.[Wait=500][Space=2]
+...[Wait=500] Why can’t I wake up from this nightmare?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=54][Content=We'll get you out of here by moving forward.]]
+]
+]
+
+[Scene=55
+[Content=
+Yes, uhm...[Wait=500] I landed in some sort of tunnels.[Wait=500][Space=2]
+It smells horrible, almost like the rotten food in the supermarket back then.[Wait=500][Space=2]
+There are several different path in here.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=56][Content=You're under the island! Maybe you can access other parts of the city from here.]]
+]
+]
+
+[Scene=56
+[Content=
+That’s a good idea, but where should I go?[Wait=500][Space=2]
+I have no idea where these paths will lead[Wait=500][Space=2]
+[Color=Magenta][Beep=True]Us[Wait=500][Beep=True]e tHe[Wait=500][Beep=True]  cO[Wait=500][Beep=True]dE.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=57][Content=Huh? What did you say?]]
+]
+]
+
+[Scene=57
+[Content=
+...[Wait=500] What?[Wait=500][Space=2]
+Why did you tell what?[Wait=500] I thought I was being clear.[Wait=500][Space=2]
+[Color=Magenta][Beep=True]Fi[Wait=500][Beep=True]nD tHe[Wait=500][Beep=True]  cO[Wait=500][Beep=True]dE.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=58][Content=I-Is there a code near you by any chance?]]
+]
+]
+
+[Scene=58
+[Content=
+What do you mean a co-...[Wait=500] Huh?[Wait=500][Space=2]
+There are inscriptions on the wall...[Wait=500] It says:[Wait=500][Space=2]
+[Color=Green]"MK BLOOD CODE:[Wait=500][Space=2]
+A = FRONT[Wait=500][Space=2]
+B = LEFT[Wait=500][Space=2]
+C = RIGHT"[Color=White]...[Wait=500][Space=2]
+[Color=Magenta][Beep=True]ReMe[Wait=500][Beep=True]mBeR iT[Wait=500][Beep=True],  iT wIlL[Wait=500][Beep=True]  nOt aPp[Wait=500][Beep=True]eAr aG[Wait=500][Beep=True]aIn.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=59][Content=Okay noted, now you'll have to listen to my instructions.]]
+]
+]
+
+[Scene=59
+[Content=
+B-But how did you know there was-...[Wait=500][Space=2]
+Fine...[Wait=500] Asking more questions will only confuse me more.[Wait=500][Space=2]
+So where should I go first?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=60][Content=Go Front.]]
+[Choice2=[NextScene=66][Content=Go Right.]]
+[Choice3=[NextScene=66][Content=Go Left.]]
+]
+]
+
+[Scene=60
+[Content=
+Okay, front it is.[Wait=500][Space=2]
+What then?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=66][Content=Go Front.]]
+[Choice2=[NextScene=66][Content=Go Right.]]
+[Choice3=[NextScene=61][Content=Go Left.]]
+]
+]
+
+[Scene=61
+[Content=
+Left?[Wait=500] Righty-o my friendo!...[Wait=500][Space=2]_
+.[Wait=500].[Wait=500].[Wait=500][Space=2]
+Sorry, I thought a bit of humour would be nice, but I was wrong.[Wait=500][Space=2]
+What next?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=62][Content=Go Front.]]
+[Choice2=[NextScene=66][Content=Go Right.]]
+[Choice3=[NextScene=66][Content=Go Left.]]
+]
+]
+
+[Scene=62
+[Content=
+Front again.[Wait=500][Space=2]
+Oh Lord, why does it have to smell that much in here![Wait=500][Space=2]
+Hurry, where should I go?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=66][Content=Go Front.]]
+[Choice2=[NextScene=63][Content=Go Right.]]
+[Choice3=[NextScene=66][Content=Go Left.]]
+]
+]
+
+[Scene=63
+[Content=
+Alright, that's right, right?[Wait=500][Space=2]
+And how about right now?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=64][Content=Go Front.]]
+[Choice2=[NextScene=66][Content=Go Right.]]
+[Choice3=[NextScene=66][Content=Go Left.]]
+]
+]
+
+[Scene=64
+[Content=
+Front is...[Wait=500] uh...[Wait=500] nah.[Wait=500] I don't have any puns on this one.[Wait=500][Space=2]
+Tell me what's next.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=66][Content=Go Front.]]
+[Choice2=[NextScene=66][Content=Go Right.]]
+[Choice3=[NextScene=65][Content=Go Left.]]
+]
+]
+
+[Scene=65
+[Connection=2][Timer=5]
+[Content=
+On left it goes![Wait=500][Space=2]
+Well tha-...[Wait=500][Space=2]
+Fuck.[Wait=500] I heard something behind me.[Wait=500][Space=2]
+Oh no...[Wait=500] OH DAMN DAMN DAMN DAMN IT'S RUNNING TOWARDS ME!!![Wait=500][Space=2]
+WHERE SHOULD I RUN QUICK!!![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[Default=True][NextScene=66][Content=GO FRONT!]]
+[Choice2=[NextScene=66][Content=GO RIGHT!]]
+[Choice3=[NextScene=103][Content=GO LEFT!]]
+]
+]
+
+[Scene=66
+[Connection=1]
+[Content=
+Are you sure it's there?[Wait=500][Space=2]
+There's something odd about this pa-[Color=Gray]*Cracking noises*[Color=White]...[Wait=500][Space=2]
+...[Wait=500] Don't tell me the ground's...[Wait=500][Space=2]
+[Color=Gray]*COLLAPSING RUCKUS*[Color=White]...[Wait=500][Space=2]
+WOAAAAAAH SHIIIII-[Color=Gray]*THUMB*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=67][Content=Hey! Tell me you're still alive please!]]
+]
+]
+
+[Scene=67
+[Connection=2]
+[Content=
+...[Wait=500][Space=2]
+...[Wait=500] F...[Wait=500] Fuck...[Wait=500][Space=2]
+That hurts as hell...[Wait=500] I thing I broke a rib or something like that...[Wait=500][Space=2]
+Where did I landed?[Wait=500] OH MY GOD IT STINKS SO MUCH![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=68][Content=What's around you?]]
+]
+]
+
+[Scene=68
+[Connection=3]
+[Content=
+There's so much dust, I can't see anything!...[Wait=500] Wait... It's getting more clear.[Wait=500][Space=2]
+I-I'm in-OUCH!-...[Wait=500] In a white room.[Wait=500] The lights work in here...[Wait=500] There's a door at the back.[Wait=500][Space=2]
+...I feel like I'm not welcome here.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=69][Content=Can you get up and explore the place?]]
+]
+]
+
+[Scene=69
+[Content=
+I'll try...[Wait=500][Space=2]
+...[Wait=500] OH! That hurts...[Wait=500] Okay... I'm standing up...[Wait=500][Space=2]
+I guess you'll ask me what's behind the door right?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=70][Content=You guessed it.]]
+]
+]
+
+[Scene=70
+[Content=
+Here I go...[Wait=500] [Color=Gray]*Door handle noise*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+There's blood on the walls...[Wait=500] I-It looks fresh...[Wait=500][Space=2]
+This horrible odor...[Wait=500] It smells more and more as I'm moving through the hallway...[Wait=500][Space=2]
+...[Wait=500] It seems that it comes from behind this one rusty door.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=71][Content=Are you sure you have to open this one?...]]
+]
+]
+
+[Scene=71
+[Content=
+...[Color=Gray]*Door handle noise*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+...[Wait=500] [Color=Gray]*Vomit noises*[Color=White]...[Wait=500][Space=2]
+OH MY-[Color=Gray]*Cough*[Color=White]... [Color=Gray]*Cough*[Color=White]...[Wait=500] THERE ARE DEAD CORPSES ALL OVER THE GROUND![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=72][TrustAdd=-25][Content=Why are they here?]]
+[Choice2=[NextScene=72][TrustAdd=-25][Content=How did they die?]]
+[Choice3=[NextScene=73][Content=Who are they?]]
+]
+]
+
+[Scene=72
+[Content=
+I-...[Wait=500] I DON'T FREAKING KNOW![Wait=500][Space=2]_
+THEY ARE PILES OF DEAD BODIES AND YOU THINK THE FIRST QUESTIONS THAT COMES TO MY MIND IS![Wait=500][Space=2]
+"Oh! Why did they landed here?"[Wait=500] "Did they die of pneumonia?"[Wait=500] "How curious!"...[Wait=500][Space=2]
+NO, I'M SCARED, I WANT TO GET OUT OF HERE![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=73][Content=Are they this terrifying?]]
+[Choice2=[NextScene=74][TrustAdd=25][Content=Calm down! You're safe with me.]]
+]
+]
+
+[Scene=73
+[Content=
+Their face.[Wait=500] They look dismorphed...[Wait=500][Space=2]
+...W-What?...[Wait=500] It's impossible...[Wait=500][Space=2]
+...[Wait=500] Why do they have the same clothes, the same body traits as...[Wait=500] me?[Wait=500] WHY DO THEY LOOK LIKE ME?![Wait=500][Space=2]
+It's just a nightmare oh my god.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=76][NextSceneNoTrust=84][TrustNeed=75][Content=I don't understand that...]]
+]
+]
+
+[Scene=74
+[Content=
+I-I'm trying, but I'm terrified![Wait=500] There was some monster chasing me just before![Wait=500][Space=2]
+Now I'm inside this weird underground place filled with dead bodies looking all the same![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=75][Content=What do you mean by looking all the same?]]
+]
+]
+
+[Scene=75
+[Content=
+What do I mean?[Wait=500] I mean they all wear the same clothes, have the same facial features, have the same body trait...[Wait=500][Space=2]
+...[Wait=500] Wait...[Wait=500] Why do they have the same clothes as...[Wait=500] me?[Wait=500][Space=2]
+No.[Wait=500] No, no, no it can't be, that's IMPOSSIBLE![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=84][NextSceneNoTrust=76][TrustNeed=75][Content=Can it be that...]]
+]
+]
+
+[Scene=76
+[Content=
+...[Wait=500][Space=2]
+...[Wait=500] It all makes sense.[Wait=500] At first I thought it was only a coincidence, you having the same tone of voice as me but...[Wait=500][Space=2]
+They are clones, and so am I...[Wait=500][Space=2]
+We're just copies of you, played with in some kind of experiment.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=77][Content=Don't lose hope, there must be a way to get you out of here.]]
+]
+]
+
+[Scene=77
+[Content=
+S-SHUT UP![Wait=500] YOU KNEW ALL ALONG![Wait=500] You're leading all of this right?[Wait=500][Space=2]
+You cloned yourself for some kind of experiment?[Wait=500] It's fun seeing yourself suffer right?[Wait=500][Space=2]
+I'm getting out of here, no matter what you say![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=78][Content=You're speaking nonsense!]]
+[Choice2=[NextScene=79][Content=Are you... accusing me?]]
+[Choice3=[NextScene=79][Content=That's it, you're turning mad.]]
+]
+]
+
+[Scene=78
+[Content=
+I'm not listening to you anymore![Wait=500][Space=2]
+Here, a door with an exit sign on it.[Wait=500] You thought I would fall in that trap huh?[Wait=500] Too bad![Wait=500][Space=2]
+[Color=Gray]*Metallic noises*[Color=White]...[Wait=500] You-humpf... You didn't expected me to go through the vents huh?[Wait=500][Space=2]
+Try to kill me now that you don't know [Color=Gray]*Crack*[Color=White] where I-[Color=Gray]*CRASH*[Color=White] AAAAAA-[Color=Gray]*THUMB*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=79][Content=Are you okay?]]
+[Choice2=[NextScene=79][Content=What was that?!]]
+]
+]
+
+[Scene=79
+[Content=
+Still...[Wait=500] huff...[Wait=500] Still trying to put up your act?[Wait=500] It doesn't work on me anymore![Wait=500][Space=2]
+Now where did I landed...[Wait=500][Space=2]
+OH SHIT, WHY AM I ON A PILE OF CORPSES?[Wait=500] WHY WOULD YOU MAKE A ROOM FILLED WITH DEAD CLONES?![Wait=500][Space=2]
+[Color=Gray]*Mechanical noises*[Color=White]...[Wait=500] What was that noise?... WHY ARE THE WALLS GETTING TIGHTER?![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=80][Content=Climb back to the vent!]]
+]
+]
+
+[Scene=80
+[Content=
+I-I-I CAN'T, THERE'S NO WAY OUT![Wait=500][Space=2]
+The walls are closing into me!...[Wait=500][Space=2]
+I don't want to die here![Wait=500] I don't want to die as a vulgar piece of meat![Wait=500] PLEASE HELP ME![Wait=500][Space=2]
+STOP THIS NOW!!![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=81][TrustAdd=-25][Content=I can't do anything!]]
+[Choice2=[NextScene=81][TrustAdd=-25][Content=You're the one who jumped in the lion's den!]]
+]
+]
+
+[Scene=81
+[Connection=2]
+[Content=
+YOU LIAR![Wait=500] YOU WERE EXPECTING THIS TO HAPPEN![Wait=500][Space=2]
+YOU W-[Color=Gray]*Crushing noises*[Color=White]...[Wait=500] Oh my fucking god, I'm really going to die...[Wait=500][Space=2]
+[Color=Gray]*Crushing noises intensifies*[Color=White]...[Wait=500] I hope you're happy now that you can hear me die crushed alive.[Wait=500][Space=2]
+You did this with all of the other clones huh?[Wait=500] Hearing them die on live.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=82][TrustAdd=-25][Content=GET OUT OF HERE!]]
+[Choice2=[NextScene=82][TrustAdd=-25][Content=I DIDN'T DO ANYTHING, I SWEAR!]]
+[Choice3=[NextScene=82][TrustAdd=-25][Content=That's for not believing me!]]
+]
+]
+
+[Scene=82
+[Connection=1]
+[Content=
+I hate myself for being a clone of you.[Wait=500] I hate YOU![Wait=500][Space=2]
+[Color=Gray]*Crushing noises loudly intensifies*[Color=White]...[Wait=500][Space=2]
+YOU'RE THE WORST HUMAN BEING ON THIS PLANET AND I'M HAPPY TO DIE AS YOURSELF BECAUSE IT'S WHAT YOU DESERVE![Wait=500][Space=2]
+FUCK Y-[Color=Gray]*Crush*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=83][TrustAdd=-25][Content=Oh no...]]
+[Choice2=[NextScene=83][TrustAdd=-25][Content=That's what you deserved.]]
+]
+]
+
+[Scene=83
+[Connection=0]
+[Content=
+...[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{THEY WERE MADE USING THEIR PAST SELVES. AND NOW IT'S THEIR TURN?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=3][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[NextChapter=1][Reset=True][NextScene=1][Content=Retry from Chapter-1.]]
+[Choice3=[Menu=True][Content=Menu.]]
+[Choice4=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=84
+[Content=
+I... It can't be.[Wait=500] I'm like them?[Wait=500] I'm also a clone?[Wait=500][Space=2]
+B-But...[Wait=500] No, that makes sense after all.[Wait=500][Space=2]
+Your voice, it striked me at first but I considered it was a coincidence.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=85][Content=My voice? What about it?]]
+]
+]
+
+[Scene=85
+[Content=
+It's the same as mine! You're me!...[Wait=500][Space=2]
+No...[Wait=500] It's not that...[Wait=500][Space=2]
+I'M YOU![Wait=500] I'M A COPY OF YOU![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=86][Content=What's your theory?]]
+[Choice2=[NextScene=86][TrustAdd=-25][Content=Have you become insane?]]
+[Choice3=[NextScene=86][TrustAdd=25][Content=You might be right about that...]]
+]
+]
+
+[Scene=86
+[Content=
+Doesn't it make sense for you?[Wait=500] Why would I contact you in the first place?[Wait=500] BECAUSE YOU'RE THE ORIGINAL![Wait=500][Space=2]
+All of these copies, they never called you right?[Wait=500] They look dismorphed, they are failed versions![Wait=500][Space=2]
+Then it means I am somewhat special compared to others. I am a successful clone...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=87][Content=Is there anything more clues here?]]
+[Choice2=[NextScene=90][Content=I don't care about who you are, LET'S GET OUT!]]
+]
+]
+
+[Scene=87
+[Content=
+I guess I can search for some![Wait=500] [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+...[Wait=500] There are plans in this room, it might give me more clues about what's happening.[Wait=500][Space=2]
+It says here that...[Wait=500][Space=2]
+"The faulty subjects are disposed in the nutrients grinder so they can be recycled as energy for the future subjects conception.".[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=88][Content=Nutrient grinder?]]
+[Choice2=[NextScene=89][Content=Does that mean they might be other like us in here?]]
+]
+]
+
+[Scene=88
+[Content=
+The plan shows what seems to be an gigantic hydraulic press.[Wait=500][Space=2]
+T-They put all of the clones here and the flesh and blood is transferred into...[Wait=500][Space=2]
+Into what seems to be cloning capsules...[Wait=500] All this diagram forms a loop.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=89][Content=So all of these dead bodies are... me?]]
+[Choice2=[NextScene=89][Content=But what about the monster from before. Was it a clone?]]
+]
+]
+
+[Scene=89
+[Content=
+Wait...[Wait=500] That means that the thing I met earlier was...[Wait=500] a failed clone?[Wait=500][Space=2]
+Oh my god I have to get out of here quickly.[Wait=500] There must be an exit door somewh-[Wait=500] OH LORD[Wait=500][Space=2]
+There's a fuse protected under a cloche![Wait=500] "Only use for emergency escape"[Wait=500][Space=2]
+IT'S FOR THE TRAPDOOR FROM BEFORE![Wait=500] I CAN FINALLY GET OUT![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=90][Content=Is there a way to go back at the surface?]]
+]
+]
+
+[Scene=90
+[Content=
+Lucky me![Wait=500] There's an exit door right here![Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White][Wait=500] These stairs lead to the outside, I can see the light![Wait=500][Space=2]
+...[Wait=500] I'M OUTSIDE AHAHAHAH![Wait=500] I'm this close to free myself from this nightmare.[Wait=500][Space=2]
+Now that I'm back at this vivarium, I just have to remember my way ba-...[Wait=500][Space=2]
+.[Wait=500].[Wait=500].[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=91][Content=What's up? Why did you stop talking?]]
+[Choice1=[NextScene=91][Content=Hello? You're there?]]
+]
+]
+
+[Scene=91
+[Content=
+...[Wait=500][Space=2]
+I-It's right here...[Wait=500] With its disfigured face...[Wait=500][Space=2]
+The silhouette I've seen before.[Wait=500] The failed clone...[Wait=500][Space=2]
+It's looking at me...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=92][Content=Don't move.]]
+]
+]
+
+[Scene=92
+[Connection=2][Timer=10]
+[Content=
+I-I'm petrified...[Wait=500][Space=2]
+...[Wait=500] He's not mOH MY GOD IT'S RUNNING TOWARDS ME HELP!!!![Wait=500][Space=2]
+WHAT IS THE WAY BACK TO THE ENTRANCE?!!![Wait=500][Space=2]
+[Color=Magenta][Beep=True]ReMeM[Wait=500][Beep=True]beR yOuR[Wait=500][Beep=True]  pAtH tO[Wait=500][Beep=True]  tHe ViVa[Wait=500][Beep=True]rIuM,[Wait=500][Beep=True]  bUt bAc[Wait=500][Beep=True]kWaRdS![Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[Default=True][NextScene=100][Content=GO NORTH!]]
+[Choice2=[NextScene=93][Content=GO EAST!]]
+[Choice3=[NextScene=100][Content=GO SOUTH!]]
+[Choice4=[NextScene=100][Content=GO WEST!]]
+]
+]
+
+[Scene=93
+[Timer=10]
+[Content=
+EAST! OKAY EAST![Wait=500][Space=2]
+huff...[Wait=500] huff...[Wait=500][Space=2]
+I CAN HEAR ME RUNNING BEHIND ME, WHAT WAS IT NEXT?!![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[Default=True][NextScene=100][Content=GO NORTH!]]
+[Choice2=[NextScene=100][Content=GO EAST!]]
+[Choice3=[NextScene=94][Content=GO SOUTH!]]
+[Choice4=[NextScene=100][Content=GO WEST!]]
+]
+]
+
+[Scene=94
+[Timer=10]
+[Content=
+SOUTH?[Wait=500] YOU SURE?![Wait=500][Space=2]
+I HAVE NO TIME TO THINK ABOUT IT SO I'LL JUST GO THERE![Wait=500][Space=2]
+[Color=Gray]*Fast footsteps*[Color=White]...[Wait=500][Space=2]
+FUCK FUCK FUCK IT'S GETTING CLOSER, BUT I THINK I'M ON THE RIGHT WAY![Wait=500][Space=2]
+WHAT WAS IT LAST?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[Default=True][NextScene=100][Content=GO NORTH!]]
+[Choice2=[NextScene=100][Content=GO EAST!]]
+[Choice3=[NextScene=100][Content=GO SOUTH!]]
+[Choice4=[NextScene=95][Content=GO WEST!]]
+]
+]
+
+[Scene=95
+[Connection=3]
+[Content=
+WEST! THAT'S IT![Wait=500][Space=2]
+I SEE THE ENTRANCE![Wait=500][Space=2]
+I'LL CLOSE THE GATES TO SAVE ME SOME TIME![Wait=500][Space=2]
+[Color=Gray]*Metallic rumbling*[Color=White]... [Color=Gray]*CLANG*[Color=White]...[Wait=500][Space=2]
+...[Color=Gray]*Fast footsteps*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=96][Content=HURRY!]]
+[Choice2=[NextScene=96][Content=DID IT WORKED?]]
+]
+]
+
+[Scene=96
+[Content=
+WAIT!...[Wait=500] I think it worked![Wait=500][Space=2]
+I can't see him back there.[Wait=500] It must have got tired.[Wait=500][Space=2]
+...[Wait=500] I ran so much that I'm back at the trapdoor now...[Wait=500][Space=2]
+So...[Wait=500] I just have to put the fuse here and...[Wait=500][Beep=True] [Color=Gray]*Mechanical beeping*[Color=White]... YEEES![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=97][Content=It opened?]]
+[Choice2=[NextScene=97][Content=IT OPENED!]]
+]
+]
+
+[Scene=97
+[Connection=2]
+[Content=
+YES, IT'S OPENING![Wait=500][Space=2]
+There are stairs here.[Wait=500] I'm getting down there.[Wait=500][Space=2]
+...Oh my god...[Wait=500] It was such an intens-[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] I'm so happy that you were here to help me.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=98][Content=Wait, the signal's getting weaker!]]
+]
+]
+
+[Scene=98
+[Connection=1]
+[Content=
+Do you mean th-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]-ction?[Wait=500] Oh hell no, not after all that!...[Wait=500][Space=2]
+But I have t-[Color=Gray]*SHKRRRRR*[Color=White]-eep going.[Wait=500] I don't know if I'll be able to contact you agai-[Color=Gray]*SHKRRRRRRR*[Color=White]...[Wait=500][Space=2]
+...It was a pleasu-[Color=Gray]*SHKRRRRRRRRRRRRRRR*[Color=White]...[Wait=500] Thank you, I'm glad to be y-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+Goodbye...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=99][Content=I hope you'll be safe. Goodbye.]]
+]
+]
+
+[Scene=99
+[Connection=0]
+[Content=
+...[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Green]{ONE LIFE SAVED, BUT WHAT ABOUT THE OTHERS?}[Color=White][Wait=500][Space=2]
+[Color=Green]GOOD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=3][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[NextChapter=1][Reset=True][NextScene=1][Content=Retry from Chapter-1.]]
+[Choice3=[Menu=True][Content=Menu.]]
+[Choice4=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=100
+[Connection=2]
+[Content=
+ARE YOU SURE IT WAS THERE?![Wait=500] I DON'T REMEMB-[Color=Gray]*THUMB*[Color=White]...[Wait=500][Space=2]
+OUCH! MY ANKLE![Wait=500][Space=2]
+[Color=Gray]*Footsteps approaching*[Color=White]...[Wait=500][Space=2]
+Wait, wait, wait, wait...[Wait=500] No please don't hurt me...[Wait=500] We're the same, we can escape together![Wait=500][Space=2]
+[Color=Cyan]IT'S ALL BECAUSE HE WAS WAITING FOR YOU THAT HE MADE ME![Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=101][Content=W-What is he talking about?]]
+]
+]
+
+[Scene=101
+[Connection=1]
+[Content=
+W-What?[Wait=500][Space=2]
+[Color=Cyan]NOW YOU'LL HAVE TO PAY FOR ALL THESE FEELINGS THAT TORTURED ME!!![Color=White][Wait=500][Space=2]
+Oh no, NO PLEA-urk!...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=102][Content=...]]
+]
+]
+
+[Scene=102
+[Connection=0]
+[Content=
+...[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{YOU GOT TOO CLOSE OF AN INFECTED ONE. IS THERE MAYBE ANOTHER WAY?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=3][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[NextChapter=1][Reset=True][NextScene=1][Content=Retry from Chapter-1.]]
+[Choice3=[Menu=True][Content=Menu.]]
+[Choice4=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=103
+[Content=
+I'M RUNNING AS FAST AS I CAN BUT-[Color=Gray]*Rumbling noises*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+Fuck...[Wait=500] The tunnel collapsed behind me.[Wait=500] This thing must have been crushed by the roof...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=104][Content=Where are you now?]]
+[Choice2=[NextScene=105][TrustAdd=25][Content=Are you safe?]]
+]
+]
+
+[Scene=104
+[Content=
+Can't you just wait a second before getting this pragmatic![Wait=500][Space=2]
+"Where are you"[Wait=500], "What do you see"[Wait=500], "Stop dying, it's making me awkward"...[Wait=500][Space=2]
+Wait for me to process everything that's going on, Jesus![Wait=500][Space=2]
+I just been chased by a disfigured human for god sake![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=106][Content=Disfigured human?]]
+[Choice2=[NextScene=107][TrustAdd=25][Content=Right, take your time to breath.]]
+[Choice3=[NextScene=108][TrustAdd=-25][Content=I didn't know you were a soft belly.]]
+]
+]
+
+[Scene=105
+[Content=
+Y-Yeah...[Wait=500] Thanks for asking.[Wait=500][Space=2]
+I'm in a corridor now, and it seems far more preserved than annything I saw on this island before.[Wait=500][Space=2]
+The lights are even working in here.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=112][Content=Doesn't it seems like an inhabited place?]]
+]
+]
+
+[Scene=106
+[Content=
+That's right.[Wait=500] I turned my back for a blink of a second and I saw what this monster was.[Wait=500][Space=2]
+It was a human, as tall as I am, but with a deformed face.[Wait=500][Space=2]
+...[Wait=500] It was horrifying. I wish I never saw that.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=109][TrustAdd=-25][Content=Why did it chase you in the first place?]]
+[Choice2=[NextScene=110][Content=It might be better to get out of here since it might get out of the rubble.]]
+]
+]
+
+[Scene=107
+[Content=
+Thanks...[Wait=500][Space=2]
+[Color=Gray]*Breath*[Color=White]...[Wait=500] [Color=Gray]*Cough* *Cough!*[Color=White]...[Wait=500][Space=2]
+Ah shit, that was not the best idea to take a huge breath near a pile of freshly collapsed tunnels.[Wait=500][Space=2]
+[Color=Gray]*Cough*[Color=White]...[Wait=500] But thanks for the attention anyway, I'm ready to go now.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=111][Content=Can you describe what's around you?]]
+]
+]
+
+[Scene=108
+[Content=
+...[Wait=500][Space=2]
+I'll act as if that was a joke...[Wait=500][Space=2]
+To change the subject, I'm now in a corridor now, and it seems far more preserved than annything I saw on this island before.[Wait=500][Space=2]
+The lights are even working in here.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=112][Content=Doesn't it seems like an inhabited place?]]
+]
+]
+
+[Scene=109
+[Content=
+Do you think I know?[Wait=500] I'm as confused as you are.[Wait=500][Space=2]
+Maybe he wanted to eat my flesh, or maybe he wanted to show me kindly how to escape![Wait=500][Space=2]
+Seriously, I can't explain anything that's happening to me.[Wait=500][Space=2]
+I just want to make the one that put me there suffer at this point.[Wait=500][Space=2]
+Anyway.[Wait=500] I 'm in front of a corridor, and it seems far more preserved than annything I saw on this island.[Wait=500][Space=2]
+The lights are even working in here.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=112][Content=Doesn't it seems like an inhabited place?]]
+]
+]
+
+[Scene=110
+[Content=
+You're right.[Wait=500] I feel like I'll turn crazy if I think too much about what's happening.[Wait=500][Space=2]
+Let's just move forward.[Wait=500][Space=2]
+I'm now inside a corridor, and it seems far more preserved than annything I saw on this island before.[Wait=500][Space=2]
+The lights are even working in here.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=112][Content=Doesn't it seems like an inhabited place?]]
+]
+]
+
+[Scene=111
+[Content=
+Of course! I'm in front of a corridor.[Wait=500][Space=2]
+It seems far more preserved than annything I saw on this island before.[Wait=500][Space=2]
+The lights are even working in here.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=112][Content=Doesn't it seems like an inhabited place?]]
+]
+]
+
+[Scene=112
+[Content=
+Yes.[Wait=500][Space=2]
+I've didn't meet any working light before.[Wait=500] The only thing that was working was this escalator from before.[Wait=500][Space=2]
+It seems that I'm heading to a new place designed for me by the one who brought me here.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=113][Content=It might be another trap then, can't you go back?]]
+[Choice2=[NextScene=114][Content=It's time to face another test it seems.]]
+]
+]
+
+[Scene=113
+[Content=
+It's not that it "might be", it's sure that I'm throwing myself in the lion's den.[Wait=500][Space=2]
+But I have no choice at this point.[Wait=500] The path behind me is blocked by all the debris.[Wait=500][Space=2]
+I have to move forward.[Wait=500][Space=2]
+[Color=Gray]*Footsteps echoing*[Color=White]...[Wait=500][Space=2]
+...[Wait=500] I can't believe it.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=115][Content=You can't believe what?]]
+]
+]
+
+[Scene=114
+[Content=
+Yes, another trial...[Wait=500][Space=2]
+I don't know what is the goal of all this, but I will get to the bottom of it. Let's move on.[Wait=500][Space=2]
+[Color=Gray]*Footsteps echoing*[Color=White]...[Wait=500][Space=2]
+...[Wait=500] I can't believe it.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=115][Content=You can't believe what?]]
+]
+]
+
+[Scene=115
+[Content=
+Th-THERE'S A BOAT HERE![Wait=500] It's put on the water, ready to be used![Wait=500][Space=2]
+There's even a hole leading outside, I can see the sunshine from here![Wait=500][Space=2]
+I'M FINALLY FREE![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=116][Content=Not so fast, it might be a trap!]]
+[Choice1=[NextScene=117][Content=What kind of boat is it?]]
+]
+]
+
+[Scene=116
+[Content=
+What do you mean it's a trap?[Wait=500] THE BOAT'S RIGHT HERE![Wait=500][Space=2]
+I just have to get on it and I'll finally be free AHAHAHAHAH!!!![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=118][Content=Focus now! Is there nothing else in this room?]]
+]
+]
+
+[Scene=117
+[Content=
+A YACHT![Wait=500] I'M GOING TO ESCAPE FROM THIS NIGHTMARE ISLAND ON A YACHT![Wait=500][Space=2]
+YAHOOOOOO!!![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=118][NextSceneNoTrust=130][TrustNeed=50][Content=Focus now! Is there nothing else in this room?]]
+]
+]
+
+[Scene=118
+[Content=
+Oh my-[Wait=500] Sorry, I'm way too happy about this whole situation.[Wait=500] I might get out of here![Wait=500][Space=2]
+Anyway. I'm in a port inside of some of cave that looks outside, directly into the sea.[Wait=500][Space=2]
+...[Wait=500] Wait...[Wait=500] Is that someone standing on the dock?[Wait=500][Space=2]
+It's not the monster from before.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=119][Content=Try to-...]]
+[Choice2=[NextScene=119][Content=Go in-...]]
+[Choice3=[NextScene=119][Content=Hide from-...]]
+]
+]
+
+[Scene=119
+[Content=
+[Color=Yellow]I didn't expected you there, to be honest. This place was supposed to be hidden from you.[Color=White][Wait=500][Space=2]
+W-What? Who are you?[Wait=500][Space=2]
+[Color=Yellow]I'm your creator. And the one you're talking to with that phone is the original.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=120][Content=Original? What does he mean?]]
+[Choice2=[NextScene=120][Content=What do you mean by creator?]]
+]
+]
+
+[Scene=120
+[Content=
+[Color=Yellow]You ask too many questions.[Wait=500] All you have to know is that all of this experiment was a success.[Color=White][Wait=500][Space=2]
+[Color=Yellow]Your clone, original, has successfully passed.[Color=White][Wait=500][Space=2]
+[Color=Yellow]He resisted and still remains unaffected by the thing that transformed the thing that followed you before.[Color=White][Wait=500][Space=2]
+W-Wait...[Wait=500] What do you mean by clone?[Wait=500] I have feelings! I can feel pain![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=121][Content=I...]]
+[Choice2=[NextScene=121][Content=But...]]
+]
+]
+
+[Scene=121
+[Content=
+[Color=Yellow]You're mistaking yourself with a robot, subject 835.[Wait=500] You're just a pale copy of what this person you're talking to is.[Color=White][Wait=500][Space=2]
+I...[Wait=500][Space=2]
+[Color=Yellow]Confused, right?[Wait=500] just come to me and accept what you're supposed to be, a succesful vessel.[Color=White][Wait=500][Space=2]
+[Color=Yellow]Your blood will save millions, let me just exctract all of it from you![Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=122][Content=HE'S GOING TO KILL YOU!]]
+]
+]
+
+[Scene=122
+[Content=
+I KNOW![Wait=500] But I'm not going to have my blood sucked by an old rag![Wait=500][Space=2]
+Your advices brought me here, and even if I'm a copy of what you are, I'm not going to give up my life so easely![Wait=500][Space=2]
+[Color=Yellow]Resisting, uh?[Wait=500] Looks like I'll have to do the job myself.[Color=White][Wait=500][Space=2]
+What do you mea-OH MY GOD HE HAS A GUN![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=123][TrustAdd=25][Content=FIGHT HIM!]]
+]
+]
+
+[Scene=123
+[Content=
+That's right![Wait=500] You heard that, old man?[Wait=500] A SIMPLE GUN'S NOT GOING TO STOP ME AFTER ALL THIS![Wait=500][Space=2]
+[Color=Gray]*BANG*[Color=White]...[Wait=500] SHIT! THAT WAS CLOSE![Wait=500][Space=2]
+I'm not going to die here! I'M IN CONTROL OF MY OWN LIFE![Wait=500][Space=2]
+[Color=Yellow]Stay still you insignificant piece of flesh![Color=White][Wait=500][Space=2]
+NO WAY![Wait=500] I'M COMING FOR YOU![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=124][TrustAdd=25][Content=GIVE HIM WHAT HE DESERVES!]]
+]
+]
+
+[Scene=124
+[Content=
+[Color=Gray]*BANG*[Color=White]...[Wait=500] [Color=Yellow]What, I MISSED?!Color=White][Wait=500] [Color=Gray]*Click*[Color=White]...[Wait=500] [Color=Yellow]NO MORE AMMO?!![Color=White][Wait=500][Space=2]
+[Color=Yellow]Wait no, don't hurt me please![Wait=500] I'm you're creator![Wait=500] I GAVE YOU LIFE![Color=White][Wait=500][Space=2]
+...[Wait=500] You said subject 835, right?[Wait=500] They all died in your experiments I guess...[Wait=500][Space=2]
+Well, it's only fair that I take your life for the many that you took.[Wait=500][Space=2]
+[Color=Gray]*WHAM*[Color=White]...[Wait=500] [Color=Gray]*Splash*[Color=White]...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=125][Content=You killed him?]]
+]
+]
+
+[Scene=125
+[Content=
+...[Wait=500][Space=2]
+...[Wait=500] Well, his body is face down in the water, and it doesn't seem to care so I'll assume he is.[Wait=500][Space=2]
+To be honnest, that was the best punch I gave to someone in my entire life...[Wait=500] since it was the first.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=126][Content=What are you going to do now?]]
+]
+]
+
+[Scene=126
+[Content=
+I'm heading to the boat.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500] Yeah, I called it, it's his personnal boat.[Wait=500][Space=2]
+There is enough rations to live on the sea for a month.[Wait=500] Seems like I'm escaping for good now![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=127][Content=I hope you'll have a good trip on the sea!]]
+]
+]
+
+[Scene=127
+[Content=
+Well, seems like we're going to go seperate ways from now.[Wait=500] I think there will be no signal on the sea.[Wait=500][Space=2]
+...[Wait=500] It's been a pleasure to have you on this phone.[Wait=500] I'm glad that this whole thing has been stopped.[Wait=500][Space=2]
+We could maybe meet one day, but I feel like starting a new life, creating my own new identity.[Wait=500][Space=2]
+But who knows?[Wait=500] Maybe we'll meet again.[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=128][Content=Well then, I guess it's a goodbye.]]
+]
+]
+
+[Scene=128
+[Connection=2]
+[Content=
+[Color=Gray]*VRRRRMMMM*[Color=White]...[Wait=500] The engine's running perfectly![Wait=500][Space=2]
+Oh and yes, goodby friend.[Wait=500][Space=2]
+I'll be heading north, I hope to find civilization quick.[Wait=500][Space=2]
+I'll let you hang up, my hands are pretty taken by the steering wheel ahah![Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=129][Content=See you around.]]
+]
+]
+
+[Scene=129
+[Connection=0]
+[Content=
+See you, Origin-[Color=Gray]*B[Beep=True]eep*[Color=White]...[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Green]{THE MONSTER IS GONE, THE SCIENTIST TOO, BUT WHAT DID THEY SEEK?}[Color=White][Wait=500][Space=2]
+[Color=Green]GOOD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=3][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[NextChapter=1][Reset=True][NextScene=1][Content=Retry from Chapter-1.]]
+[Choice3=[Menu=True][Content=Menu.]]
+[Choice4=[Quit=True][Content=Quit.]]
+]
+]
+
+[Scene=130
+[Content=
+I don't care about your "check this, check that" now.[Wait=500] I'M FREE TO GO![Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500] Soooo... How does this engine works?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=131][Content=You want me to search on the internet?]]
+]
+]
+
+[Scene=131
+[Content=
+Oh come on![Wait=500] I don't need that anymore![Wait=500][Space=2]
+I'M FREE-[Color=Gray]*Click*[Color=White]...[Wait=500][Space=2]
+[Color=Yellow]You thought you could escape me, huh?[Wait=500] Well too bad, but I'm going to have to replace you.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=132][Content=Who is talking?]]
+]
+]
+
+[Scene=132
+[Content=
+W-Who are you?...[Wait=500] WHY ARE YOU AIMING A GUN AT ME?[Wait=500][Space=2]
+[Color=Yellow]I'm your creator.[Wait=500] You should be grateful that you're even alive thanks to me.[Color=White][Wait=500][Space=2]
+[Color=Yellow]Now...[Wait=500] You got out of the path I made for you thanks to incredible odds, but that's the end of it.[Color=White][Wait=500][Space=2]
+W-What do you mean?[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=133][Content=FIGHT BACK, DO SOMETHING!]]
+]
+]
+
+[Scene=133
+[Connection=2]
+[Content=
+[Color=Yellow]I think this is too late for that, original.[Wait=500] Your mission ends here.[Wait=500] You've proven me that he's the right one.[Color=White][Wait=500][Space=2]
+The right one?...[Wait=500] What are you even talking about?[Wait=500][Space=2]
+[Color=Yellow]Oh...[Wait=500] Don't worry about that.[Wait=500] You won't be here to witness it anyway.[Color=White][Wait=500][Space=2]
+Don't tell me you-[Color=Gray]*BANG*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextScene=134][Content=No... It can't be...]]
+]
+]
+
+[Scene=134
+[Connection=0]
+[Content=
+[Color=Yellow]See you never, Original.[Color=White][Wait=500][Space=2]
+[Color=Gray]*B[Beep=True]eep*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+[Color=Red]--SIGNAL LOST--[Color=White][Wait=500][Space=2]
+[Color=Red]{HE CAUGHT HIM. WAS THERE NO OTHER CHOICE?}[Color=White][Wait=500][Space=2]
+[Color=Red]BAD ENDING.[Color=White][Wait=500][Space=2]
+]
+[Choices=
+[Choice1=[NextChapter=3][Reset=True][NextScene=1][Content=Retry.]]
+[Choice2=[NextChapter=1][Reset=True][NextScene=1][Content=Retry from Chapter-1.]]
+[Choice3=[Menu=True][Content=Menu.]]
+[Choice4=[Quit=True][Content=Quit.]]
 ]
 ]
