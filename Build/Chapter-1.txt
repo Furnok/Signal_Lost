@@ -339,7 +339,7 @@ Oh! Thanks for your understanding, I really appreciate that.[Wait=500][Space=2]
 [Scene=27
 [Connection=3]
 [Content=
-Thank God![Wait=500] I just...[Wait=500] Really depend on you right now.[Wait=500][Space=2]
+Thank God![Wait=500] I just...[Wait=500] really depend on you right now.[Wait=500][Space=2]
 I'm sorry to take your time like that, but I haven't really got a choice.[Wait=500][Space=2]
 ]
 [Choices=
@@ -447,7 +447,7 @@ Damn me, I'm making up the worst scenarios in my head now.[Wait=500][Space=2]
 [Content=
 I...[Wait=500] I can't tell.[Wait=500][Space=2]
 Oh wait! There is sunlight up here! I think I can access a new part of the island if I go up here.[Wait=500][Space=2]
-Even if I don't think I can go fast enough to compete against this escalator eh![Wait=500][Space=2]
+Even if I don't think I can go fast enough to compete against this escalator, eh![Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=33][Content=Why is it so loud?]]
@@ -545,7 +545,7 @@ Right, let's go![Wait=500] A good hammer is always useful, especially in the kin
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
 ...Alright! Here I am.[Wait=500][Space=2]
 There are far fewer things on the shelves than I imagined.[Wait=500][Space=2]
-There is some door-wedge, packs of rusty nails...[Wait=500][Space=2]
+There is a door wedge, packs of rusty nails...[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=47][Content=Do you see anything else?]]
@@ -555,9 +555,11 @@ There is some door-wedge, packs of rusty nails...[Wait=500][Space=2]
 [Scene=43
 [Content=
 Uhm...[Wait=500] I don't think going to this section will help me stop an escalator...[Wait=500][Space=2]
-I'm going to the craft section.[Wait=500] [Color=Gray]*Footsteps*[Color=White]...[Wait=500] Alright! Here I am.[Wait=500][Space=2]
+I'm going to the craft section.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+Alright! Here I am.[Wait=500][Space=2]
 There are far fewer things on the shelves than I imagined.[Wait=500][Space=2]
-There is some door-wedge and packs of rusty nails...[Wait=500][Space=2]
+There is a door wedge and packs of rusty nails...[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=47][Content=Do you see anything else?]]
@@ -567,7 +569,8 @@ There is some door-wedge and packs of rusty nails...[Wait=500][Space=2]
 [Scene=44
 [Content=
 You sure?[Wait=500] I mean, I'm hungry as hell, so I might take a bite if there was anything to eat.[Wait=500][Space=2]
-[Color=Gray]*Footsteps*[Color=White]...[Wait=500] [Color=Gray]*Sniff*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]*Sniff*[Color=White]...[Wait=500][Space=2]
 OH G-...[Wait=500] IT SMELLS TERRIBLE OVER HERE![Wait=500][Space=2]
 Shelves are filled with rotten fruits and vegeta-...[Wait=500][Space=2]
 [Color=Gray]*Glurp*[Color=White]...[Wait=500] Oh lord, I almost threw up...[Wait=500][Space=2]
@@ -579,10 +582,13 @@ Shelves are filled with rotten fruits and vegeta-...[Wait=500][Space=2]
 
 [Scene=45
 [Content=
-Y-You're right... It's best to get out of here before I-...[Wait=500] [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
-...Oof, one more second and I think I would have passed out.[Wait=500] Anyway, here I am.[Wait=500][Space=2]
+Y-You're right... It's best to get out of here before I-...[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+...Oof, one more second and I think I would have passed out.[Wait=500][Space=2]
+Anyway, here I am.[Wait=500][Space=2]
 There are far fewer things on the shelves than I imagined.[Wait=500][Space=2]
-There is some door-wedge and rusty nails...[Wait=500] Nothing that could be useful in the end.[Wait=500][Space=2]
+There is a door wedge and rusty nails...[Wait=500][Space=2]
+Nothing that could be useful in the end.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=47][Content=Is there anything else interesting?]]
@@ -591,10 +597,15 @@ There is some door-wedge and rusty nails...[Wait=500] Nothing that could be usef
 
 [Scene=46
 [Content=
-Yeah, I guess, but it's on-[Color=Gray]*Glurp*[Color=White]...[Wait=500] Only because you asked me nicely...[Wait=500][Space=2]
-[Color=Gray]*Footsteps*[Color=White]...[Wait=500] Good heavens, aren't these trash supposed to be eaten by the bugs?[Wait=500][Space=2]
-Wait?[Wait=500] There's a cereal bar over here that still is good to eat![Wait=500][Space=2]
-[Color=Gray]*Crunch*[Color=White]...[Wait=500] Yum... That's good to eat something...[Wait=500] [Color=Gray]*Gulp*[Color=White]...[Wait=500] Ah yes, I needed that.[Wait=500][Space=2]
+Yeah, I guess... but it's on-[Color=Gray]*Glurp*[Color=White]...[Wait=500][Space=2]
+Only because you asked me nicely...[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+Good heavens, aren't these trash supposed to be eaten by bugs?[Wait=500][Space=2]
+Wait?[Wait=500] There's a cereal bar over here that still looks edible![Wait=500][Space=2]
+[Color=Gray]*Crunch*[Color=White]...[Wait=500][Space=2]
+Yum... It feels good to eat something...[Wait=500][Space=2]
+[Color=Gray]*Gulp*[Color=White]...[Wait=500][Space=2]
+Ah yes, I needed that.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=50][Content=Are you finished eating? Is there anything else here?]]
@@ -605,7 +616,8 @@ Wait?[Wait=500] There's a cereal bar over here that still is good to eat![Wait=5
 [Content=
 I see... a door down the hall.[Wait=500][Space=2]
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
-I hear some sound behind it...[Wait=500] What do I do?[Wait=500][Space=2]
+I hear some sound behind it...[Wait=500][Space=2]
+What do I do?[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=48][TrustAdd=-25][Content=Kick the door down!]]
@@ -616,10 +628,13 @@ I hear some sound behind it...[Wait=500] What do I do?[Wait=500][Space=2]
 [Scene=48
 [Content=
 Alright. Let's do it the hard way.[Wait=500][Space=2]
-[Color=Gray]*KICK*[Color=White]...[Wait=500] POLICE, DON'T MOVE![Wait=500] Ouch ouch ouch! My foot hurt as hell now...[Wait=500][Space=2]
-Great! The door was clearly open! And there's no one here anyway... This door wasn't worth kicking.[Wait=500][Space=2]
-It's just a security room.[Wait=500] Everything seems out of pow-.[Wait=500][Space=2]
-...Oh my bad, seems to be one thing still working![Wait=500][Space=2]
+[Color=Gray]*KICK*[Color=White]...[Wait=500][Space=2]
+POLICE, DON'T MOVE![Wait=500][Space=2]
+Ouch, ouch, ouch! My foot hurts like hell now...[Wait=500][Space=2]
+Great! The door was clearly open! And there's no one here anyway...[Wait=500][Space=2]
+It's just a security room.[Wait=500][Space=2]
+Everything seems out of pow-...[Wait=500][Space=2]
+...Oh, my bad. Looks like one thing is still working![Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=51][Content=What could it be?]]
@@ -629,9 +644,10 @@ It's just a security room.[Wait=500] Everything seems out of pow-.[Wait=500][Spa
 [Scene=49
 [Content=
 Okay... carefully...[Wait=500][Space=2]
-...[Wait=500] Well, there is clearly no one here.[Wait=500][Space=2]
-It's an old security room, everything is out of power.[Wait=500][Space=2]
-Oh no, my bad, the beeping sound is coming from here![Wait=500][Space=2]
+...[Wait=500][Space=2]
+Well, there is clearly no one here.[Wait=500][Space=2]
+It's an old security room. Everything is out of power.[Wait=500][Space=2]
+Oh wait, my bad. The beeping sound is coming from here![Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=51][Content=Is that something beeping?]]
@@ -640,11 +656,15 @@ Oh no, my bad, the beeping sound is coming from here![Wait=500][Space=2]
 
 [Scene=50
 [Content=
-Let me see...[Wait=500] Ah AH![Wait=500] There's a door over here![Wait=500][Space=2]
-There is a sign with "Maintenance Room" marked on it.[Wait=500][Space=2]
-Lucky me, it seems unlocked.[Wait=500] [Color=Gray]*Sound of door opening*[Color=White]...[Wait=500][Space=2]
-...[Wait=500] Well yeah,[Wait=500] that surely looks like a maintenance room, or more like an abandoned maintenance room.[Wait=500][Space=2]
-...Oh my bad, seems to be one thing still working![Wait=500][Space=2]
+Let me see...[Wait=500][Space=2]
+Ah! AH![Wait=500][Space=2]
+There's a door over here![Wait=500][Space=2]
+There's a sign on it saying "Maintenance Room".[Wait=500][Space=2]
+Lucky me, it seems unlocked.[Wait=500][Space=2]
+[Color=Gray]*Door opening*[Color=White]...[Wait=500][Space=2]
+...[Wait=500][Space=2]
+Well yeah, that surely looks like a maintenance room. Or rather, an abandoned one.[Wait=500][Space=2]
+...Oh, my bad. Looks like one thing is still working![Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=51][Content=What is it?]]
@@ -653,14 +673,18 @@ Lucky me, it seems unlocked.[Wait=500] [Color=Gray]*Sound of door opening*[Color
 
 [Scene=51
 [Content=
-I-It's uuuuh...[Wait=500] A laptop, seems to be on the lockscreen.[Wait=500][Space=2]
-There's a post-it attached on the upper right corner of it.[Wait=500] It says [Color=Green]"Vaccine Rabies Year"[Color=White]...[Wait=500][Space=2]
-I don't know when that thing was![Wait=500][Space=2]
-...What?[Wait=500] I don't remember how I got here in the first place, don't expect me to remember this![Wait=500][Space=2]
-Anyway, you might want to search for that on the internet, it's a [Color=Green]4-digit password[Color=White].[Wait=500] I'll try to log in.[Wait=500][Space=2]
+I-It's uuuuh...[Wait=500][Space=2]
+A laptop. It seems to be on the lock screen.[Wait=500][Space=2]
+There's a post-it attached to the upper-right corner.[Wait=500][Space=2]
+It says [Color=Green]"Vaccine Rabies Year"[Color=White]...[Wait=500][Space=2]
+I don't know when that was![Wait=500][Space=2]
+...What?[Wait=500][Space=2]
+I don't even remember how I got here in the first place, don't expect me to remember this![Wait=500][Space=2]
+Anyway, you might want to search for that online.It's a [Color=Green]4-digit password[Color=White].[Wait=500][Space=2]
+I'll try to log in.[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=52][Content=Okay, go ahead, I'm going to search that in my browser.]]
+[Choice1=[NextScene=52][Content=Okay, go ahead. I'll look it up.]]
 ]
 ]
 
@@ -671,7 +695,7 @@ Just have to press enter and...[Wait=500][Space=2]
 OH SHIT!![Wait=500][Space=2]
 THERE'S A FUCKING TIMER IN HERE, IT'S BEEPING![Wait=500][Space=2]
 I think the [Color=Green]"Vaccine Rabies Year"[Color=White] shit might be the password, FIND IT NOW![Wait=500][Space=2]
-I don't know what will happen if it reaches 0, BUT I DON'T WANT TO FIND OUT![Wait=500][Space=2]
+I don't know what will happen when it reaches zero, BUT I REALLY DON'T WANT TO FIND OUT![Wait=500][Space=2]
 HURRY UP, WHAT'S THE PASSWORD?![Wait=500][Space=2]
 ]
 [Choices=
@@ -687,7 +711,9 @@ HURRY UP, WHAT'S THE PASSWORD?![Wait=500][Space=2]
 [Connection=1]
 [Content=
 ALRIGHT, I'LL TYPE THIS...[Wait=500][Space=2]
-Oh...[Wait=500] Looks like the beeping sound sto-[Color=Gray]*BOOOM*[Color=White]...[Wait=500] [Color=Gray]*SHKRRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+Oh...[Wait=500][Space=2]
+Looks like the beeping sto-[Color=Gray]*BOOOM*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]*SHKRRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=54][Content=Are you here?]]
@@ -728,7 +754,8 @@ Please don't explode, please don't explode, please don't explode...[Wait=500][Sp
 [Content=
 Y-Yes?[Wait=500][Space=2]
 I think I am?[Wait=500][Space=2]
-...[Wait=500] I don't hear the escalator rumbling anymore, I think we've stopped it.[Wait=500][Space=2]
+...[Wait=500][Space=2]
+I don't hear the escalator anymore. I think we stopped it.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=57][Content=Seriously?]]
@@ -737,10 +764,11 @@ I think I am?[Wait=500][Space=2]
 
 [Scene=57
 [Content=
-I'm going to go and see if that's really what happened...[Wait=500][Space=2]
-Damn,[Wait=500] I wonder what would have happened if we didn't type the password in time.[Wait=500][Space=2]
-It might be better to forget about it right now.[Wait=500][Space=2]
-[Color=Gray]*Footsteps*[Color=White]...[Wait=500] Anyway, I see it from here. The escalator stopped as I was thinking.[Wait=500][Space=2]
+I'm going to check it out...[Wait=500][Space=2]
+Damn,[Wait=500] I wonder what would've happened if we didn't type the password in time.[Wait=500][Space=2]
+Probably better not to think about it.[Wait=500][Space=2]
+[Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
+Yeah, I can see it from here. The escalator really stopped.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=58][Content=You can climb it safely now!]]
@@ -751,11 +779,12 @@ It might be better to forget about it right now.[Wait=500][Space=2]
 [Content=
 Let's find out![Wait=500][Space=2]
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
-...[Wait=500] Ahah! Yes! There's a door leading outside right here![Wait=500][Space=2]
-A bit of sunlight feels good after being in this gloomy supermarket.[Wait=500][Space=2]
+...[Wait=500][Space=2]
+Ahah! Yes! There's a door leading outside right here![Wait=500][Space=2]
+A bit of sunlight feels good after being stuck in that gloomy supermarket.[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=59][Content=So, you don't need my help anymore now?]]
+[Choice1=[NextScene=59][Content=So, you don't need my help anymore?]]
 [Choice2=[NextScene=61][TrustAdd=25][Content=Nice job! What do you see outside?]]
 ]
 ]
@@ -763,8 +792,9 @@ A bit of sunlight feels good after being in this gloomy supermarket.[Wait=500][S
 [Scene=59
 [Content=
 What?[Wait=500][Space=2]
-I'm still stuck on this island![Wait=500] I need your help until I get out of here![Wait=500][Space=2]
-I know that you didn't expect to help me today, but we're talking about life and death at this point.[Wait=500][Space=2]
+I'm still stuck on this island![Wait=500][Space=2]
+I need your help until I get out of here![Wait=500][Space=2]
+I know you didn't expect this today, but we're talking about life and death here.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=60][TrustAdd=-25][Content=I must've missed the part where your life became my problem.]]
@@ -775,11 +805,12 @@ I know that you didn't expect to help me today, but we're talking about life and
 [Scene=60
 [Content=
 [Color=Gray]*Sigh*[Color=White]...[Wait=500][Space=2]
-I'd like to see you in my position.[Wait=500] You would have hung up if all of this didn't pique your interest, right?[Wait=500][Space=2]
-So stop trying to make everything about you and let's find out what's going on on this island.[Wait=500][Space=2]
+I'd like to see you in my position.[Wait=500][Space=2]
+You would've hung up already if this didn't intrigue you, right?[Wait=500][Space=2]
+So stop making everything about you, and let's figure out what's going on on this island.[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=61][Content=You're the one exploring it, tell me what do you see!]]
+[Choice1=[NextScene=61][Content=You're the one exploring. What do you see?]]
 ]
 ]
 
@@ -799,7 +830,7 @@ And there is something weird in the middle of this place...[Wait=500][Space=2]
 [Content=
 It's...[Wait=500][Space=2]
 A huge mechanical trapdoor.[Wait=500][Space=2]
-There's a huge "EXIT" word tagged on it.[Wait=500][Space=2]
+There's a massive "EXIT" word painted on it.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=63][TrustAdd=25][Content=That's it! That's our way out!]]
@@ -822,8 +853,8 @@ Please tell me tha-...[Wait=500] Oh![Wait=500] There's a command panel over here
 
 [Scene=64
 [Content=
-Y-You might be right, but that's the first time I see something that brings me hope of getting out of here.[Wait=500][Space=2]
-If there is even a single chance that this trapdoor brings me back to civilization, I'll do everything to open it.[Wait=500][Space=2]
+Y-You might be right, but that's the first thing I've seen that actually gives me hope of getting out of here.[Wait=500][Space=2]
+If there is even a single chance that this trapdoor leads back to civilization, I'll do everything to open it.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=65][Content=Can you open it now?]]
@@ -834,18 +865,19 @@ If there is even a single chance that this trapdoor brings me back to civilizati
 [Content=
 Well...[Wait=500] There's no handle attached to it anywhere...[Wait=500][Space=2]
 HNNG![Wait=500] Huff...[Wait=500] I can't open it with my bare hands either.[Wait=500][Space=2]
-It seems locked by some kind of electrical mechanism that leads to this control panel.[Wait=500][Space=2]
+It seems locked by some kind of electrical mechanism connected to this control panel.[Wait=500][Space=2]
 ...[Wait=500] There's clearly a fuse missing here...[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=66][Content=You'll be searching for it?]]
+[Choice1=[NextScene=66][Content=So, you'll be searching for it?]]
 ]
 ]
 
 [Scene=66
 [Content=
-I don't know, but it's our only lead for now, so I'll make it my main objective from now on![Wait=500][Space=2]
-...[Wait=500] I don't know where to start now...[Wait=500][Space=2]
+I don't know where it could be, but it's our only lead for now.[Wait=500][Space=2]
+So yeah, I'll make it my main objective from now on![Wait=500][Space=2]
+...[Wait=500] I just don't know where to start...[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=67][Content=Wasn't there a fuse back at the supermarket?]]
@@ -856,12 +888,13 @@ I don't know, but it's our only lead for now, so I'll make it my main objective 
 [Scene=67
 [Connection=2]
 [Content=
-No, I checked pretty much every shelf while I was inside, and there was nothing but dust on them.[Wait=500][Space=2]
+No, I checked pretty much every shelf while I was inside.[Wait=500][Space=2]
+There was nothing but dust on them.[Wait=500][Space=2]
 There might be other interesting locations out there.[Wait=500][Space=2]
 [Color=Magenta][Beep=True]S[Wait=500][Beep=True] eAr[Wait=500][Beep=True] cH[Wait=500][Beep=True] W[Wait=500][Beep=True] eLl.[Color=White][Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=68][TrustAdd=-25][Content=Are you sure you can't go back into the supermarket?]]
+[Choice1=[NextScene=68][TrustAdd=-25][Content=Are you sure you can't go back to the supermarket?]]
 [Choice2=[NextScene=72][Content=Maybe check what's around?]]
 ]
 ]
@@ -870,8 +903,9 @@ There might be other interesting locations out there.[Wait=500][Space=2]
 [Connection=3]
 [Content=
 Can't you just trust me for a second?[Wait=500][Space=2]
-I told you I checked everything, this damn place back then was filled with ruins and nothing more.[Wait=500][Space=2]
-...[Wait=500] There are signs leading to two different locations here. One is leading to a [Color=Green]"Factory"[Color=White] and the other to a [Color=Green]"Zoo"[Color=White].[Wait=500][Space=2]
+I told you, I checked everything. That place was nothing but ruins.[Wait=500][Space=2]
+...[Wait=500] There are signs leading to two different locations here.[Wait=500][Space=2]
+One points toward a [Color=Green]"Factory"[Color=White], and the other toward a [Color=Green]"Zoo"[Color=White].[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=69][Content=Where would you like to go?]]
@@ -882,7 +916,7 @@ I told you I checked everything, this damn place back then was filled with ruins
 [Scene=69
 [Content=
 Uuuh...[Wait=500][Space=2]
-I don't know...[Wait=500] You're the one that got me out of the supermarket, so I'll let you choose![Wait=500][Space=2]
+I don't know...[Wait=500] You're the one who got me out of the supermarket, so I'll let you choose![Wait=500][Space=2]
 Where do you want me to explore?[Wait=500][Space=2]
 The [Color=Green]"Zoo"[Color=White] or the [Color=Green]"Factory"[Color=White]?[Wait=500][Space=2]
 ]
@@ -894,19 +928,20 @@ The [Color=Green]"Zoo"[Color=White] or the [Color=Green]"Factory"[Color=White]?[
 
 [Scene=70
 [Content=
-I can search a bit more since you're nice...[Wait=500][Space=2]
-Oh![Wait=500] My bad.[Wait=500] There is a hidden sign behind the bushes.[Wait=500] It says [Color=Green]"Museum"[Color=White].[Wait=500][Space=2]
+I can search a bit more since you're being nice...[Wait=500][Space=2]
+Oh![Wait=500] My bad.[Wait=500] There's a hidden sign behind the bushes.[Wait=500][Space=2]
+It says [Color=Green]"Museum"[Color=White].[Wait=500][Space=2]
 Here you go![Wait=500] A third location to explore.[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=71][Content=So, where are you headed, then?]]
+[Choice1=[NextScene=71][Content=So, where are you headed?]]
 ]
 ]
 
 [Scene=71
 [Content=
 Uuuh...[Wait=500][Space=2]
-I don't know...[Wait=500] You're the one that got me out of the supermarket, so I'll let you choose![Wait=500][Space=2]
+I don't know...[Wait=500] You're the one who got me out of the supermarket, so I'll let you choose![Wait=500][Space=2]
 Where do you want me to explore?[Wait=500][Space=2]
 The [Color=Green]"Zoo"[Color=White], the [Color=Green]"Factory"[Color=White], or the [Color=Green]"Museum"[Color=White]?[Wait=500][Space=2]
 ]
@@ -920,9 +955,9 @@ The [Color=Green]"Zoo"[Color=White], the [Color=Green]"Factory"[Color=White], or
 [Scene=72
 [Connection=3]
 [Content=
-Hmmm...[Wait=500] The buildings here look exactly the same compared to the ones I crossed before calling you...[Wait=500][Space=2]
-Hey![Wait=500] There are signs leading to two different locations here.[Wait=500][Space=2]
-One is leading to a [Color=Green]"Factory"[Color=White] and the other to a [Color=Green]"Zoo"[Color=White].[Wait=500][Space=2]
+Hmmm...[Wait=500] The buildings here look exactly like the ones I crossed before calling you...[Wait=500][Space=2]
+Hey![Wait=500] There are signs pointing toward two different locations.[Wait=500][Space=2]
+One leads to a [Color=Green]"Factory"[Color=White], and the other to a [Color=Green]"Zoo"[Color=White].[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=69][Content=Which location do you want to go to?]]
@@ -932,10 +967,11 @@ One is leading to a [Color=Green]"Factory"[Color=White] and the other to a [Colo
 
 [Scene=73
 [Content=
-I would have said that there were more signs if that was the case.[Wait=500][Space=2]
-So, no, there's nothing else here. What then?[Wait=500][Space=2]
+I would've said so if there were.[Wait=500][Space=2]
+So no, there's nothing else here.[Wait=500][Space=2]
+What then?[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=69][Content=Right. Where are you headed?]]
+[Choice1=[NextScene=69][Content=Alright. Where are you headed?]]
 ]
 ]
