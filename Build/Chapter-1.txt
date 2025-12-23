@@ -43,18 +43,18 @@ Hello?[Wait=500][Space=2]
 
 [Scene=4
 [Content=
-[Color=Gray]*SHKRRRRRR*[Color=White]-MY GOD! I’ve been stuck here-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]-for days. It feels so good to hear someone’s voice...[Wait=500][Space=2]
-[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-Any idea what’s happening? Who are y-[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-I, and why am I here?[Wait=500][Space=2]
+[Color=Gray]*SHKRRRRRR*[Color=White]-MY GOD! I've been stuck here-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]-for days. It feels so good to hear someone's voice...[Wait=500][Space=2]
+[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-Any idea what's happening? Who are y-[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-I, and why am I here?[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=5][Content=Who are you?]]
-[Choice2=[NextScene=6][Content=What? I can’t understand half of what you're saying!]]
+[Choice2=[NextScene=6][Content=What? I can't understand half of what you're saying!]]
 ]
 ]
 
 [Scene=5
 [Content=
-I’m-[Color=Gray]*SHKRRRRRRRRR*[Color=White]. I don’t know how-[Color=Gray]*SHKRRRRRRRRR*[Color=White]-I can't get out...[Wait=500][Space=2]
+I'm-[Color=Gray]*SHKRRRRRRRRR*[Color=White]. I don't know how-[Color=Gray]*SHKRRRRRRRRR*[Color=White]-I can't get out...[Wait=500][Space=2]
 And you-[Color=Gray]*SHKRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 Are-[Color=Gray]*SHKRRRRRRRR*[Color=White]-still there?[Wait=500][Space=2]
 ]
@@ -66,7 +66,7 @@ Are-[Color=Gray]*SHKRRRRRRRR*[Color=White]-still there?[Wait=500][Space=2]
 [Scene=6
 [Connection=2]
 [Content=
-Fuck! The signal’s scram-[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] There must be a way to-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]...[Wait=500] [Color=Gray]*Snap*[Color=White]...[Wait=500][Space=2]
+Fuck! The signal's scram-[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] There must be a way to-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]...[Wait=500] [Color=Gray]*Snap*[Color=White]...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
 ...[Wait=500] A-Are you there? Can you hear me more clearly?[Wait=500][Space=2]
@@ -79,8 +79,8 @@ Fuck! The signal’s scram-[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] 
 [Scene=7
 [Connection=3]
 [Content=
-Oh, thank God... It’s so nice to hear another voice.[Wait=500][Space=2]
-It’s been an eternity since I last spoke to anyone. Any longer, and I would have gone completely nuts.[Wait=500][Space=2]
+Oh, thank God... It's so nice to hear another voice.[Wait=500][Space=2]
+It's been an eternity since I last spoke to anyone. Any longer, and I would have gone completely nuts.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=8][Content=Are you in any danger?]]
@@ -91,8 +91,8 @@ It’s been an eternity since I last spoke to anyone. Any longer, and I would ha
 
 [Scene=8
 [Content=
-I... I don’t know. I’ve been stuck on this island for two, maybe three days... I can't even tell anymore...[Wait=500][Space=2]
-It really feels like I'm the only one here, there’s not a living soul in sight...[Wait=500][Space=2]
+I... I don't know. I've been stuck on this island for two, maybe three days... I can't even tell anymore...[Wait=500][Space=2]
+It really feels like I'm the only one here, there's not a living soul in sight...[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=13][Content=Where are you?]]
@@ -103,9 +103,9 @@ It really feels like I'm the only one here, there’s not a living soul in sight
 
 [Scene=9
 [Content=
-The last few days of my life have been a total blur, I can’t even remember what day it is![Wait=500][Space=2]
-I-I’m all alone on this weird island. I’ve been searching for someone for hours now.[Wait=500][Space=2]
-All I’ve managed to find are more ruins.[Wait=500][Space=2]
+The last few days of my life have been a total blur, I can't even remember what day it is![Wait=500][Space=2]
+I-I'm all alone on this weird island. I've been searching for someone for hours now.[Wait=500][Space=2]
+All I've managed to find are more ruins.[Wait=500][Space=2]
 It's like an abandoned city.[Wait=500][Space=2]
 ]
 [Choices=
@@ -117,7 +117,7 @@ It's like an abandoned city.[Wait=500][Space=2]
 
 [Scene=10
 [Content=
-Can’t even tell! I just found this old flip phone on a shelf.[Wait=500][Space=2]
+Can't even tell! I just found this old flip phone on a shelf.[Wait=500][Space=2]
 It started a call the moment I opened it![Wait=500][Space=2]
 There's nothing else on that piece of junk, no contacts, no internet access, just this call number.[Wait=500][Space=2]
 ]
@@ -145,7 +145,7 @@ It's all just like a bad hangover![Wait=500][Space=2]
 [Content=
 Hard to tell...[Wait=500] But I'm not going to lie, it's hard not to freak out about waking up on a random island...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
-I-[Wait=500] Who knows what could be hiding in those buildings? Ha-[Wait=500] It’s hard to stay rational after what happened to me![Wait=500][Space=2]
+I-[Wait=500] Who knows what could be hiding in those buildings? Ha-[Wait=500] It's hard to stay rational after what happened to me![Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=18][Content=Where exactly are you?]]
@@ -174,7 +174,7 @@ Also, the food is so moldy that it makes me sick to my stomach just by looking a
 ]
 [Choices=
 [Choice1=[NextScene=17][Content=Survive? Are you in any danger?]]
-[Choice2=[NextScene=20][Content=I’m not sure what to tell you...]]
+[Choice2=[NextScene=20][Content=I'm not sure what to tell you...]]
 ]
 ]
 
@@ -217,7 +217,7 @@ I'm being dramatic for a reason.[Wait=500] It's chilling.[Wait=500] Something's 
 [Scene=18
 [Content=
 I'm still in the supermarket where I found the phone. Most of the shelves have collapsed, and everything is ruined.[Wait=500][Space=2]
-Apart from the phone, I couldn’t find anything useful.[Wait=500][Space=2]
+Apart from the phone, I couldn't find anything useful.[Wait=500][Space=2]
 And judging by the looks of it, the food is probably months or even years past its expiry date.[Wait=500][Space=2]
 ]
 [Choices=
@@ -255,10 +255,10 @@ And a bit of guidance wouldn't hurt either, I'm still feeling dizzy after all th
 
 [Scene=21
 [Content=
-I swear to God, it’s not!!![Wait=500][Space=2]
-Listen, it seems like you’re the only one I can rely on right now.[Wait=500][Space=2]
-You’re literally the first person I’ve talked to in the past few hours, or even days![Wait=500][Space=2]
-You’re my only way to communicate with the outside world, it’s just a matter of keeping my sanity at this point![Wait=500][Space=2]
+I swear to God, it's not!!![Wait=500][Space=2]
+Listen, it seems like you're the only one I can rely on right now.[Wait=500][Space=2]
+You're literally the first person I've talked to in the past few hours, or even days![Wait=500][Space=2]
+You're my only way to communicate with the outside world, it's just a matter of keeping my sanity at this point![Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=22][Content=I should call the police.]]
@@ -270,7 +270,7 @@ You’re my only way to communicate with the outside world, it’s just a matter
 [Scene=22
 [Connection=2]
 [Content=
-PLEASE DON’T HANG UP! I just need someone to talk to![Wait=500][Space=2]
+PLEASE DON'T HANG UP! I just need someone to talk to![Wait=500][Space=2]
 I have no idea if either of us will even be able to call again if you hang up![Wait=500][Space=2]
 Wh-[Wait=500] Whatever is happening to me is beyond anything they could believe anyway![Wait=500][Space=2]
 ...[Wait=500][Space=2]
@@ -301,12 +301,12 @@ PLEA-[Color=Gray]*B[Beep=True]eep*[Color=White]...[Wait=500][Space=2]
 [Scene=24
 [Connection=2]
 [Content=
-I have no idea! Your number was on that phone, that’s the only thing I know![Wait=500][Space=2]
-You can’t just ignore the fact that you’ve got something to do with this bullshit![Wait=500][Space=2]
-You can’t just leave me like that![Wait=500][Space=2]
+I have no idea! Your number was on that phone, that's the only thing I know![Wait=500][Space=2]
+You can't just ignore the fact that you've got something to do with this bullshit![Wait=500][Space=2]
+You can't just leave me like that![Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=25][Content=I have nothing to do with you. Please, don’t call me again.]]
+[Choice1=[NextScene=25][Content=I have nothing to do with you. Please, don't call me again.]]
 [Choice2=[NextScene=27][Content=Fine... How can I help you?]]
 ]
 ]
@@ -350,14 +350,14 @@ I'm sorry to take your time like that, but I haven't really got a choice.[Wait=5
 [Scene=28
 [Content=
 O-Okay! I gotta get out of the building first, just stay with me.[Wait=500][Space=2]
-[Color=Gray]*You hear the person’s footsteps echoing through the supermarket*[Color=White]...[Wait=500][Space=2]
-This place is huge, you don’t realize that until the mall’s empty.[Wait=500] Just, what happened he-...[Wait=500][Space=2]
+[Color=Gray]*You hear the person's footsteps echoing through the supermarket*[Color=White]...[Wait=500][Space=2]
+This place is huge, you don't realize that until the mall's empty.[Wait=500] Just, what happened he-...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
 I hear something.[Wait=500] Mechanical, screeching kind of noise.[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=29][Content=That sounds dangerous. Can’t you just go back?]]
-[Choice2=[NextScene=30][Content=Maybe someone’s there! You should go check it out.]]
+[Choice1=[NextScene=29][Content=That sounds dangerous. Can't you just go back?]]
+[Choice2=[NextScene=30][Content=Maybe someone's there! You should go check it out.]]
 ]
 ]
 
@@ -370,7 +370,7 @@ If there's any living soul in here that knows what the fuck is going on, I'll ju
 ]
 [Choices=
 [Choice1=[NextScene=30][TrustAdd=25][Content=You might be right. Any help is welcome at this point.]]
-[Choice2=[NextScene=31][TrustAdd=-25][Content=Do what you want. Just don’t blame me if you get hurt.]]
+[Choice2=[NextScene=31][TrustAdd=-25][Content=Do what you want. Just don't blame me if you get hurt.]]
 ]
 ]
 
@@ -534,7 +534,7 @@ Shelves are filled with rotten fruits and vegeta-...[Wait=500][Space=2]
 [Color=Gray]*Glurp*[Color=White]...[Wait=500] Oh lord, I almost threw up...[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=45][Content=Maybe it’s a better idea to check out the craft section...]]
+[Choice1=[NextScene=45][Content=Maybe it's a better idea to check out the craft section...]]
 [Choice2=[NextScene=46][Content=Can you keep going? There might be something interesting here.]]
 ]
 ]
@@ -594,7 +594,7 @@ There is some door-wedge and rusty nails...[Wait=500] Nothing that could be usef
 Yeah, I guess, but it's on-[Color=Gray]*Glurp*[Color=White]...[Wait=500] Only because you asked me nicely...[Wait=500][Space=2]
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500] Good heavens, aren't these trash supposed to be eaten by the bugs?[Wait=500][Space=2]
 Wait?[Wait=500] There's a cereal bar over here that still is good to eat![Wait=500][Space=2]
-[Color=Gray]*Crunch*[Color=White]...[Wait=500] Yum... That’s good to eat something...[Wait=500] [Color=Gray]*Gulp*[Color=White]...[Wait=500] Ah yes, I needed that.[Wait=500][Space=2]
+[Color=Gray]*Crunch*[Color=White]...[Wait=500] Yum... That's good to eat something...[Wait=500] [Color=Gray]*Gulp*[Color=White]...[Wait=500] Ah yes, I needed that.[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=50][Content=Are you finished eating? Is there anything else here?]]
@@ -767,8 +767,8 @@ I'm still stuck on this island![Wait=500] I need your help until I get out of he
 I know that you didn't expect to help me today, but we're talking about life and death at this point.[Wait=500][Space=2]
 ]
 [Choices=
-[Choice1=[NextScene=60][TrustAdd=-25][Content=I must’ve missed the part where your life became my problem.]]
-[Choice2=[NextScene=61][TrustAdd=25][Content=That’s fair enough. Let’s move forward.]]
+[Choice1=[NextScene=60][TrustAdd=-25][Content=I must've missed the part where your life became my problem.]]
+[Choice2=[NextScene=61][TrustAdd=25][Content=That's fair enough. Let's move forward.]]
 ]
 ]
 
