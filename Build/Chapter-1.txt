@@ -16,7 +16,7 @@
 [Connection=2]
 [Content=
 [Color=Gray]*Click*[Color=White]...[Wait=500][Space=2]
-[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] H-Hello? Is someone there-[Color=Gray]*SHKRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
+[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] H-Hello?[Wait=500] Is someone there-[Color=Gray]*SHKRRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 How does this thing wor-[Color=Gray]*SHKRRRRRRRRRR*[Color=White]...[Wait=500] Can you hear m-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 Hello?[Wait=500][Space=2]
 ]
@@ -44,7 +44,7 @@ Hello?[Wait=500][Space=2]
 [Scene=4
 [Content=
 [Color=Gray]*SHKRRRRRR*[Color=White]-MY GOD! I've been stuck here-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]-for days. It feels so good to hear someone's voice...[Wait=500][Space=2]
-[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-Any idea what's happening? Who are y-[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-I, and why am I here?[Wait=500][Space=2]
+[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-Any idea what's happening?[Wait=500] Who are y-[Color=Gray]*SHKRRRRRRRRRRRRRRRR*[Color=White]-I, and why am I here?[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=5][Content=Who are you?]]
@@ -69,7 +69,7 @@ Are-[Color=Gray]*SHKRRRRRRRR*[Color=White]-still there?[Wait=500][Space=2]
 Fuck! The signal's scram-[Color=Gray]*SHKRRRRRRRRR*[Color=White]...[Wait=500] There must be a way to-[Color=Gray]*SHKRRRRRRRRRRR*[Color=White]...[Wait=500] [Color=Gray]*Snap*[Color=White]...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
-...[Wait=500] A-Are you there? Can you hear me more clearly?[Wait=500][Space=2]
+...[Wait=500] A-Are you there?[Wait=500] Can you hear me more clearly?[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=7][Content=Yeah, I think so?]]
@@ -130,7 +130,7 @@ There's nothing else on that piece of junk, no contacts, no internet access, jus
 
 [Scene=11
 [Content=
-Th-[Wait=500] This place feels empty, like I said,[Wait=500] but you don't wake up in a ghost-town-looking place and feel safe.[Wait=500][Space=2]
+Th-[Wait=500] This place feels empty, like I said[Wait=500], but you don't wake up in a ghost-town-looking place and feel safe.[Wait=500][Space=2]
 ...[Wait=500][Space=2]
 I mean, how does something like this even happen?[Wait=500][Space=2]
 It's all just like a bad hangover![Wait=500][Space=2]
@@ -145,7 +145,7 @@ It's all just like a bad hangover![Wait=500][Space=2]
 [Content=
 Hard to tell...[Wait=500] But I'm not going to lie, it's hard not to freak out about waking up on a random island...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
-I-[Wait=500] Who knows what could be hiding in those buildings? Ha-[Wait=500] It's hard to stay rational after what happened to me![Wait=500][Space=2]
+I-[Wait=500] Who knows what could be hiding in those buildings?[Wait=500] Ha-[Wait=500] It's hard to stay rational after what happened to me![Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=18][Content=Where exactly are you?]]
@@ -461,7 +461,7 @@ Even if I don't think I can go fast enough to compete against this escalator, eh
 [Connection=2]
 [Content=
 Hum...[Wait=500][Space=2]
-Okay? It might lead somewhere interesting.[Wait=500][Space=2]
+Okay?[Wait=500] It might lead somewhere interesting.[Wait=500][Space=2]
 I just have to...[Wait=500] take a step at the right...[Wait=500] time...[Wait=500][Space=2]
 WOOAAH SHI-[Color=Gray]*THUMP*[Color=White]...[Wait=500][Space=2]
 ...[Wait=500][Space=2]
@@ -765,7 +765,7 @@ I don't hear the escalator anymore. I think we stopped it.[Wait=500][Space=2]
 [Scene=57
 [Content=
 I'm going to check it out...[Wait=500][Space=2]
-Damn,[Wait=500] I wonder what would've happened if we didn't type the password in time.[Wait=500][Space=2]
+Damn[Wait=500], I wonder what would've happened if we didn't type the password in time.[Wait=500][Space=2]
 Probably better not to think about it.[Wait=500][Space=2]
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500][Space=2]
 Yeah, I can see it from here. The escalator really stopped.[Wait=500][Space=2]

@@ -298,7 +298,7 @@ Now, this philosophical question is interesting, but it won't help me escape fro
 [Content=
 Ah![Wait=500] You act all confident, but you couldn't handle a quarter of what I'm going through![Wait=500][Space=2]
 ...[Wait=500] I'm the one making fun of you, but in the end, I'm still the one stuck on this island...[Wait=500] Ironic.[Wait=500][Space=2]
-It might be the right time to come back to the main question,[Wait=500] what is this place?[Wait=500][Space=2]
+It might be the right time to come back to the main question[Wait=500], what is this place?[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=27][Content=What's around you again?]]
@@ -437,9 +437,9 @@ I'm starting to see a pattern in these puzzles...[Wait=500][Space=2]
 
 [Scene=34
 [Content=
-It says,[Wait=500][Space=2]
-"IN CASE THE MADNESS MAKES YOU FORGET:[Wait=500][Space=2]
-[Color=Green]- FIRST LETTER = CITY NAME.[Wait=500][Space=2]
+It says[Wait=500],[Space=2]
+[Color=Green]"IN CASE THE MADNESS MAKES YOU FORGET:[Wait=500][Space=2]
+- FIRST LETTER = CITY NAME.[Wait=500][Space=2]
 - SECOND LETTER = ARTIST NAME.[Wait=500][Space=2]
 - THIRD LETTER = TRANSLATED IN ENGLISH.[Color=White][Wait=500][Space=2]
 KEEP EVERYONE OUT AT ALL COSTS."[Wait=500][Space=2]
@@ -837,7 +837,7 @@ Why did you stop spea-[Color=Gray]*SHKRRRRRRRRRRRR*[Color=White]...[Wait=500][Sp
 [Content=
 SPEAK TO M-[Color=Gray]*SHKRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 I don-[Color=Gray]*SHKRRRRR*[Color=White]-ear you![Wait=500][Space=2]
-[Color=Magenta][Beep=True]He[Wait=500][Beep=True] cA[Wait=500][Beep=True] n'T[Wait=500][Beep=True]  He[Wait=500][Beep=True] aR[Wait=500][Beep=True] yO[Wait=500][Beep=True] u aN[Wait=500][Beep=True] yMo[Wait=500][Beep=True] re,[Wait=500][Beep=True]  bUt[Wait=500][Beep=True]  i[Wait=500][Beep=True] cA[Wait=500][Beep=True] n He[Wait=500][Beep=True] lP[Wait=500][Beep=True] hIm.[Color=White][Wait=500][Space=2]
+[Color=Magenta][Beep=True]He[Wait=500][Beep=True] cA[Wait=500][Beep=True] n'T[Wait=500][Beep=True]  He[Wait=500][Beep=True] aR[Wait=500][Beep=True] yO[Wait=500][Beep=True] u aN[Wait=500][Beep=True] yMo[Wait=500][Beep=True] re[Wait=500],[Beep=True]  bUt[Wait=500][Beep=True]  i[Wait=500][Beep=True] cA[Wait=500][Beep=True] n He[Wait=500][Beep=True] lP[Wait=500][Beep=True] hIm.[Color=White][Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=67][Content=Who is this?]]
@@ -857,7 +857,7 @@ Where should I g-[Color=Gray]*SHKRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 
 [Scene=68
 [Content=
-[Color=Magenta][Beep=True]I[Wait=500][Beep=True] hAvE[Wait=500][Beep=True] nO[Wait=500][Beep=True] pRoOf[Wait=500][Beep=True] tO[Wait=500][Beep=True] pRoViDe,[Wait=500][Beep=True] bUt[Wait=500][Beep=True] hE'Ll[Wait=500][Beep=True] bE[Wait=500][Beep=True] hUrT[Wait=500][Beep=True] iF[Wait=500][Beep=True] yOu[Wait=500][Beep=True] dO[Wait=500][Beep=True] nOtHiNg.[Color=White][Wait=500][Space=2]
+[Color=Magenta][Beep=True]I[Wait=500][Beep=True] hAvE[Wait=500][Beep=True] nO[Wait=500][Beep=True] pRoOf[Wait=500][Beep=True] tO[Wait=500][Beep=True] pRoViDe[Wait=500],[Beep=True] bUt[Wait=500][Beep=True] hE'Ll[Wait=500][Beep=True] bE[Wait=500][Beep=True] hUrT[Wait=500][Beep=True] iF[Wait=500][Beep=True] yOu[Wait=500][Beep=True] dO[Wait=500][Beep=True] nOtHiNg.[Color=White][Wait=500][Space=2]
 [Color=Gray]*SHKRRRRRRR*[Color=White]-Move forward?[Wait=500][Space=2]
 ]
 [Choices=
@@ -892,7 +892,7 @@ Where should I g-[Color=Gray]*SHKRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 [Scene=71
 [Timer=7]
 [Content=
-[Color=Magenta][Beep=True]To[Wait=500][Beep=True] sAvE[Wait=500][Beep=True] tHe[Wait=500][Beep=True] wOrLD,[Wait=500][Beep=True] wOuLD[Wait=500][Beep=True] yOu[Wait=500][Beep=True] sAcRiFiCe[Wait=500][Beep=True] tHe[Wait=500][Beep=True] oNe[Wait=500][Beep=True] yOu[Wait=500][Beep=True] hElP[Wait=500][Beep=True] sInCe[Wait=500][Beep=True] tHe[Wait=500][Beep=True] bEgInNiNg?[Color=White][Wait=500][Space=2]
+[Color=Magenta][Beep=True]To[Wait=500][Beep=True] sAvE[Wait=500][Beep=True] tHe[Wait=500][Beep=True] wOrLD[Wait=500],[Beep=True] wOuLD[Wait=500][Beep=True] yOu[Wait=500][Beep=True] sAcRiFiCe[Wait=500][Beep=True] tHe[Wait=500][Beep=True] oNe[Wait=500][Beep=True] yOu[Wait=500][Beep=True] hElP[Wait=500][Beep=True] sInCe[Wait=500][Beep=True] tHe[Wait=500][Beep=True] bEgInNiNg?[Color=White][Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=72][TrustAdd=25][Content=Yes?]]
@@ -904,7 +904,7 @@ Where should I g-[Color=Gray]*SHKRRRRRRRRRR*[Color=White]...[Wait=500][Space=2]
 [Scene=72
 [Timer=7]
 [Content=
-[Color=Magenta][Beep=True]I[Wait=500][Beep=True] f yOu[Wait=500][Beep=True]  wErE aT[Wait=500][Beep=True]  iTs[Wait=500][Beep=True]  pLaCe,[Wait=500][Beep=True]  wOuLd[Wait=500][Beep=True]  yOu[Wait=500][Beep=True]  hAvE[Wait=500][Beep=True]  tRuStEd[Wait=500][Beep=True]  tHe[Wait=500][Beep=True]  oNe[Wait=500][Beep=True]  bEhInD[Wait=500][Beep=True]  tHe[Wait=500][Beep=True]  pHoNe[Wait=500][Beep=True]  yOu[Wait=500][Beep=True]  fOuNd?[Color=White][Wait=500][Space=2]
+[Color=Magenta][Beep=True]I[Wait=500][Beep=True] f yOu[Wait=500][Beep=True]  wErE aT[Wait=500][Beep=True]  iTs[Wait=500][Beep=True]  pLaCe[Wait=500],[Beep=True]  wOuLd[Wait=500][Beep=True]  yOu[Wait=500][Beep=True]  hAvE[Wait=500][Beep=True]  tRuStEd[Wait=500][Beep=True]  tHe[Wait=500][Beep=True]  oNe[Wait=500][Beep=True]  bEhInD[Wait=500][Beep=True]  tHe[Wait=500][Beep=True]  pHoNe[Wait=500][Beep=True]  yOu[Wait=500][Beep=True]  fOuNd?[Color=White][Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=73][TrustAdd=25][Content=Yes!]]
@@ -960,7 +960,7 @@ Anyway, let's focus on the most important question.[Wait=500] WHO WAS THAT?[Wait
 [Scene=77
 [Content=
 Are you serious...[Wait=500][Space=2]
-You know what? Forget it...[Wait=500] The most important thing is who the hell was this person asking you all this?[Wait=500][Space=2]
+You know what?[Wait=500] Forget it...[Wait=500] The most important thing is who the hell was this person asking you all this?[Wait=500][Space=2]
 ]
 [Choices=
 [Choice1=[NextScene=78][Content=I have no idea!]]
@@ -1202,7 +1202,7 @@ You were here before, huh?[Wait=500] Planning the next puzzle and pretending to 
 You're the crazy one here, cloning yourself and watching others suffer with this mad scientist![Wait=500][Space=2]
 ...[Wait=500] Oh![Wait=500] Look![Wait=500] How unfortunate for you![Wait=500][Space=2]
 "This button should only be used in case the Emotoxin breaches out.[Wait=500][Space=2]
-The explosion will eradicate all living organisms in a 5-kilometer radius."[Wait=500][Space=2]
+The explosion will eradicate all living organisms in a 5-kilometer radius."...[Wait=500][Space=2]
 ...[Wait=500] You really put a self-destruct button here?[Wait=500] Too bad, because I'm going to press it.[Wait=500][Space=2]
 ]
 [Choices=
