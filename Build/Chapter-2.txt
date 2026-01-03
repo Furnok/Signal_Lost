@@ -398,7 +398,7 @@ I thought the same thing...[Wait=500][Space=2]
 I'm not here to appreciate the beauty of handmade art.[Wait=500][Space=2]
 I'm here to GET OFF THIS ISLAND![Wait=500] FUCK YOU, ART![Wait=500][Space=2]
 [Color=Gray]*CRACK*[Color=White]...[Wait=500][Space=2]
-Shit, I didn't know kicking a statue could dislocate its leg-.[Wait=500][Space=2]
+Shit, I didn't know kicking a statue could dislocate its leg-...[Wait=500][Space=2]
 [Color=Gray]*RUMBLE*[Color=White]...[Wait=500][Space=2]
 Huh?[Wait=500][Space=2]
 ]
@@ -410,7 +410,7 @@ Huh?[Wait=500][Space=2]
 [Scene=32
 [Content=
 I-I don't know. The ground shook for a second...[Wait=500][Space=2]
-Wait...[Wait=500] What's tha-.[Wait=500][Space=2]
+Wait...[Wait=500] What's tha-...[Wait=500][Space=2]
 ...Did a motherfucking door just appear at the back of the museum?![Wait=500][Space=2]
 Did I really activate a mechanism at random because of my rage?[Wait=500][Space=2]
 ]
@@ -632,7 +632,7 @@ Now for the last letter. It's [Color=Green]"TRANSLATED IN ENGLISH"[Color=White].
 [Scene=49
 [Connection=2]
 [Content=
-[Color=Gray]*B[Beep=True]UZZ*[Color=White]...[Wait=500] That wasn't a reassuring sou-.[Wait=500][Space=2]
+[Color=Gray]*B[Beep=True]UZZ*[Color=White]...[Wait=500] That wasn't a reassuring sou-...[Wait=500][Space=2]
 [Color=Red]PASSWORD INCORRECT.[Wait=500] ENGAGING ANTI-INTRUDER PROTOCOL.[Color=White][Wait=500][Space=2]
 ...W-[Wait=500] What?[Wait=500] What does that even mean?[Wait=500][Space=2]
 [Color=Gray]*Cough*[Color=White]...[Wait=500] You gave me the wrong letter![Wait=500][Space=2]
@@ -983,7 +983,7 @@ Wait...[Wait=500] Those footsteps weren't mine...[Wait=500][Space=2]
 [Content=
 [Color=Gray]*Footsteps*[Color=White]...[Wait=500] It's getting closer![Wait=500][Space=2]
 [Color=Gray]*SLAM*[Color=White]...[Wait=500][Space=2]
-I locked myself inside a room...[Wait=500] I think I'm safe n-.[Wait=500][Space=2]
+I locked myself inside a room...[Wait=500] I think I'm safe n-...[Wait=500][Space=2]
 [Color=Yellow]It's useless to hide, you know?[Wait=500] I know where you are at all times.[Color=White][Wait=500][Space=2]
 ]
 [Choices=
@@ -1340,7 +1340,7 @@ I know which one it is since I've got the same memories as you, eheh![Wait=500][
 
 [Scene=106
 [Content=
-Ahahah![Wait=500] That's tru-.[Wait=500][Space=2]
+Ahahah![Wait=500] That's tru-...[Wait=500][Space=2]
 [Color=Yellow]We have to go.[Color=White][Wait=500][Space=2]
 O-Oh...[Wait=500] Well, I guess it's a goodbye.[Wait=500][Space=2]
 I really hope to see you again.[Wait=500] Until then, believe in yourself.[Wait=500] I know we're great people.[Wait=500][Space=2]
